@@ -1,0 +1,1331 @@
+PATH,TYPE,VALUE,MTIME
+/,KEY,,2004-08-19 16:56:14
+/1137,KEY,,2004-08-19 16:56:14
+/1137/Execute,KEY,,2004-08-19 16:56:14
+/1137/Execute/1,KEY,,2004-08-19 16:56:14
+/1137/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Fix-Folders,
+/1137/Execute/2,KEY,,2004-08-19 16:56:14
+/1137/Execute/2/CommandLine,EXPAND_SZ,grpconv -p,
+/1138,KEY,,2004-08-19 16:56:14
+/1138/Hive,KEY,,2004-08-19 16:56:14
+/1138/Hive/1,KEY,,2004-08-19 16:56:14
+/1138/Hive/1/Action,DWORD,0x00000003,
+/1138/Hive/1/KeyName,SZ,Control Panel\Colors,
+/1138/Hive/1/Value,SZ,128 128 128,
+/1138/Hive/1/ValueName,SZ,InactiveTitle,
+/1138/Hive/2,KEY,,2004-08-19 16:56:14
+/1138/Hive/2/Action,DWORD,0x00000003,
+/1138/Hive/2/KeyName,SZ,Control Panel\Colors,
+/1138/Hive/2/Value,SZ,255 255 255,
+/1138/Hive/2/ValueName,SZ,InactiveTitleText,
+/1138/Hive/3,KEY,,2004-08-19 16:56:14
+/1138/Hive/3/Action,DWORD,0x00000003,
+/1138/Hive/3/KeyName,SZ,Control Panel\Colors,
+/1138/Hive/3/Value,SZ,192 192 192,
+/1138/Hive/3/ValueName,SZ,Menu,
+/1138/Hive/4,KEY,,2004-08-19 16:56:14
+/1138/Hive/4/Action,DWORD,0x00000003,
+/1138/Hive/4/KeyName,SZ,SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer,
+/1138/Hive/4/Value,DWORD,0x00000095,
+/1138/Hive/4/ValueName,SZ,NoDriveTypeAutoRun,
+/1138/Hive/5,KEY,,2004-08-19 16:56:14
+/1138/Hive/5/Action,DWORD,0x00000001,
+/1138/Hive/5/KeyName,SZ,Control Panel\Desktop\WindowMetrics,
+/1140,KEY,,2004-08-19 16:56:14
+/1140/Hive,KEY,,2004-08-19 16:56:14
+/1140/Hive/1,KEY,,2004-08-19 16:56:14
+/1140/Hive/1/Action,DWORD,0x00000001,
+/1140/Hive/1/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1156,KEY,,2004-08-19 16:56:14
+/1156/Hive,KEY,,2004-08-19 16:56:14
+/1156/Hive/1,KEY,,2004-08-19 16:56:14
+/1156/Hive/1/Action,DWORD,0x00000003,
+/1156/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1156/Hive/1/Value,SZ,2,
+/1156/Hive/1/ValueName,SZ,FontSmoothing,
+/1169,KEY,,2004-08-19 16:56:14
+/1169/Hive,KEY,,2004-08-19 16:56:14
+/1169/Hive/1,KEY,,2004-08-19 16:56:14
+/1169/Hive/1/Action,DWORD,0x00000002,
+/1169/Hive/1/KeyName,SZ,Control Panel\Color Schemes,
+/1174,KEY,,2004-08-19 16:56:14
+/1174/Files,KEY,,2004-08-19 16:56:14
+/1174/Files/1,KEY,,2004-08-19 16:56:14
+/1174/Files/1/Action,DWORD,0x00000004,
+/1174/Files/1/Item,SZ,main\Introducing Windows NT.lnk,
+/1174/Files/10,KEY,,2004-08-19 16:56:14
+/1174/Files/10/Action,DWORD,0x00000004,
+/1174/Files/10/Item,SZ,main\ClipBook Viewer.lnk,
+/1174/Files/11,KEY,,2004-08-19 16:56:14
+/1174/Files/11/Action,DWORD,0x00000004,
+/1174/Files/11/Item,SZ,main\Print Manager.lnk,
+/1174/Files/12,KEY,,2004-08-19 16:56:14
+/1174/Files/12/Action,DWORD,0x00000004,
+/1174/Files/12/Item,SZ,main\Books Online.lnk,
+/1174/Files/13,KEY,,2004-08-19 16:56:14
+/1174/Files/13/Action,DWORD,0x00000004,
+/1174/Files/13/Item,SZ,games\Solitaire.lnk,
+/1174/Files/14,KEY,,2004-08-19 16:56:14
+/1174/Files/14/Action,DWORD,0x00000004,
+/1174/Files/14/Item,SZ,games\Minesweeper.lnk,
+/1174/Files/15,KEY,,2004-08-19 16:56:14
+/1174/Files/15/Action,DWORD,0x00000004,
+/1174/Files/15/Item,SZ,games\Freecell.lnk,
+/1174/Files/16,KEY,,2004-08-19 16:56:14
+/1174/Files/16/Action,DWORD,0x00000004,
+/1174/Files/16/Item,SZ,accessories\Media Player.lnk,
+/1174/Files/17,KEY,,2004-08-19 16:56:14
+/1174/Files/17/Action,DWORD,0x00000004,
+/1174/Files/17/Item,SZ,accessories\Sound Recorder.lnk,
+/1174/Files/18,KEY,,2004-08-19 16:56:14
+/1174/Files/18/Action,DWORD,0x00000004,
+/1174/Files/18/Item,SZ,accessories\Volume Control.lnk,
+/1174/Files/19,KEY,,2004-08-19 16:56:14
+/1174/Files/19/Action,DWORD,0x00000004,
+/1174/Files/19/Item,SZ,accessories\CD Player.lnk,
+/1174/Files/2,KEY,,2004-08-19 16:56:14
+/1174/Files/2/Action,DWORD,0x00000004,
+/1174/Files/2/Item,SZ,main\Introducing Windows NT.pif,
+/1174/Files/20,KEY,,2004-08-19 16:56:14
+/1174/Files/20/Action,DWORD,0x00000004,
+/1174/Files/20/Item,SZ,accessories\Paintbrush.lnk,
+/1174/Files/3,KEY,,2004-08-19 16:56:14
+/1174/Files/3/Action,DWORD,0x00000004,
+/1174/Files/3/Item,SZ,main\PIF Editor.lnk,
+/1174/Files/4,KEY,,2004-08-19 16:56:14
+/1174/Files/4/Action,DWORD,0x00000004,
+/1174/Files/4/Item,SZ,main\Control Panel.lnk,
+/1174/Files/5,KEY,,2004-08-19 16:56:14
+/1174/Files/5/Action,DWORD,0x00000004,
+/1174/Files/5/Item,SZ,main\File Manager.lnk,
+/1174/Files/6,KEY,,2004-08-19 16:56:14
+/1174/Files/6/Action,DWORD,0x00000004,
+/1174/Files/6/Item,SZ,main\Command Prompt.lnk,
+/1174/Files/7,KEY,,2004-08-19 16:56:14
+/1174/Files/7/Action,DWORD,0x00000004,
+/1174/Files/7/Item,SZ,main\Windows NT Setup.lnk,
+/1174/Files/8,KEY,,2004-08-19 16:56:14
+/1174/Files/8/Action,DWORD,0x00000004,
+/1174/Files/8/Item,SZ,main\Read Me.lnk,
+/1174/Files/9,KEY,,2004-08-19 16:56:14
+/1174/Files/9/Action,DWORD,0x00000004,
+/1174/Files/9/Item,SZ,main\Windows NT Help.lnk,
+/1174/Hive,KEY,,2004-08-19 16:56:14
+/1174/Hive/1,KEY,,2004-08-19 16:56:14
+/1174/Hive/1/Action,DWORD,0x00000004,
+/1174/Hive/1/Flags,DWORD,0x00000000,
+/1174/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1174/Hive/1/ValueNames,MULTI_SZ,BorderWidth,
+/1174/Hive/2,KEY,,2004-08-19 16:56:14
+/1174/Hive/2/Action,DWORD,0x00000003,
+/1174/Hive/2/KeyName,SZ,Control Panel\Desktop\WindowMetrics,
+/1174/Hive/2/Value,SZ,1,
+/1174/Hive/2/ValueName,SZ,BorderWidth,
+/1175,KEY,,2004-08-19 16:56:14
+/1175/Hive,KEY,,2004-08-19 16:56:14
+/1175/Hive/1,KEY,,2004-08-19 16:56:14
+/1175/Hive/1/Action,DWORD,0x00000003,
+/1175/Hive/1/KeyName,SZ,Control Panel\Colors,
+/1175/Hive/1/Value,SZ,192 192 192,
+/1175/Hive/1/ValueName,SZ,ButtonLight,
+/1180,KEY,,2004-08-19 16:56:14
+/1180/Execute,KEY,,2004-08-19 16:56:14
+/1180/Execute/1,KEY,,2004-08-19 16:56:14
+/1180/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe W,
+/1180/Execute/2,KEY,,2004-08-19 16:56:14
+/1180/Execute/2/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Cvt-Curs,
+/1180/Execute/3,KEY,,2004-08-19 16:56:14
+/1180/Execute/3/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Fix-Curs,
+/1191,KEY,,2004-08-19 16:56:14
+/1191/Hive,KEY,,2004-08-19 16:56:14
+/1191/Hive/1,KEY,,2004-08-19 16:56:14
+/1191/Hive/1/Action,DWORD,0x00000003,
+/1191/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1191/Hive/1/Value,SZ,3,
+/1191/Hive/1/ValueName,SZ,CoolSwitchRows,
+/1191/Hive/2,KEY,,2004-08-19 16:56:14
+/1191/Hive/2/Action,DWORD,0x00000003,
+/1191/Hive/2/KeyName,SZ,Control Panel\Desktop,
+/1191/Hive/2/Value,SZ,7,
+/1191/Hive/2/ValueName,SZ,CoolSwitchColumns,
+/1197,KEY,,2004-08-19 16:56:14
+/1197/Files,KEY,,2004-08-19 16:56:14
+/1197/Files/1,KEY,,2004-08-19 16:56:14
+/1197/Files/1/Action,DWORD,0x00000004,
+/1197/Files/1/Item,SZ,Accessories\Terminal.lnk,
+/1228,KEY,,2004-08-19 16:56:14
+/1228/Hive,KEY,,2004-08-19 16:56:14
+/1228/Hive/1,KEY,,2004-08-19 16:56:14
+/1228/Hive/1/Action,DWORD,0x00000001,
+/1228/Hive/1/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Telephony\HandoffPriorities,
+/1228/Hive/2,KEY,,2004-08-19 16:56:14
+/1228/Hive/2/Action,DWORD,0x00000003,
+/1228/Hive/2/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Telephony\HandoffPriorities,
+/1228/Hive/2/Value,SZ,dialer.exe,
+/1228/Hive/2/ValueName,SZ,RequestMakeCall,
+/1248,KEY,,2004-08-19 16:56:14
+/1248/Hive,KEY,,2004-08-19 16:56:14
+/1248/Hive/1,KEY,,2004-08-19 16:56:14
+/1248/Hive/1/Action,DWORD,0x00000004,
+/1248/Hive/1/Flags,DWORD,0x00000000,
+/1248/Hive/1/KeyName,SZ,Control Panel\Colors,
+/1248/Hive/1/ValueNames,MULTI_SZ,Inactive Title Text,
+/1248/Hive/2,KEY,,2004-08-19 16:56:14
+/1248/Hive/2/Action,DWORD,0x00000004,
+/1248/Hive/2/Flags,DWORD,0x00000000,
+/1248/Hive/2/KeyName,SZ,Control Panel\Colors,
+/1248/Hive/2/ValueNames,MULTI_SZ,Inactive Title,
+/1257,KEY,,2004-08-19 16:56:14
+/1257/Files,KEY,,2004-08-19 16:56:14
+/1257/Files/1,KEY,,2004-08-19 16:56:14
+/1257/Files/1/Action,DWORD,0x00000004,
+/1257/Files/1/Item,SZ,accessories\Print Manager.lnk,
+/1257/Hive,KEY,,2004-08-19 16:56:14
+/1257/Hive/1,KEY,,2004-08-19 16:56:14
+/1257/Hive/1/Action,DWORD,0x00000001,
+/1257/Hive/1/KeyName,SZ,Control Panel\Accessibility,
+/1257/Hive/10,KEY,,2004-08-19 16:56:14
+/1257/Hive/10/Action,DWORD,0x00000003,
+/1257/Hive/10/KeyName,SZ,Control Panel\Accessibility\MouseKeys,
+/1257/Hive/10/Value,SZ,40,
+/1257/Hive/10/ValueName,SZ,MaximumSpeed,
+/1257/Hive/11,KEY,,2004-08-19 16:56:14
+/1257/Hive/11/Action,DWORD,0x00000003,
+/1257/Hive/11/KeyName,SZ,Control Panel\Accessibility\MouseKeys,
+/1257/Hive/11/Value,SZ,3000,
+/1257/Hive/11/ValueName,SZ,TimeToMaximumSpeed,
+/1257/Hive/12,KEY,,2004-08-19 16:56:14
+/1257/Hive/12/Action,DWORD,0x00000001,
+/1257/Hive/12/KeyName,SZ,Control Panel\Accessibility\ShowSounds,
+/1257/Hive/13,KEY,,2004-08-19 16:56:14
+/1257/Hive/13/Action,DWORD,0x00000003,
+/1257/Hive/13/KeyName,SZ,Control Panel\Accessibility\ShowSounds,
+/1257/Hive/13/Value,SZ,0,
+/1257/Hive/13/ValueName,SZ,On,
+/1257/Hive/14,KEY,,2004-08-19 16:56:14
+/1257/Hive/14/Action,DWORD,0x00000001,
+/1257/Hive/14/KeyName,SZ,Control Panel\Accessibility\SoundSentry,
+/1257/Hive/15,KEY,,2004-08-19 16:56:14
+/1257/Hive/15/Action,DWORD,0x00000003,
+/1257/Hive/15/KeyName,SZ,Control Panel\Accessibility\SoundSentry,
+/1257/Hive/15/Value,SZ,2,
+/1257/Hive/15/ValueName,SZ,Flags,
+/1257/Hive/16,KEY,,2004-08-19 16:56:14
+/1257/Hive/16/Action,DWORD,0x00000003,
+/1257/Hive/16/KeyName,SZ,Control Panel\Accessibility\SoundSentry,
+/1257/Hive/16/Value,SZ,0,
+/1257/Hive/16/ValueName,SZ,FSTextEffect,
+/1257/Hive/17,KEY,,2004-08-19 16:56:14
+/1257/Hive/17/Action,DWORD,0x00000003,
+/1257/Hive/17/KeyName,SZ,Control Panel\Accessibility\SoundSentry,
+/1257/Hive/17/Value,SZ,0,
+/1257/Hive/17/ValueName,SZ,WindowsEffect,
+/1257/Hive/18,KEY,,2004-08-19 16:56:14
+/1257/Hive/18/Action,DWORD,0x00000001,
+/1257/Hive/18/KeyName,SZ,Control Panel\Accessibility\StickyKeys,
+/1257/Hive/19,KEY,,2004-08-19 16:56:14
+/1257/Hive/19/Action,DWORD,0x00000003,
+/1257/Hive/19/KeyName,SZ,Control Panel\Accessibility\StickyKeys,
+/1257/Hive/19/Value,SZ,466,
+/1257/Hive/19/ValueName,SZ,Flags,
+/1257/Hive/2,KEY,,2004-08-19 16:56:14
+/1257/Hive/2/Action,DWORD,0x00000001,
+/1257/Hive/2/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/20,KEY,,2004-08-19 16:56:14
+/1257/Hive/20/Action,DWORD,0x00000001,
+/1257/Hive/20/KeyName,SZ,Control Panel\Accessibility\TimeOut,
+/1257/Hive/21,KEY,,2004-08-19 16:56:14
+/1257/Hive/21/Action,DWORD,0x00000003,
+/1257/Hive/21/KeyName,SZ,Control Panel\Accessibility\TimeOut,
+/1257/Hive/21/Value,SZ,2,
+/1257/Hive/21/ValueName,SZ,Flags,
+/1257/Hive/22,KEY,,2004-08-19 16:56:14
+/1257/Hive/22/Action,DWORD,0x00000003,
+/1257/Hive/22/KeyName,SZ,Control Panel\Accessibility\TimeOut,
+/1257/Hive/22/Value,SZ,300000,
+/1257/Hive/22/ValueName,SZ,TimeToWait,
+/1257/Hive/23,KEY,,2004-08-19 16:56:14
+/1257/Hive/23/Action,DWORD,0x00000001,
+/1257/Hive/23/KeyName,SZ,Control Panel\Accessibility\ToggleKeys,
+/1257/Hive/24,KEY,,2004-08-19 16:56:14
+/1257/Hive/24/Action,DWORD,0x00000003,
+/1257/Hive/24/KeyName,SZ,Control Panel\Accessibility\ToggleKeys,
+/1257/Hive/24/Value,SZ,18,
+/1257/Hive/24/ValueName,SZ,Flags,
+/1257/Hive/3,KEY,,2004-08-19 16:56:14
+/1257/Hive/3/Action,DWORD,0x00000003,
+/1257/Hive/3/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/3/Value,SZ,1000,
+/1257/Hive/3/ValueName,SZ,AutoRepeatDelay,
+/1257/Hive/4,KEY,,2004-08-19 16:56:14
+/1257/Hive/4/Action,DWORD,0x00000003,
+/1257/Hive/4/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/4/Value,SZ,500,
+/1257/Hive/4/ValueName,SZ,AutoRepeatRate,
+/1257/Hive/5,KEY,,2004-08-19 16:56:14
+/1257/Hive/5/Action,DWORD,0x00000003,
+/1257/Hive/5/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/5/Value,SZ,0,
+/1257/Hive/5/ValueName,SZ,BounceTime,
+/1257/Hive/6,KEY,,2004-08-19 16:56:14
+/1257/Hive/6/Action,DWORD,0x00000003,
+/1257/Hive/6/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/6/Value,SZ,1000,
+/1257/Hive/6/ValueName,SZ,DelayBeforeAcceptance,
+/1257/Hive/7,KEY,,2004-08-19 16:56:14
+/1257/Hive/7/Action,DWORD,0x00000003,
+/1257/Hive/7/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1257/Hive/7/Value,SZ,82,
+/1257/Hive/7/ValueName,SZ,Flags,
+/1257/Hive/8,KEY,,2004-08-19 16:56:14
+/1257/Hive/8/Action,DWORD,0x00000001,
+/1257/Hive/8/KeyName,SZ,Control Panel\Accessibility\MouseKeys,
+/1257/Hive/9,KEY,,2004-08-19 16:56:14
+/1257/Hive/9/Action,DWORD,0x00000003,
+/1257/Hive/9/KeyName,SZ,Control Panel\Accessibility\MouseKeys,
+/1257/Hive/9/Value,SZ,18,
+/1257/Hive/9/ValueName,SZ,Flags,
+/1262,KEY,,2004-08-19 16:56:14
+/1262/Hive,KEY,,2004-08-19 16:56:14
+/1262/Hive/1,KEY,,2004-08-19 16:56:14
+/1262/Hive/1/Action,DWORD,0x00000003,
+/1262/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1262/Hive/1/Value,SZ,400,
+/1262/Hive/1/ValueName,SZ,MenuShowDelay,
+/1271,KEY,,2004-08-19 16:56:14
+/1271/Files,KEY,,2004-08-19 16:56:14
+/1271/Files/1,KEY,,2004-08-19 16:56:14
+/1271/Files/1/Action,DWORD,0x00000003,
+/1271/Files/1/Item,SZ,Administrative Tools\Remote Access Admin.lnk,
+/1291,KEY,,2004-08-19 16:56:14
+/1291/Files,KEY,,2004-08-19 16:56:14
+/1291/Files/1,KEY,,2004-08-19 16:56:14
+/1291/Files/1/Action,DWORD,0x00000004,
+/1291/Files/1/Item,SZ,Administrative Tools\Disk Administrator.lnk,
+/1291/Files/1/Product,DWORD,0x00000000,
+/1291/Files/10,KEY,,2004-08-19 16:56:14
+/1291/Files/10/Action,DWORD,0x00000004,
+/1291/Files/10/Item,SZ,Administrative Tools\User Profile Editor.lnk,
+/1291/Files/10/Product,DWORD,0x00000001,
+/1291/Files/11,KEY,,2004-08-19 16:56:14
+/1291/Files/11/Action,DWORD,0x00000004,
+/1291/Files/11/Item,SZ,Administrative Tools\User Manager.lnk,
+/1291/Files/11/Product,DWORD,0x00000000,
+/1291/Files/12,KEY,,2004-08-19 16:56:14
+/1291/Files/12/Action,DWORD,0x00000004,
+/1291/Files/12/Item,SZ,Administrative Tools\DCOM Configuration.lnk,
+/1291/Files/12/Product,DWORD,0x00000000,
+/1291/Files/13,KEY,,2004-08-19 16:56:14
+/1291/Files/13/Action,DWORD,0x00000004,
+/1291/Files/13/Item,SZ,Administrative Tools\Administrative Wizards.lnk,
+/1291/Files/13/Product,DWORD,0x00000001,
+/1291/Files/14,KEY,,2004-08-19 16:56:14
+/1291/Files/14/Action,DWORD,0x00000004,
+/1291/Files/14/Item,SZ,Network Administration\Network Client Administrator.lnk,
+/1291/Files/14/Product,DWORD,0x00000001,
+/1291/Files/15,KEY,,2004-08-19 16:56:14
+/1291/Files/15/Action,DWORD,0x00000004,
+/1291/Files/15/Item,SZ,Network Administration\License Manager.lnk,
+/1291/Files/15/Product,DWORD,0x00000001,
+/1291/Files/16,KEY,,2004-08-19 16:56:14
+/1291/Files/16/Action,DWORD,0x00000004,
+/1291/Files/16/Item,SZ,Books Online.lnk,
+/1291/Files/16/Product,DWORD,0x00000002,
+/1291/Files/2,KEY,,2004-08-19 16:56:14
+/1291/Files/2/Action,DWORD,0x00000004,
+/1291/Files/2/Item,SZ,Administrative Tools\Performance Monitor.lnk,
+/1291/Files/2/Product,DWORD,0x00000000,
+/1291/Files/3,KEY,,2004-08-19 16:56:14
+/1291/Files/3/Action,DWORD,0x00000004,
+/1291/Files/3/Item,SZ,Administrative Tools\Backup.lnk,
+/1291/Files/3/Product,DWORD,0x00000000,
+/1291/Files/4,KEY,,2004-08-19 16:56:14
+/1291/Files/4/Action,DWORD,0x00000004,
+/1291/Files/4/Item,SZ,Administrative Tools\Event Viewer.lnk,
+/1291/Files/4/Product,DWORD,0x00000000,
+/1291/Files/5,KEY,,2004-08-19 16:56:14
+/1291/Files/5/Action,DWORD,0x00000004,
+/1291/Files/5/Item,SZ,Administrative Tools\Windows NT Diagnostics.lnk,
+/1291/Files/5/Product,DWORD,0x00000000,
+/1291/Files/6,KEY,,2004-08-19 16:56:14
+/1291/Files/6/Action,DWORD,0x00000004,
+/1291/Files/6/Item,SZ,Administrative Tools\Remote Access Admin.lnk,
+/1291/Files/6/Product,DWORD,0x00000000,
+/1291/Files/7,KEY,,2004-08-19 16:56:14
+/1291/Files/7/Action,DWORD,0x00000004,
+/1291/Files/7/Item,SZ,Administrative Tools\User Manager for Domains.lnk,
+/1291/Files/7/Product,DWORD,0x00000001,
+/1291/Files/8,KEY,,2004-08-19 16:56:14
+/1291/Files/8/Action,DWORD,0x00000004,
+/1291/Files/8/Item,SZ,Administrative Tools\Server Manager.lnk,
+/1291/Files/8/Product,DWORD,0x00000001,
+/1291/Files/9,KEY,,2004-08-19 16:56:14
+/1291/Files/9/Action,DWORD,0x00000004,
+/1291/Files/9/Item,SZ,Administrative Tools\Migration Tool for NetWare.lnk,
+/1291/Files/9/Product,DWORD,0x00000001,
+/1324,KEY,,2004-08-19 16:56:14
+/1324/Hive,KEY,,2004-08-19 16:56:14
+/1324/Hive/1,KEY,,2004-08-19 16:56:14
+/1324/Hive/1/Action,DWORD,0x00000003,
+/1324/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1324/Hive/1/Value,SZ,2,
+/1324/Hive/1/ValueName,SZ,DragHeight,
+/1324/Hive/2,KEY,,2004-08-19 16:56:14
+/1324/Hive/2/Action,DWORD,0x00000003,
+/1324/Hive/2/KeyName,SZ,Control Panel\Desktop,
+/1324/Hive/2/Value,SZ,2,
+/1324/Hive/2/ValueName,SZ,DragWidth,
+/1324/Hive/3,KEY,,2004-08-19 16:56:14
+/1324/Hive/3/Action,DWORD,0x00000003,
+/1324/Hive/3/KeyName,SZ,Control Panel\Desktop,
+/1324/Hive/3/Value,SZ,3,
+/1324/Hive/3/ValueName,SZ,WheelScrollLines,
+/1342,KEY,,2004-08-19 16:56:14
+/1342/Hive,KEY,,2004-08-19 16:56:14
+/1342/Hive/1,KEY,,2004-08-19 16:56:14
+/1342/Hive/1/Action,DWORD,0x00000003,
+/1342/Hive/1/KeyName,SZ,Control Panel\Mouse,
+/1342/Hive/1/Value,DWORD,0x00000000,
+/1342/Hive/1/ValueName,SZ,ActiveWindowTracking,
+/1348,KEY,,2004-08-19 16:56:14
+/1348/Execute,KEY,,2004-08-19 16:56:14
+/1348/Execute/1,KEY,,2004-08-19 16:56:14
+/1348/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Fix-User-Security,
+/1370,KEY,,2004-08-19 16:56:14
+/1370/Files,KEY,,2004-08-19 16:56:14
+/1370/Files/1,KEY,,2004-08-19 16:56:14
+/1370/Files/1/Action,DWORD,0x00000004,
+/1370/Files/1/Item,SZ,Accessories\Write.lnk,
+/1372,KEY,,2004-08-19 16:56:14
+/1372/Files,KEY,,2004-08-19 16:56:14
+/1372/Files/1,KEY,,2004-08-19 16:56:14
+/1372/Files/1/Action,DWORD,0x00000003,
+/1372/Files/1/Item,SZ,Books Online.lnk,
+/1372/Files/1/Product,DWORD,0x00000001,
+/1382,KEY,,2004-08-19 16:56:14
+/1382/Execute,KEY,,2004-08-19 16:56:14
+/1382/Execute/1,KEY,,2004-08-19 16:56:14
+/1382/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe UpgradeProfileNT4ToNT5,
+/1430,KEY,,2004-08-19 16:56:14
+/1430/Hive,KEY,,2004-08-19 16:56:14
+/1430/Hive/1,KEY,,2004-08-19 16:56:14
+/1430/Hive/1/Action,DWORD,0x00000003,
+/1430/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1430/Hive/1/Value,SZ,0,
+/1430/Hive/1/ValueName,SZ,LowPowerTimeOut,
+/1430/Hive/2,KEY,,2004-08-19 16:56:14
+/1430/Hive/2/Action,DWORD,0x00000003,
+/1430/Hive/2/KeyName,SZ,Control Panel\Desktop,
+/1430/Hive/2/Value,SZ,0,
+/1430/Hive/2/ValueName,SZ,LowPowerActive,
+/1430/Hive/3,KEY,,2004-08-19 16:56:14
+/1430/Hive/3/Action,DWORD,0x00000003,
+/1430/Hive/3/KeyName,SZ,Control Panel\Desktop,
+/1430/Hive/3/Value,SZ,0,
+/1430/Hive/3/ValueName,SZ,PowerOffTimeOut,
+/1430/Hive/4,KEY,,2004-08-19 16:56:14
+/1430/Hive/4/Action,DWORD,0x00000003,
+/1430/Hive/4/KeyName,SZ,Control Panel\Desktop,
+/1430/Hive/4/Value,SZ,0,
+/1430/Hive/4/ValueName,SZ,PowerOffActive,
+/1493,KEY,,2004-08-19 16:56:14
+/1493/Hive,KEY,,2004-08-19 16:56:14
+/1493/Hive/1,KEY,,2004-08-19 16:56:14
+/1493/Hive/1/Action,DWORD,0x00000001,
+/1493/Hive/1/KeyName,SZ,Control Panel\Accessibility\HighContrast,
+/1493/Hive/2,KEY,,2004-08-19 16:56:14
+/1493/Hive/2/Action,DWORD,0x00000003,
+/1493/Hive/2/KeyName,SZ,Control Panel\Accessibility\HighContrast,
+/1493/Hive/2/Value,SZ,122,
+/1493/Hive/2/ValueName,SZ,Flags,
+/1493/Hive/3,KEY,,2004-08-19 16:56:14
+/1493/Hive/3/Action,DWORD,0x00000003,
+/1493/Hive/3/KeyName,SZ,Control Panel\Accessibility\HighContrast,
+/1493/Hive/3/Value,SZ,High Contrast Black (large),
+/1493/Hive/3/ValueName,SZ,High Contrast Scheme,
+/1499,KEY,,2004-08-19 16:56:14
+/1499/Execute,KEY,,2004-08-19 16:56:14
+/1499/Execute/1,KEY,,2004-08-19 16:56:14
+/1499/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Cvt-Mouse-Schemes,
+/1499/Hive,KEY,,2004-08-19 16:56:14
+/1499/Hive/1,KEY,,2004-08-19 16:56:14
+/1499/Hive/1/Action,DWORD,0x00000001,
+/1499/Hive/1/KeyName,SZ,AppEvents\EventLabels\LowBatteryAlarm,
+/1499/Hive/10,KEY,,2004-08-19 16:56:14
+/1499/Hive/10/Action,DWORD,0x00000003,
+/1499/Hive/10/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\LowBatteryAlarm\.Default,
+/1499/Hive/10/Value,SZ,,
+/1499/Hive/10/ValueName,SZ,,
+/1499/Hive/11,KEY,,2004-08-19 16:56:14
+/1499/Hive/11/Action,DWORD,0x00000001,
+/1499/Hive/11/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\CriticalBatteryAlarm,
+/1499/Hive/12,KEY,,2004-08-19 16:56:14
+/1499/Hive/12/Action,DWORD,0x00000001,
+/1499/Hive/12/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\CriticalBatteryAlarm\.Current,
+/1499/Hive/13,KEY,,2004-08-19 16:56:14
+/1499/Hive/13/Action,DWORD,0x00000003,
+/1499/Hive/13/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\CriticalBatteryAlarm\.Current,
+/1499/Hive/13/Value,SZ,ding.wav,
+/1499/Hive/13/ValueName,SZ,,
+/1499/Hive/14,KEY,,2004-08-19 16:56:14
+/1499/Hive/14/Action,DWORD,0x00000003,
+/1499/Hive/14/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\CriticalBatteryAlarm\.Default,
+/1499/Hive/14/Value,SZ,,
+/1499/Hive/14/ValueName,SZ,,
+/1499/Hive/2,KEY,,2004-08-19 16:56:14
+/1499/Hive/2/Action,DWORD,0x00000003,
+/1499/Hive/2/KeyName,SZ,AppEvents\EventLabels\LowBatteryAlarm,
+/1499/Hive/2/Value,SZ,Low Battery Alarm,
+/1499/Hive/2/ValueName,SZ,,
+/1499/Hive/3,KEY,,2004-08-19 16:56:14
+/1499/Hive/3/Action,DWORD,0x00000001,
+/1499/Hive/3/KeyName,SZ,AppEvents\EventLabels\CriticalBatteryAlarm,
+/1499/Hive/4,KEY,,2004-08-19 16:56:14
+/1499/Hive/4/Action,DWORD,0x00000003,
+/1499/Hive/4/KeyName,SZ,AppEvents\EventLabels\CriticalBatteryAlarm,
+/1499/Hive/4/Value,SZ,Critical Battery Alarm,
+/1499/Hive/4/ValueName,SZ,,
+/1499/Hive/5,KEY,,2004-08-19 16:56:14
+/1499/Hive/5/Action,DWORD,0x00000001,
+/1499/Hive/5/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg,
+/1499/Hive/6,KEY,,2004-08-19 16:56:14
+/1499/Hive/6/Action,DWORD,0x00000003,
+/1499/Hive/6/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg,
+/1499/Hive/6/Value,SZ,Power Configurator,
+/1499/Hive/6/ValueName,SZ,,
+/1499/Hive/7,KEY,,2004-08-19 16:56:14
+/1499/Hive/7/Action,DWORD,0x00000001,
+/1499/Hive/7/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\LowBatteryAlarm,
+/1499/Hive/8,KEY,,2004-08-19 16:56:14
+/1499/Hive/8/Action,DWORD,0x00000001,
+/1499/Hive/8/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\LowBatteryAlarm\.Current,
+/1499/Hive/9,KEY,,2004-08-19 16:56:14
+/1499/Hive/9/Action,DWORD,0x00000003,
+/1499/Hive/9/KeyName,SZ,AppEvents\Schemes\Apps\PowerCfg\LowBatteryAlarm\.Current,
+/1499/Hive/9/Value,SZ,ding.wav,
+/1499/Hive/9/ValueName,SZ,,
+/1507,KEY,,2004-08-19 16:56:14
+/1507/Execute,KEY,,2004-08-19 16:56:14
+/1507/Execute/1,KEY,,2004-08-19 16:56:14
+/1507/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe MoveAndAdjustIconMetrics,
+/1508,KEY,,2004-08-19 16:56:14
+/1508/Hive,KEY,,2004-08-19 16:56:14
+/1508/Hive/1,KEY,,2004-08-19 16:56:14
+/1508/Hive/1/Action,DWORD,0x00000004,
+/1508/Hive/1/Flags,DWORD,0x00000000,
+/1508/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1508/Hive/1/ValueNames,MULTI_SZ,IconSpacing|IconTitleFaceName|IconTitleSize|IconTitleStyle|IconTitleWrap|IconVerticalSpacing,
+/1527,KEY,,2004-08-19 16:56:14
+/1527/Hive,KEY,,2004-08-19 16:56:14
+/1527/Hive/1,KEY,,2004-08-19 16:56:14
+/1527/Hive/1/Action,DWORD,0x00000003,
+/1527/Hive/1/KeyName,SZ,Control Panel\PowerCfg,
+/1527/Hive/1/Value,SZ,Home/Office Desk,
+/1527/Hive/1/ValueName,SZ,CurrentPowerPolicy,
+/1569,KEY,,2004-08-19 16:56:14
+/1569/Execute,KEY,,2004-08-19 16:56:14
+/1569/Execute/1,KEY,,2004-08-19 16:56:14
+/1569/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Fix-Policies-Security,
+/1638,KEY,,2004-08-19 16:56:14
+/1638/Files,KEY,,2004-08-19 16:56:14
+/1638/Files/1,KEY,,2004-08-19 16:56:14
+/1638/Files/1/Action,DWORD,0x00000004,
+/1638/Files/1/Item,SZ,Books Online.lnk,
+/1638/Files/1/Product,DWORD,0x00000001,
+/1638/Files/2,KEY,,2004-08-19 16:56:14
+/1638/Files/2/Action,DWORD,0x00000003,
+/1638/Files/2/Item,SZ,Windows NT Documentation.lnk,
+/1638/Files/2/Product,DWORD,0x00000001,
+/1647,KEY,,2004-08-19 16:56:14
+/1647/Hive,KEY,,2004-08-19 16:56:14
+/1647/Hive/1,KEY,,2004-08-19 16:56:14
+/1647/Hive/1/Action,DWORD,0x00000003,
+/1647/Hive/1/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\3,
+/1647/Hive/1/ValueName,SZ,Name,
+/1647/Hive/1/Value,SZ,Always On,
+/1647/Hive/2,KEY,,2004-08-19 16:56:14
+/1647/Hive/2/Action,DWORD,0x00000003,
+/1647/Hive/2/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\4,
+/1647/Hive/2/ValueName,SZ,Name,
+/1647/Hive/2/Value,SZ,Minimal Power Management,
+/1782,KEY,,2004-08-19 16:56:14
+/1782/Hive,KEY,,2004-08-19 16:56:14
+/1782/Hive/1,KEY,,2004-08-19 16:56:14
+/1782/Hive/1/Action,DWORD,0x00000002,
+/1782/Hive/1/KeyName,SZ,Control Panel\International\Sorting Order,
+/1792,KEY,,2004-08-19 16:56:14
+/1792/Hive,KEY,,2004-08-19 16:56:14
+/1792/Hive/1,KEY,,2004-08-19 16:56:14
+/1792/Hive/1/Action,DWORD,0x00000002,
+/1792/Hive/1/KeyName,SZ,Command Processor,
+/1794,KEY,,2004-08-19 16:56:14
+/1794/Hive,KEY,,2004-08-19 16:56:14
+/1794/Hive/1,KEY,,2004-08-19 16:56:14
+/1794/Hive/1/Action,DWORD,0x00000003,
+/1794/Hive/1/KeyName,SZ,Control Panel\Input Method,
+/1794/Hive/1/ValueName,SZ,Show Status,
+/1794/Hive/1/Value,SZ,1,
+/1799,KEY,,2004-08-19 16:56:14
+/1799/Hive,KEY,,2004-08-19 16:56:14
+/1799/Hive/1,KEY,,2004-08-19 16:56:14
+/1799/Hive/1/Action,DWORD,0x00000001,
+/1799/Hive/1/KeyName,SZ,Control Panel\Input Method\Hot Keys,
+/1799/Hive/10,KEY,,2004-08-19 16:56:14
+/1799/Hive/10/Action,DWORD,0x00000003,
+/1799/Hive/10/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000012,
+/1799/Hive/10/ValueName,SZ,Virtual Key,
+/1799/Hive/10/Value,BINARY,%BE%00%00%00,
+/1799/Hive/11,KEY,,2004-08-19 16:56:14
+/1799/Hive/11/Action,DWORD,0x00000003,
+/1799/Hive/11/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000070,
+/1799/Hive/11/ValueName,SZ,Key Modifiers,
+/1799/Hive/11/Value,BINARY,%02%C0%00%00,
+/1799/Hive/12,KEY,,2004-08-19 16:56:14
+/1799/Hive/12/Action,DWORD,0x00000003,
+/1799/Hive/12/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000070,
+/1799/Hive/12/ValueName,SZ,Target IME,
+/1799/Hive/12/Value,BINARY,%00%00%00%00,
+/1799/Hive/13,KEY,,2004-08-19 16:56:14
+/1799/Hive/13/Action,DWORD,0x00000003,
+/1799/Hive/13/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000070,
+/1799/Hive/13/ValueName,SZ,Virtual Key,
+/1799/Hive/13/Value,BINARY, %00%00%00,
+/1799/Hive/14,KEY,,2004-08-19 16:56:14
+/1799/Hive/14/Action,DWORD,0x00000003,
+/1799/Hive/14/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000071,
+/1799/Hive/14/ValueName,SZ,Key Modifiers,
+/1799/Hive/14/Value,BINARY,%04%C0%00%00,
+/1799/Hive/15,KEY,,2004-08-19 16:56:14
+/1799/Hive/15/Action,DWORD,0x00000003,
+/1799/Hive/15/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000071,
+/1799/Hive/15/ValueName,SZ,Target IME,
+/1799/Hive/15/Value,BINARY,%00%00%00%00,
+/1799/Hive/16,KEY,,2004-08-19 16:56:14
+/1799/Hive/16/Action,DWORD,0x00000003,
+/1799/Hive/16/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000071,
+/1799/Hive/16/ValueName,SZ,Virtual Key,
+/1799/Hive/16/Value,BINARY, %00%00%00,
+/1799/Hive/17,KEY,,2004-08-19 16:56:14
+/1799/Hive/17/Action,DWORD,0x00000003,
+/1799/Hive/17/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000072,
+/1799/Hive/17/ValueName,SZ,Key Modifiers,
+/1799/Hive/17/Value,BINARY,%03%C0%00%00,
+/1799/Hive/18,KEY,,2004-08-19 16:56:14
+/1799/Hive/18/Action,DWORD,0x00000003,
+/1799/Hive/18/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000072,
+/1799/Hive/18/ValueName,SZ,Target IME,
+/1799/Hive/18/Value,BINARY,%00%00%00%00,
+/1799/Hive/19,KEY,,2004-08-19 16:56:14
+/1799/Hive/19/Action,DWORD,0x00000003,
+/1799/Hive/19/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000072,
+/1799/Hive/19/ValueName,SZ,Virtual Key,
+/1799/Hive/19/Value,BINARY,%BC%00%00%00,
+/1799/Hive/2,KEY,,2004-08-19 16:56:14
+/1799/Hive/2/Action,DWORD,0x00000003,
+/1799/Hive/2/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000010,
+/1799/Hive/2/ValueName,SZ,Key Modifiers,
+/1799/Hive/2/Value,BINARY,%02%C0%00%00,
+/1799/Hive/20,KEY,,2004-08-19 16:56:14
+/1799/Hive/20/Action,DWORD,0x00000003,
+/1799/Hive/20/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000200,
+/1799/Hive/20/ValueName,SZ,Key Modifiers,
+/1799/Hive/20/Value,BINARY,%03%C0%00%00,
+/1799/Hive/21,KEY,,2004-08-19 16:56:14
+/1799/Hive/21/Action,DWORD,0x00000003,
+/1799/Hive/21/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000200,
+/1799/Hive/21/ValueName,SZ,Target IME,
+/1799/Hive/21/Value,BINARY,%00%00%00%00,
+/1799/Hive/22,KEY,,2004-08-19 16:56:14
+/1799/Hive/22/Action,DWORD,0x00000003,
+/1799/Hive/22/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000200,
+/1799/Hive/22/ValueName,SZ,Virtual Key,
+/1799/Hive/22/Value,BINARY,G%00%00%00,
+/1799/Hive/23,KEY,,2004-08-19 16:56:14
+/1799/Hive/23/Action,DWORD,0x00000003,
+/1799/Hive/23/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000201,
+/1799/Hive/23/ValueName,SZ,Key Modifiers,
+/1799/Hive/23/Value,BINARY,%03%C0%00%00,
+/1799/Hive/24,KEY,,2004-08-19 16:56:14
+/1799/Hive/24/Action,DWORD,0x00000003,
+/1799/Hive/24/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000201,
+/1799/Hive/24/ValueName,SZ,Target IME,
+/1799/Hive/24/Value,BINARY,%00%00%00%00,
+/1799/Hive/25,KEY,,2004-08-19 16:56:14
+/1799/Hive/25/Action,DWORD,0x00000003,
+/1799/Hive/25/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000201,
+/1799/Hive/25/ValueName,SZ,Virtual Key,
+/1799/Hive/25/Value,BINARY,K%00%00%00,
+/1799/Hive/26,KEY,,2004-08-19 16:56:14
+/1799/Hive/26/Action,DWORD,0x00000003,
+/1799/Hive/26/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000202,
+/1799/Hive/26/ValueName,SZ,Key Modifiers,
+/1799/Hive/26/Value,BINARY,%03%C0%00%00,
+/1799/Hive/27,KEY,,2004-08-19 16:56:14
+/1799/Hive/27/Action,DWORD,0x00000003,
+/1799/Hive/27/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000202,
+/1799/Hive/27/ValueName,SZ,Target IME,
+/1799/Hive/27/Value,BINARY,%00%00%00%00,
+/1799/Hive/28,KEY,,2004-08-19 16:56:14
+/1799/Hive/28/Action,DWORD,0x00000003,
+/1799/Hive/28/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000202,
+/1799/Hive/28/ValueName,SZ,Virtual Key,
+/1799/Hive/28/Value,BINARY,L%00%00%00,
+/1799/Hive/3,KEY,,2004-08-19 16:56:14
+/1799/Hive/3/Action,DWORD,0x00000003,
+/1799/Hive/3/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000010,
+/1799/Hive/3/ValueName,SZ,Target IME,
+/1799/Hive/3/Value,BINARY,%00%00%00%00,
+/1799/Hive/4,KEY,,2004-08-19 16:56:14
+/1799/Hive/4/Action,DWORD,0x00000003,
+/1799/Hive/4/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000010,
+/1799/Hive/4/ValueName,SZ,Virtual Key,
+/1799/Hive/4/Value,BINARY, %00%00%00,
+/1799/Hive/5,KEY,,2004-08-19 16:56:14
+/1799/Hive/5/Action,DWORD,0x00000003,
+/1799/Hive/5/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000011,
+/1799/Hive/5/ValueName,SZ,Key Modifiers,
+/1799/Hive/5/Value,BINARY,%04%C0%00%00,
+/1799/Hive/6,KEY,,2004-08-19 16:56:14
+/1799/Hive/6/Action,DWORD,0x00000003,
+/1799/Hive/6/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000011,
+/1799/Hive/6/ValueName,SZ,Target IME,
+/1799/Hive/6/Value,BINARY,%00%00%00%00,
+/1799/Hive/7,KEY,,2004-08-19 16:56:14
+/1799/Hive/7/Action,DWORD,0x00000003,
+/1799/Hive/7/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000011,
+/1799/Hive/7/ValueName,SZ,Virtual Key,
+/1799/Hive/7/Value,BINARY, %00%00%00,
+/1799/Hive/8,KEY,,2004-08-19 16:56:14
+/1799/Hive/8/Action,DWORD,0x00000003,
+/1799/Hive/8/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000012,
+/1799/Hive/8/ValueName,SZ,Key Modifiers,
+/1799/Hive/8/Value,BINARY,%02%C0%00%00,
+/1799/Hive/9,KEY,,2004-08-19 16:56:14
+/1799/Hive/9/Action,DWORD,0x00000003,
+/1799/Hive/9/KeyName,SZ,Control Panel\Input Method\Hot Keys\00000012,
+/1799/Hive/9/ValueName,SZ,Target IME,
+/1799/Hive/9/Value,BINARY,%00%00%00%00,
+/1818,KEY,,2004-08-19 16:56:14
+/1818/Files,KEY,,2004-08-19 16:56:14
+/1818/Files/1,KEY,,2004-08-19 16:56:14
+/1818/Files/1/Action,DWORD,0x00000004,
+/1818/Files/1/Item,SZ,Accessories\Dial-up Networking.lnk,
+/1818/Files/1/Product,DWORD,0x00000000,
+/1818/Files/2,KEY,,2004-08-19 16:56:14
+/1818/Files/2/Action,DWORD,0x00000003,
+/1818/Files/2/Item,SZ,Command Prompt.lnk,
+/1818/Files/2/Product,DWORD,0x00000000,
+/1818/Hive,KEY,,2004-08-19 16:56:14
+/1818/Hive/1,KEY,,2004-08-19 16:56:14
+/1818/Hive/1/Action,DWORD,0x00000003,
+/1818/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1818/Hive/1/ValueName,SZ,ActiveWndTrkTimeout,
+/1818/Hive/1/Value,DWORD,0x00000000,
+/1818/Hive/2,KEY,,2004-08-19 16:56:14
+/1818/Hive/2/Action,DWORD,0x00000003,
+/1818/Hive/2/KeyName,SZ,Control Panel\Desktop,
+/1818/Hive/2/ValueName,SZ,ForegroundFlashCount,
+/1818/Hive/2/Value,DWORD,0x00000003,
+/1818/Hive/3,KEY,,2004-08-19 16:56:14
+/1818/Hive/3/Action,DWORD,0x00000003,
+/1818/Hive/3/KeyName,SZ,Control Panel\Desktop,
+/1818/Hive/3/ValueName,SZ,UserPreferencesMask,
+/1818/Hive/3/Value,BINARY,%9E>%00%80,
+/1822,KEY,,2004-08-19 16:56:14
+/1822/Hive,KEY,,2004-08-19 16:56:14
+/1822/Hive/1,KEY,,2004-08-19 16:56:14
+/1822/Hive/1/Action,DWORD,0x00000003,
+/1822/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1822/Hive/1/ValueName,SZ,ForegroundLockTimeout,
+/1822/Hive/1/Value,DWORD,0x00030D40,
+/1823,KEY,,2004-08-19 16:56:14
+/1823/Execute,KEY,,2004-08-19 16:56:14
+/1823/Execute/1,KEY,,2004-08-19 16:56:14
+/1823/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe UpgradeProfileNT4ToNT5,
+/1836,KEY,,2004-08-19 16:56:14
+/1836/Files,KEY,,2004-08-19 16:56:14
+/1836/Files/1,KEY,,2004-08-19 16:56:14
+/1836/Files/1/Action,DWORD,0x00000003,
+/1836/Files/1/Item,SZ,accessories\multimedia\DVD Player.lnk,
+/1848,KEY,,2004-08-19 16:56:14
+/1848/Hive,KEY,,2004-08-19 16:56:14
+/1848/Hive/1,KEY,,2004-08-19 16:56:14
+/1848/Hive/1/Action,DWORD,0x00000001,
+/1848/Hive/1/KeyName,SZ,Software\Microsoft\Internet Explorer\Main,
+/1848/Hive/1/ValueName,SZ,NoUpdateCheck,
+/1848/Hive/1/Value,DWORD,0x00000001,
+/1848/Hive/2,KEY,,2004-08-19 16:56:14
+/1848/Hive/2/Action,DWORD,0x00000001,
+/1848/Hive/2/KeyName,SZ,Software\Microsoft\Internet Explorer\Main,
+/1848/Hive/2/ValueName,SZ,NoJITSetup,
+/1848/Hive/2/Value,DWORD,0x00000001,
+/1850,KEY,,2004-08-19 16:56:14
+/1850/Hive,KEY,,2004-08-19 16:56:14
+/1850/Hive/1,KEY,,2004-08-19 16:56:14
+/1850/Hive/1/Action,DWORD,0x00000003,
+/1850/Hive/1/KeyName,SZ,Control Panel\Accessibility\HighContrast,
+/1850/Hive/1/ValueName,SZ,Flags,
+/1850/Hive/1/Value,SZ,126,
+/1850/Hive/2,KEY,,2004-08-19 16:56:14
+/1850/Hive/2/Action,DWORD,0x00000003,
+/1850/Hive/2/KeyName,SZ,Control Panel\Accessibility\Keyboard Response,
+/1850/Hive/2/ValueName,SZ,Flags,
+/1850/Hive/2/Value,SZ,126,
+/1850/Hive/3,KEY,,2004-08-19 16:56:14
+/1850/Hive/3/Action,DWORD,0x00000003,
+/1850/Hive/3/KeyName,SZ,Control Panel\Accessibility\MouseKeys,
+/1850/Hive/3/ValueName,SZ,Flags,
+/1850/Hive/3/Value,SZ,62,
+/1850/Hive/4,KEY,,2004-08-19 16:56:14
+/1850/Hive/4/Action,DWORD,0x00000003,
+/1850/Hive/4/KeyName,SZ,Control Panel\Accessibility\StickyKeys,
+/1850/Hive/4/ValueName,SZ,Flags,
+/1850/Hive/4/Value,SZ,510,
+/1850/Hive/5,KEY,,2004-08-19 16:56:14
+/1850/Hive/5/Action,DWORD,0x00000003,
+/1850/Hive/5/KeyName,SZ,Control Panel\Accessibility\ToggleKeys,
+/1850/Hive/5/ValueName,SZ,Flags,
+/1850/Hive/5/Value,SZ,62,
+/1870,KEY,,2004-08-19 16:56:14
+/1870/Hive,KEY,,2004-08-19 16:56:14
+/1870/Hive/1,KEY,,2004-08-19 16:56:14
+/1870/Hive/1/Action,DWORD,0x00000004,
+/1870/Hive/1/Flags,DWORD,0x00000000,
+/1870/Hive/1/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\run,
+/1870/Hive/1/ValueNames,MULTI_SZ,welcome,
+/1870/Hive/2,KEY,,2004-08-19 16:56:14
+/1870/Hive/2/Action,DWORD,0x00000003,
+/1870/Hive/2/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Explorer\tips,
+/1870/Hive/2/ValueName,SZ,Show,
+/1870/Hive/2/Value,DWORD,0x00000001,
+/1870/Hive/3,KEY,,2004-08-19 16:56:14
+/1870/Hive/3/Action,DWORD,0x00000004,
+/1870/Hive/3/Flags,DWORD,0x00000000,
+/1870/Hive/3/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Explorer\tips,
+/1870/Hive/3/ValueNames,MULTI_SZ,HKCU,
+/1870/Hive/4,KEY,,2004-08-19 16:56:14
+/1870/Hive/4/Action,DWORD,0x00000004,
+/1870/Hive/4/Flags,DWORD,0x00000000,
+/1870/Hive/4/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1870/Hive/4/ValueNames,MULTI_SZ,HKCU,
+/1877,KEY,,2004-08-19 16:56:14
+/1877/Hive,KEY,,2004-08-19 16:56:14
+/1877/Hive/1,KEY,,2004-08-19 16:56:14
+/1877/Hive/1/Action,DWORD,0x00000002,
+/1877/Hive/1/KeyName,SZ,Control Panel\PowerCfg,
+/1877/Hive/10,KEY,,2004-08-19 16:56:14
+/1877/Hive/10/Action,DWORD,0x00000003,
+/1877/Hive/10/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\0,
+/1877/Hive/10/ValueName,SZ,Policies,
+/1877/Hive/10/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%0022%00%00%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%B0%04%00%00%2C%01%00%00%00%00%00%00X%02%00%00%01%01dPdd%00%00,
+/1877/Hive/11,KEY,,2004-08-19 16:56:14
+/1877/Hive/11/Action,DWORD,0x00000001,
+/1877/Hive/11/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\1,
+/1877/Hive/12,KEY,,2004-08-19 16:56:14
+/1877/Hive/12/Action,DWORD,0x00000003,
+/1877/Hive/12/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\1,
+/1877/Hive/12/ValueName,SZ,Name,
+/1877/Hive/12/Value,SZ,Portable/Laptop,
+/1877/Hive/13,KEY,,2004-08-19 16:56:14
+/1877/Hive/13/Action,DWORD,0x00000003,
+/1877/Hive/13/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\1,
+/1877/Hive/13/ValueName,SZ,Description,
+/1877/Hive/13/Value,SZ,%25POWERPOLICIES_1_DESC%25,
+/1877/Hive/14,KEY,,2004-08-19 16:56:14
+/1877/Hive/14/Action,DWORD,0x00000003,
+/1877/Hive/14/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\1,
+/1877/Hive/14/ValueName,SZ,Policies,
+/1877/Hive/14/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%B0%04%00%00%2C%01%00%0022%00%01%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00%2C%01%00%00%08%07%00%00%2C%01%00%00%01%01dPdd%00%00,
+/1877/Hive/15,KEY,,2004-08-19 16:56:14
+/1877/Hive/15/Action,DWORD,0x00000001,
+/1877/Hive/15/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\2,
+/1877/Hive/16,KEY,,2004-08-19 16:56:14
+/1877/Hive/16/Action,DWORD,0x00000003,
+/1877/Hive/16/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\2,
+/1877/Hive/16/ValueName,SZ,Name,
+/1877/Hive/16/Value,SZ,Presentation,
+/1877/Hive/17,KEY,,2004-08-19 16:56:14
+/1877/Hive/17/Action,DWORD,0x00000003,
+/1877/Hive/17/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\2,
+/1877/Hive/17/ValueName,SZ,Description,
+/1877/Hive/17/Value,SZ,%25POWERPOLICIES_2_DESC%25,
+/1877/Hive/18,KEY,,2004-08-19 16:56:14
+/1877/Hive/18/Action,DWORD,0x00000003,
+/1877/Hive/18/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\2,
+/1877/Hive/18/ValueName,SZ,Policies,
+/1877/Hive/18/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%84%03%00%0022%00%01%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%00%01%01PPdd%00%00,
+/1877/Hive/19,KEY,,2004-08-19 16:56:14
+/1877/Hive/19/Action,DWORD,0x00000001,
+/1877/Hive/19/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\3,
+/1877/Hive/2,KEY,,2004-08-19 16:56:14
+/1877/Hive/2/Action,DWORD,0x00000001,
+/1877/Hive/2/KeyName,SZ,Control Panel\PowerCfg,
+/1877/Hive/20,KEY,,2004-08-19 16:56:14
+/1877/Hive/20/Action,DWORD,0x00000003,
+/1877/Hive/20/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\3,
+/1877/Hive/20/ValueName,SZ,Name,
+/1877/Hive/20/Value,SZ,Always On,
+/1877/Hive/21,KEY,,2004-08-19 16:56:14
+/1877/Hive/21/Action,DWORD,0x00000003,
+/1877/Hive/21/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\3,
+/1877/Hive/21/ValueName,SZ,Description,
+/1877/Hive/21/Value,SZ,%25POWERPOLICIES_3_DESC%25,
+/1877/Hive/22,KEY,,2004-08-19 16:56:14
+/1877/Hive/22/Action,DWORD,0x00000003,
+/1877/Hive/22/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\3,
+/1877/Hive/22/ValueName,SZ,Policies,
+/1877/Hive/22/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0022%00%00%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%B0%04%00%00%84%03%00%00%00%00%00%00%08%07%00%00%00%01dddd%00%00,
+/1877/Hive/23,KEY,,2004-08-19 16:56:14
+/1877/Hive/23/Action,DWORD,0x00000001,
+/1877/Hive/23/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\4,
+/1877/Hive/24,KEY,,2004-08-19 16:56:14
+/1877/Hive/24/Action,DWORD,0x00000003,
+/1877/Hive/24/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\4,
+/1877/Hive/24/ValueName,SZ,Name,
+/1877/Hive/24/Value,SZ,Minimal Power Management,
+/1877/Hive/25,KEY,,2004-08-19 16:56:14
+/1877/Hive/25/Action,DWORD,0x00000003,
+/1877/Hive/25/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\4,
+/1877/Hive/25/ValueName,SZ,Description,
+/1877/Hive/25/Value,SZ,%25POWERPOLICIES_4_DESC%25,
+/1877/Hive/26,KEY,,2004-08-19 16:56:14
+/1877/Hive/26/Action,DWORD,0x00000003,
+/1877/Hive/26/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\4,
+/1877/Hive/26/ValueName,SZ,Policies,
+/1877/Hive/26/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%0022%00%00%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00%2C%01%00%00%00%00%00%00%84%03%00%00%00%01dddd%00%00,
+/1877/Hive/27,KEY,,2004-08-19 16:56:14
+/1877/Hive/27/Action,DWORD,0x00000001,
+/1877/Hive/27/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1877/Hive/28,KEY,,2004-08-19 16:56:14
+/1877/Hive/28/Action,DWORD,0x00000003,
+/1877/Hive/28/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1877/Hive/28/ValueName,SZ,Name,
+/1877/Hive/28/Value,SZ,Max Battery,
+/1877/Hive/29,KEY,,2004-08-19 16:56:14
+/1877/Hive/29/Action,DWORD,0x00000003,
+/1877/Hive/29/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1877/Hive/29/ValueName,SZ,Description,
+/1877/Hive/29/Value,SZ,%25POWERPOLICIES_5_DESC%25,
+/1877/Hive/3,KEY,,2004-08-19 16:56:14
+/1877/Hive/3/Action,DWORD,0x00000003,
+/1877/Hive/3/KeyName,SZ,Control Panel\PowerCfg,
+/1877/Hive/3/ValueName,SZ,CurrentPowerPolicy,
+/1877/Hive/3/Value,SZ,0,
+/1877/Hive/30,KEY,,2004-08-19 16:56:14
+/1877/Hive/30/Action,DWORD,0x00000003,
+/1877/Hive/30/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1877/Hive/30/ValueName,SZ,Policies,
+/1877/Hive/30/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%05%00%00%00%00%00%00%00%B0%04%00%00x%00%00%0022%00%01%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00<%00%00%00%00%00%00%00%B4%00%00%00%01%01d2d2%00%00,
+/1877/Hive/4,KEY,,2004-08-19 16:56:14
+/1877/Hive/4/Action,DWORD,0x00000001,
+/1877/Hive/4/KeyName,SZ,Control Panel\PowerCfg\GlobalPowerPolicy,
+/1877/Hive/5,KEY,,2004-08-19 16:56:14
+/1877/Hive/5/Action,DWORD,0x00000003,
+/1877/Hive/5/KeyName,SZ,Control Panel\PowerCfg\GlobalPowerPolicy,
+/1877/Hive/5/ValueName,SZ,Policies,
+/1877/Hive/5/Value,BINARY,%01%00%00%00%06%00%00%00%03%00%00%00%00%00%00%00%06%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%00%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%01%00%00%00%00%00%00%00%01%00%00%00%03%00%00%00%02%00%00%00%00%00%00%C0%01%00%00%00%05%00%00%00%01%00%00%00%05%00%00%00%00%00%00%00%03%00%00%00%01%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%006%00%00%00,
+/1877/Hive/6,KEY,,2004-08-19 16:56:14
+/1877/Hive/6/Action,DWORD,0x00000001,
+/1877/Hive/6/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies,
+/1877/Hive/7,KEY,,2004-08-19 16:56:14
+/1877/Hive/7/Action,DWORD,0x00000001,
+/1877/Hive/7/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\0,
+/1877/Hive/8,KEY,,2004-08-19 16:56:14
+/1877/Hive/8/Action,DWORD,0x00000003,
+/1877/Hive/8/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\0,
+/1877/Hive/8/ValueName,SZ,Name,
+/1877/Hive/8/Value,SZ,Home/Office Desk,
+/1877/Hive/9,KEY,,2004-08-19 16:56:14
+/1877/Hive/9/Action,DWORD,0x00000003,
+/1877/Hive/9/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\0,
+/1877/Hive/9/ValueName,SZ,Description,
+/1877/Hive/9/Value,SZ,%25POWERPOLICIES_0_DESC%25,
+/1883,KEY,,2004-08-19 16:56:14
+/1883/Files,KEY,,2004-08-19 16:56:14
+/1883/Files/1,KEY,,2004-08-19 16:56:14
+/1883/Files/1/Action,DWORD,0x00000004,
+/1883/Files/1/Item,SZ,accessories\multimedia\CD Player.lnk,
+/1889,KEY,,2004-08-19 16:56:14
+/1889/Hive,KEY,,2004-08-19 16:56:14
+/1889/Hive/1,KEY,,2004-08-19 16:56:14
+/1889/Hive/1/Action,DWORD,0x00000003,
+/1889/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1889/Hive/1/ValueName,SZ,CaretWidth,
+/1889/Hive/1/Value,DWORD,0x00000001,
+/1889/Hive/2,KEY,,2004-08-19 16:56:14
+/1889/Hive/2/Action,DWORD,0x00000004,
+/1889/Hive/2/Flags,DWORD,0x00000000,
+/1889/Hive/2/KeyName,SZ,Software\Mediamatics\EffectFilters\ColorEffects,
+/1889/Hive/2/ValueNames,MULTI_SZ,PermitColorEffects,
+/1898,KEY,,2004-08-19 16:56:14
+/1898/Hive,KEY,,2004-08-19 16:56:14
+/1898/Hive/1,KEY,,2004-08-19 16:56:14
+/1898/Hive/1/Action,DWORD,0x00000003,
+/1898/Hive/1/KeyName,SZ,Control Panel\Accessibility\Keyboard Preference,
+/1898/Hive/1/ValueName,SZ,On,
+/1898/Hive/1/Value,SZ,0,
+/1898/Hive/2,KEY,,2004-08-19 16:56:14
+/1898/Hive/2/Action,DWORD,0x00000003,
+/1898/Hive/2/KeyName,SZ,Control Panel\Accessibility\Blind Access,
+/1898/Hive/2/ValueName,SZ,On,
+/1898/Hive/2/Value,SZ,0,
+/1898/Hive/3,KEY,,2004-08-19 16:56:14
+/1898/Hive/3/Action,DWORD,0x00000003,
+/1898/Hive/3/KeyName,SZ,Control Panel\don't load,
+/1898/Hive/3/ValueName,SZ,ncpa.cpl,
+/1898/Hive/3/Value,SZ,No,
+/1912,KEY,,2004-08-19 16:56:14
+/1912/Hive,KEY,,2004-08-19 16:56:14
+/1912/Hive/1,KEY,,2004-08-19 16:56:14
+/1912/Hive/1/Action,DWORD,0x00000003,
+/1912/Hive/1/KeyName,SZ,Console,
+/1912/Hive/1/ValueName,SZ,LoadConIme,
+/1912/Hive/1/Value,DWORD,0x00000001,
+/1912/Hive/2,KEY,,2004-08-19 16:56:14
+/1912/Hive/2/Action,DWORD,0x00000003,
+/1912/Hive/2/KeyName,SZ,Control Panel\Accessibility\SoundSentry,
+/1912/Hive/2/ValueName,SZ,WindowsEffect,
+/1912/Hive/2/Value,SZ,1,
+/1919,KEY,,2004-08-19 16:56:14
+/1919/Files,KEY,,2004-08-19 16:56:14
+/1919/Files/1,KEY,,2004-08-19 16:56:14
+/1919/Files/1/Action,DWORD,0x00000004,
+/1919/Files/1/Item,SZ,accessories\Synchronization Manager.lnk,
+/1919/Files/2,KEY,,2004-08-19 16:56:14
+/1919/Files/2/Action,DWORD,0x00000003,
+/1919/Files/2/Item,SZ,accessories\Synchronize.lnk,
+/1927,KEY,,2004-08-19 16:56:14
+/1927/Hive,KEY,,2004-08-19 16:56:14
+/1927/Hive/1,KEY,,2004-08-19 16:56:14
+/1927/Hive/1/Action,DWORD,0x00000003,
+/1927/Hive/1/KeyName,SZ,Control Panel\don't load,
+/1927/Hive/1/ValueName,SZ,odbccp32.cpl,
+/1927/Hive/1/Value,SZ,No,
+/1937,KEY,,2004-08-19 16:56:14
+/1937/Hive,KEY,,2004-08-19 16:56:14
+/1937/Hive/1,KEY,,2004-08-19 16:56:14
+/1937/Hive/1/Action,DWORD,0x00000002,
+/1937/Hive/1/KeyName,SZ,Control Panel\PowerCfg\GlobalPowerPolicy,
+/1937/Hive/2,KEY,,2004-08-19 16:56:14
+/1937/Hive/2/Action,DWORD,0x00000001,
+/1937/Hive/2/KeyName,SZ,Control Panel\PowerCfg\GlobalPowerPolicy,
+/1937/Hive/3,KEY,,2004-08-19 16:56:14
+/1937/Hive/3/Action,DWORD,0x00000003,
+/1937/Hive/3/KeyName,SZ,Control Panel\PowerCfg\GlobalPowerPolicy,
+/1937/Hive/3/ValueName,SZ,Policies,
+/1937/Hive/3/Value,BINARY,%01%00%00%00%06%00%00%00%03%00%00%00%00%00%00%00%06%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%00%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%01%00%00%00%00%00%00%00%01%00%00%00%03%00%00%00%02%00%00%00%00%00%00%C0%01%00%00%00%05%00%00%00%01%00%00%00%0A%00%00%00%00%00%00%00%03%00%00%00%01%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%16%00%00%00,
+/1973,KEY,,2004-08-19 16:56:14
+/1973/Hive,KEY,,2004-08-19 16:56:14
+/1973/Hive/1,KEY,,2004-08-19 16:56:14
+/1973/Hive/1/Action,DWORD,0x00000003,
+/1973/Hive/1/KeyName,SZ,Control Panel\Desktop\WindowMetrics,
+/1973/Hive/1/ValueName,SZ,Shell Icon BPP,
+/1973/Hive/1/Value,SZ,16,
+/1974,KEY,,2004-08-19 16:56:14
+/1974/Hive,KEY,,2004-08-19 16:56:14
+/1974/Hive/1,KEY,,2004-08-19 16:56:14
+/1974/Hive/1/Action,DWORD,0x00000001,
+/1974/Hive/1/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1974/Hive/2,KEY,,2004-08-19 16:56:14
+/1974/Hive/2/Action,DWORD,0x00000003,
+/1974/Hive/2/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1974/Hive/2/ValueName,SZ,Policies,
+/1974/Hive/2/Value,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%05%00%00%00%00%00%00%00%B0%04%00%00x%00%00%0022%00%00%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00<%00%00%00%00%00%00%00%B4%00%00%00%01%01d2d2%00%00,
+/1974/Hive/3,KEY,,2004-08-19 16:56:14
+/1974/Hive/3/Action,DWORD,0x00000003,
+/1974/Hive/3/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1974/Hive/3/ValueName,SZ,Name,
+/1974/Hive/3/Value,SZ,Max Battery,
+/1974/Hive/4,KEY,,2004-08-19 16:56:14
+/1974/Hive/4/Action,DWORD,0x00000003,
+/1974/Hive/4/KeyName,SZ,Control Panel\PowerCfg\PowerPolicies\5,
+/1974/Hive/4/ValueName,SZ,Description,
+/1974/Hive/4/Value,SZ,%25POWERPOLICIES_5_DESC%25,
+/1983,KEY,,2004-08-19 16:56:14
+/1983/Hive,KEY,,2004-08-19 16:56:14
+/1983/Hive/1,KEY,,2004-08-19 16:56:14
+/1983/Hive/1/Action,DWORD,0x00000003,
+/1983/Hive/1/KeyName,SZ,Control Panel\Desktop,
+/1983/Hive/1/ValueName,SZ,PaintDesktopVersion,
+/1983/Hive/1/Value,DWORD,0x00000000,
+/1989,KEY,,2004-08-19 16:56:14
+/1989/Execute,KEY,,2004-08-19 16:56:14
+/1989/Execute/1,KEY,,2004-08-19 16:56:14
+/1989/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe UpgradeSchemesAndNcMetricsToWin2000,
+/1989/Files,KEY,,2004-08-19 16:56:14
+/1989/Files/1,KEY,,2004-08-19 16:56:14
+/1989/Files/1/Action,DWORD,0x00000004,
+/1989/Files/1/Item,SZ,Windows NT Explorer.lnk,
+/1989/Files/2,KEY,,2004-08-19 16:56:14
+/1989/Files/2/Action,DWORD,0x00000004,
+/1989/Files/2/Item,SZ,Windows Explorer.lnk,
+/1989/Hive,KEY,,2004-08-19 16:56:14
+/1989/Hive/1,KEY,,2004-08-19 16:56:14
+/1989/Hive/1/Action,DWORD,0x00000003,
+/1989/Hive/1/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/1/ValueName,SZ,Brick,
+/1989/Hive/1/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F4%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00X%9A%F0w?%00?%00?%00?%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%E1%E0%D2%02B%00%00%00%80%00%00%00%8D%89a%00%C2%BF%A5%00%FF%FF%FF%00%00%00%00%02%00%00%00%00%00%00%00%00%E1%E0%D2%00%C2%BF%A5%00%C2%BF%A5%00%E1%E0%D2%00%8D%89a%00%FF%FF%FF%00%C2%BF%A5%00%8D%89a%02%8D%89a%02%00%00%00%00%E1%E0%D2%00%E1%E0%D2%02%00%00%00%02%C2%BF%A5%02%80%00%00%00%E1%E0%D2%00%C0%C0%C0%00%80%00%00%02%B0t@%00%C8%B8p%00,
+/1989/Hive/10,KEY,,2004-08-19 16:56:14
+/1989/Hive/10/Action,DWORD,0x00000003,
+/1989/Hive/10/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/10/ValueName,SZ,High Contrast Black,
+/1989/Hive/10/Value,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/1989/Hive/11,KEY,,2004-08-19 16:56:14
+/1989/Hive/11/Action,DWORD,0x00000003,
+/1989/Hive/11/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/11/ValueName,SZ,High Contrast Black (extra large),
+/1989/Hive/11/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00%25%00%00%00%25%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/1989/Hive/12,KEY,,2004-08-19 16:56:14
+/1989/Hive/12/Action,DWORD,0x00000003,
+/1989/Hive/12/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/12/ValueName,SZ,High Contrast Black (large),
+/1989/Hive/12/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/1989/Hive/13,KEY,,2004-08-19 16:56:14
+/1989/Hive/13/Action,DWORD,0x00000003,
+/1989/Hive/13/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/13/ValueName,SZ,High Contrast White,
+/1989/Hive/13/Value,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/1989/Hive/14,KEY,,2004-08-19 16:56:14
+/1989/Hive/14/Action,DWORD,0x00000003,
+/1989/Hive/14/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/14/ValueName,SZ,High Contrast White (extra large),
+/1989/Hive/14/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1E%00%00%00%1E%00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/1989/Hive/15,KEY,,2004-08-19 16:56:14
+/1989/Hive/15/Action,DWORD,0x00000003,
+/1989/Hive/15/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/15/ValueName,SZ,High Contrast White (large),
+/1989/Hive/15/Value,BINARY,%02%00%00%00F%00%00%00%07%00%00%00%1A%00%00%00%1A%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1B%00%00%00%1B%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/1989/Hive/16,KEY,,2004-08-19 16:56:14
+/1989/Hive/16/Action,DWORD,0x00000003,
+/1989/Hive/16/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/16/ValueName,SZ,Lilac,
+/1989/Hive/16/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%10%00%00%00%10%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%AE%A8%D9%02%00%00%00%02ZN%B1%00%80%80%80%00%AE%A8%D9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%AE%A8%D9%02%AE%A8%D9%02ZN%B1%02ZN%B1%00%FF%FF%FF%00%AE%A8%D9%02ZN%B1%02ZN%B1%02%00%00%00%02%FF%FF%FF%00%D8%D5%EC%02%00%00%00%02%AE%A8%D9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00ZN%B1%02%B6%8F%CB%00%B8%B4%D0%00,
+/1989/Hive/17,KEY,,2004-08-19 16:56:14
+/1989/Hive/17/Action,DWORD,0x00000003,
+/1989/Hive/17/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/17/ValueName,SZ,Lilac (large),
+/1989/Hive/17/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%1D%00%00%00%1D%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%AE%A8%D9%02%00%00%00%02ZN%B1%00%80%80%80%00%AE%A8%D9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%AE%A8%D9%02%AE%A8%D9%02ZN%B1%02ZN%B1%00%FF%FF%FF%00%AE%A8%D9%02ZN%B1%02ZN%B1%02%00%00%00%02%FF%FF%FF%00%D8%D5%EC%02%00%00%00%02%AE%A8%D9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00ZN%B1%02%B6%8F%CB%00%B8%B4%D0%00,
+/1989/Hive/18,KEY,,2004-08-19 16:56:14
+/1989/Hive/18/Action,DWORD,0x00000003,
+/1989/Hive/18/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/18/ValueName,SZ,Maple,
+/1989/Hive/18/Value,BINARY,%02%00%00%000%9A%08%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%F2%EC%D7%02%00%00%00%02%80%00%00%00%C6%A6F%00%E6%D8%AE%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%E6%D8%AE%02%E6%D8%AE%02%C6%A6F%02%C6%A6F%00%00%00%00%00%E6%D8%AE%02%C6%A6F%02%C6%A6F%02%00%00%00%02%F2%EC%D7%00%F2%EC%D7%02%00%00%00%02%E6%D8%AE%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C6%A6F%02%C0%9C8%00%E0%C8%88%00,
+/1989/Hive/19,KEY,,2004-08-19 16:56:14
+/1989/Hive/19/Action,DWORD,0x00000003,
+/1989/Hive/19/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/19/ValueName,SZ,Marine (high color),
+/1989/Hive/19/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0D%00%00%00%0D%00%00%00%F7%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00S%00m%00a%00l%00l%00 %00F%00o%00n%00t%00s%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C8%E0%D8%02%2CNG%00%00%00%80%00H%90%88%00%88%C0%B8%00%C8%E0%D8%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%88%C0%B8%02%88%C0%B8%02K%8D%84%00%00%00%80%00%FF%FF%FF%00%88%C0%B8%02H%90%88%02H%90%88%02%00%00%00%02%C0%C0%C0%00%C8%E0%D8%02%00%00%00%02%88%C0%B8%02%00%00%00%00%C8%E0%D8%00%C0%C0%C0%00%00%00%80%02%18%B4%C0%00x%CC%D8%00,
+/1989/Hive/2,KEY,,2004-08-19 16:56:14
+/1989/Hive/2/Action,DWORD,0x00000003,
+/1989/Hive/2/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/2/ValueName,SZ,Desert,
+/1989/Hive/2/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%EA%E6%DD%02%A2%8Dh%02%00%80%80%00%A2%8Dh%00%D5%CC%BB%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%D5%CC%BB%02%D5%CC%BB%02%A2%8Dh%02%00%80%80%00%FF%FF%FF%00%D5%CC%BB%02%A2%8Dh%02%A2%8Dh%02%00%00%00%02%FF%FF%FF%00%EA%E6%DD%02%00%00%00%02%D5%CC%BB%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%80%80%02%84%BD%AA%00%E8%D0%80%00,
+/1989/Hive/20,KEY,,2004-08-19 16:56:14
+/1989/Hive/20/Action,DWORD,0x00000003,
+/1989/Hive/20/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/20/ValueName,SZ,Plum (high color),
+/1989/Hive/20/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%D8%D0%C8%00@(@%00H@`%00x`X%00%A8%98%90%00%D8%D0%C8%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%A8%98%90%00%A8%98%90%00tcZ%00%00%80%80%00%D8%D0%C8%00%A8%98%90%00x`X%00x`X%00%00%00%00%00%A8%98%90%00%D8%D0%C8%00%00%00%00%00%A8%98%90%000%00X%00%D5%CC%C8%00%C0%C0%C0%00H@`%00%A0%84%B8%00%A8%98x%00,
+/1989/Hive/21,KEY,,2004-08-19 16:56:14
+/1989/Hive/21/Action,DWORD,0x00000003,
+/1989/Hive/21/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/21/ValueName,SZ,Pumpkin (large),
+/1989/Hive/21/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%15%00%00%00%15%00%00%00%1A%00%00%00%1A%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%F5%EA%CF%02B%00B%00%D7%A5/%00%A0%A0%A4%00%EC%D5%9D%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%EC%D5%9D%02%EC%D5%9D%02%F5%EA%CF%02%80%00%80%00%FF%FF%FF%00%EC%D5%9D%02%D7%A5/%02%D7%A5/%02%00%00%00%02%F5%EA%CF%00%F5%EA%CF%02%00%00%00%02%EC%D5%9D%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00%D7%A5/%02%E0%CC%88%00%D0%CC%90%00,
+/1989/Hive/22,KEY,,2004-08-19 16:56:14
+/1989/Hive/22/Action,DWORD,0x00000003,
+/1989/Hive/22/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/22/ValueName,SZ,Rainy Day,
+/1989/Hive/22/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C1%CC%D9%02%00%00%00%02Oe}%00%80%80%80%00%83%99%B1%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%83%99%B1%02%83%99%B1%02%80%80%80%02Oe}%00%FF%FF%FF%00%83%99%B1%02Oe}%02Oe}%02%00%00%00%02%C1%CC%D9%00%C1%CC%D9%02%00%00%00%02%83%99%B1%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00Oe}%02%80%B4%D0%00%B0%BC%D0%00,
+/1989/Hive/23,KEY,,2004-08-19 16:56:14
+/1989/Hive/23/Action,DWORD,0x00000003,
+/1989/Hive/23/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/23/ValueName,SZ,Red%2C White%2C and Blue (VGA),
+/1989/Hive/23/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%13%00%00%00%13%00%00%00%F1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00%00B%00%80%00%00%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%FF%FF%FF%02%80%00%00%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%00%00%02%00%10%A8%00%BA%BE%C9%00,
+/1989/Hive/24,KEY,,2004-08-19 16:56:14
+/1989/Hive/24/Action,DWORD,0x00000003,
+/1989/Hive/24/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/24/ValueName,SZ,Rose,
+/1989/Hive/24/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%17%00%00%00%17%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%CF%AF%B7%02%80%80%80%02%9F`p%00%A0%A0%A4%00%CF%AF%B7%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%CF%AF%B7%02%CF%AF%B7%02%9F`p%02%9F`p%00%FF%FF%FF%00%CF%AF%B7%02%9F`p%02%9F`p%02%00%00%00%02}}}%00%E7%D8%DC%02%00%00%00%02%CF%AF%B7%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%9F`p%02%D8%CC%D0%00%D0%D4%D0%00,
+/1989/Hive/25,KEY,,2004-08-19 16:56:14
+/1989/Hive/25/Action,DWORD,0x00000003,
+/1989/Hive/25/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/25/ValueName,SZ,Rose (large),
+/1989/Hive/25/Value,BINARY,%02%00%00%00%03%00%00%00%02%00%00%00%11%00%00%00%11%00%00%00%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%16%00%00%00%16%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%80%80%80%02%A0`p%00%A0%A0%A4%00%D0%B0%B8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%D0%B0%B8%02%D0%B0%B8%02%E8%D8%E0%02%A0`p%00%FF%FF%FF%00%D0%B0%B8%02%A0`p%02%A0`p%02%00%00%00%02}}}%00%E8%D8%E0%02%00%00%00%02%D0%B0%B8%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%A0`p%02%D8%CC%D0%00%D0%D4%D0%00,
+/1989/Hive/26,KEY,,2004-08-19 16:56:14
+/1989/Hive/26/Action,DWORD,0x00000003,
+/1989/Hive/26/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/26/ValueName,SZ,Slate,
+/1989/Hive/26/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%CE%DC%E3%02AAA%00U%80%97%00%80%80%80%00%9D%B9%C8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%9D%B9%C8%02%9D%B9%C8%02BBB%00U%80%97%00%FF%FF%FF%00%9D%B9%C8%02U%80%97%02U%80%97%02%00%00%00%02%C0%C0%C0%00%CE%DC%E3%02%00%00%00%02%9D%B9%C8%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00U%80%97%02%88%B8%D8%00%A0%BC%C8%00,
+/1989/Hive/27,KEY,,2004-08-19 16:56:14
+/1989/Hive/27/Action,DWORD,0x00000003,
+/1989/Hive/27/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/27/ValueName,SZ,Spruce,
+/1989/Hive/27/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%12%00%00%00%12%00%00%00%F4%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%D0%E3%D3%02!?!%00Y%97d%00%80%80%80%00%A2%C8%A9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%A2%C8%A9%02%A2%C8%A9%02%D0%E3%D3%02Y%97d%00%FF%FF%FF%00%A2%C8%A9%02Y%97d%02Y%97d%02%00%00%00%02%D0%E3%D3%00%D0%E3%D3%02%00%00%00%02%A2%C8%A9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00Y%97d%02%98%C8%E8%00%A8%CC%B0%00,
+/1989/Hive/28,KEY,,2004-08-19 16:56:14
+/1989/Hive/28/Action,DWORD,0x00000003,
+/1989/Hive/28/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/28/ValueName,SZ,Storm (VGA),
+/1989/Hive/28/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00%00%00%02%80%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%00%80%028%8C%B0%00%A8%AC%A8%00,
+/1989/Hive/29,KEY,,2004-08-19 16:56:14
+/1989/Hive/29/Action,DWORD,0x00000003,
+/1989/Hive/29/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/29/ValueName,SZ,Teal (VGA),
+/1989/Hive/29/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00@@%00%00%80%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%80%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%FF%FB%F0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%80%80%02%00%CC%D8%00%98%C8%B8%00,
+/1989/Hive/3,KEY,,2004-08-19 16:56:14
+/1989/Hive/3/Action,DWORD,0x00000003,
+/1989/Hive/3/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/3/ValueName,SZ,Eggplant,
+/1989/Hive/3/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%10%00%00%00%10%00%00%00%13%00%00%00%13%00%00%00%F1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%90%B0%A8%02@%00@%00X%80x%00%90%B0%A8%00%90%B0%A8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%90%B0%A8%02%90%B0%A8%02%80%80%80%02X%80x%00%FF%FF%FF%00%90%B0%A8%02X%80x%02X%80x%02%00%00%00%02X%80x%00%C8%D8%D8%02%00%00%00%02%90%B0%A8%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00X%80x%02%83K%83%00%CB%BD%D2%00,
+/1989/Hive/30,KEY,,2004-08-19 16:56:14
+/1989/Hive/30/Action,DWORD,0x00000003,
+/1989/Hive/30/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/30/ValueName,SZ,Wheat,
+/1989/Hive/30/Value,BINARY,%02%00%00%00%06%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%EE%EE%D0%02%00@%1D%02%80%80%00%00%BC%BCA%00%DE%DE%A0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%DE%DE%A0%02%DE%DE%A0%02%BC%BCA%02%80%80%00%00%FF%FF%FF%00%DE%DE%A0%02%BC%BCA%02%BC%BCA%02%00%00%00%02%FF%FF%FF%00%EE%EE%D0%02%00%00%00%02%DE%DE%A0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%80%80%00%02%C8%B0H%00%B8%B8%80%00,
+/1989/Hive/31,KEY,,2004-08-19 16:56:14
+/1989/Hive/31/Action,DWORD,0x00000003,
+/1989/Hive/31/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/31/ValueName,SZ,Windows Classic,
+/1989/Hive/31/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%10%00%00%00%10%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%00:n%A5%00%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%C0%C0%C0%00%80%80%80%00%00%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%80%80%00%80%80%80%00%00%00%00%00%C0%C0%C0%00%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%00%10%84%D0%00%B5%B5%B5%00,
+/1989/Hive/32,KEY,,2004-08-19 16:56:14
+/1989/Hive/32/Action,DWORD,0x00000003,
+/1989/Hive/32/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/32/ValueName,SZ,Windows Classic (extra large),
+/1989/Hive/32/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%15%00%00%00%15%00%00%00%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00F%00o%00n%00t%00s%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02:n%A5%02%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%DF%DF%DF%02%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%02%10%84%D0%00%B5%B5%B5%00,
+/1989/Hive/33,KEY,,2004-08-19 16:56:14
+/1989/Hive/33/Action,DWORD,0x00000003,
+/1989/Hive/33/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/33/ValueName,SZ,Windows Classic (large),
+/1989/Hive/33/Value,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%12%00%00%00%12%00%00%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02:n%A5%02%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%DF%DF%DF%02%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%02%10%84%D0%00%B5%B5%B5%00,
+/1989/Hive/34,KEY,,2004-08-19 16:56:14
+/1989/Hive/34/Action,DWORD,0x00000003,
+/1989/Hive/34/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/34/ValueName,SZ,Windows Standard,
+/1989/Hive/34/Value,BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%10%00%00%00%10%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0C%00%00%00%0C%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/1989/Hive/35,KEY,,2004-08-19 16:56:14
+/1989/Hive/35/Action,DWORD,0x00000003,
+/1989/Hive/35/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/35/ValueName,SZ,Windows Standard (extra large),
+/1989/Hive/35/Value,BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%15%00%00%00%15%00%00%00%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/1989/Hive/36,KEY,,2004-08-19 16:56:14
+/1989/Hive/36/Action,DWORD,0x00000003,
+/1989/Hive/36/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/36/ValueName,SZ,Windows Standard (large),
+/1989/Hive/36/Value,BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%12%00%00%00%12%00%00%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/1989/Hive/4,KEY,,2004-08-19 16:56:14
+/1989/Hive/4/Action,DWORD,0x00000003,
+/1989/Hive/4/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/4/ValueName,SZ,High Contrast #1,
+/1989/Hive/4/Value,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/1989/Hive/5,KEY,,2004-08-19 16:56:14
+/1989/Hive/5/Action,DWORD,0x00000003,
+/1989/Hive/5/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/5/ValueName,SZ,High Contrast #1 (extra large),
+/1989/Hive/5/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1D%00%00%00%1D%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/1989/Hive/6,KEY,,2004-08-19 16:56:14
+/1989/Hive/6/Action,DWORD,0x00000003,
+/1989/Hive/6/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/6/ValueName,SZ,High Contrast #1 (large),
+/1989/Hive/6/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/1989/Hive/7,KEY,,2004-08-19 16:56:14
+/1989/Hive/7/Action,DWORD,0x00000003,
+/1989/Hive/7/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/7/ValueName,SZ,High Contrast #2,
+/1989/Hive/7/Value,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/1989/Hive/8,KEY,,2004-08-19 16:56:14
+/1989/Hive/8/Action,DWORD,0x00000003,
+/1989/Hive/8/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/8/ValueName,SZ,High Contrast #2 (extra large),
+/1989/Hive/8/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00%00%00t%00y%00l%00e%00%00%00o%00k%00%00%00C%00o%00n%00d%00%00%00d%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/1989/Hive/9,KEY,,2004-08-19 16:56:14
+/1989/Hive/9/Action,DWORD,0x00000003,
+/1989/Hive/9/KeyName,SZ,Control Panel\Appearance\Schemes,
+/1989/Hive/9/ValueName,SZ,High Contrast #2 (large),
+/1989/Hive/9/Value,BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00s%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00A%00r%00i%00a%00l%00%00%00B%00l%00a%00c%00k%00%00%00%00%00t%00y%00l%00e%00%00%00o%00k%00%00%00C%00o%00n%00d%00%00%00d%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/2009,KEY,,2004-08-19 16:56:14
+/2009/Execute,KEY,,2004-08-19 16:56:14
+/2009/Execute/1,KEY,,2004-08-19 16:56:14
+/2009/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe FixCAPIDirAttrib,
+/2022,KEY,,2004-08-19 16:56:14
+/2022/Execute,KEY,,2004-08-19 16:56:14
+/2022/Execute/1,KEY,,2004-08-19 16:56:14
+/2022/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe %25SystemRoot%25\system32\ntprint.dll%2CPSetupKillBadUserConnections,
+/2030,KEY,,2004-08-19 16:56:14
+/2030/Execute,KEY,,2004-08-19 16:56:14
+/2030/Execute/1,KEY,,2004-08-19 16:56:14
+/2030/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe MergeDesktopAndNormalStreams,
+/2065,KEY,,2004-08-19 16:56:14
+/2065/Execute,KEY,,2004-08-19 16:56:14
+/2065/Execute/1,KEY,,2004-08-19 16:56:14
+/2065/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\shmgrate.exe Set-Screensaver-On-FriendlyUI,
+/2072,KEY,,2004-08-19 16:56:14
+/2072/Files,KEY,,2004-08-19 16:56:14
+/2072/Files/1,KEY,,2004-08-19 16:56:14
+/2072/Files/1/Action,DWORD,0x00000004,
+/2072/Files/1/Item,SZ,Command Prompt.lnk,
+/2072/Files/1/Product,DWORD,0x00000000,
+/2109,KEY,,2004-08-19 16:56:14
+/2109/Execute,KEY,,2004-08-19 16:56:14
+/2109/Execute/1,KEY,,2004-08-19 16:56:14
+/2109/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe %25SystemRoot%25\system32\shell32.dll%2CControl_RunDLL intl.cpl%2C%2C/u,
+/2138,KEY,,2004-08-19 16:56:14
+/2138/Files,KEY,,2004-08-19 16:56:14
+/2138/Files/1,KEY,,2004-08-19 16:56:14
+/2138/Files/1/Action,DWORD,0x00000004,
+/2138/Files/1/Item,SZ,NetMeeting.lnk,
+/2138/Files/1/Product,DWORD,0x00000000,
+/2138/Files/2,KEY,,2004-08-19 16:56:14
+/2138/Files/2/Action,DWORD,0x00000004,
+/2138/Files/2/Item,SZ,Microsoft NetMeeting.lnk,
+/2138/Files/2/Product,DWORD,0x00000000,
+/2138/Files/3,KEY,,2004-08-19 16:56:14
+/2138/Files/3/Action,DWORD,0x00000004,
+/2138/Files/3/Item,SZ,Internet Explorer\Microsoft NetMeeting.lnk,
+/2138/Files/3/Product,DWORD,0x00000000,
+/2138/Files/4,KEY,,2004-08-19 16:56:14
+/2138/Files/4/Action,DWORD,0x00000004,
+/2138/Files/4/Item,SZ,Accessories\Internet Tools\NetMeeting.lnk,
+/2138/Files/4/Product,DWORD,0x00000000,
+/2138/Files/5,KEY,,2004-08-19 16:56:14
+/2138/Files/5/Action,DWORD,0x00000004,
+/2138/Files/5/Item,SZ,Accessories\Communications\NetMeeting.lnk,
+/2138/Files/5/Product,DWORD,0x00000000,
+/2196,KEY,,2004-08-19 16:56:14
+/2196/Execute,KEY,,2004-08-19 16:56:14
+/2196/Execute/1,KEY,,2004-08-19 16:56:14
+/2196/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe %25SystemRoot%25\system32\shell32.dll%2CControl_RunDLL input.dll%2C%2C/u,
+/2206,KEY,,2004-08-19 16:56:14
+/2206/Hive,KEY,,2004-08-19 16:56:14
+/2206/Hive/3,KEY,,2004-08-19 16:56:14
+/2206/Hive/3/Action,DWORD,0x00000003,
+/2206/Hive/3/KeyName,SZ,Control Panel\Desktop,
+/2206/Hive/3/ValueName,SZ,UserPreferencesMask,
+/2206/Hive/3/Value,BINARY,%9E>%01%80,
+/2463,KEY,,2004-08-19 16:56:14
+/2463/Execute,KEY,,2004-08-19 16:56:14
+/2463/Execute/1,KEY,,2004-08-19 16:56:14
+/2463/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe %25SystemRoot%25\system32\zipfldr.dll%2CRegisterSendto,
+/2470,KEY,,2004-08-19 16:56:14
+/2470/Hive,KEY,,2004-08-19 16:56:14
+/2470/Hive/1,KEY,,2004-08-19 16:56:14
+/2470/Hive/1/Action,DWORD,0x00000004,
+/2470/Hive/1/Flags,DWORD,0x00000000,
+/2470/Hive/1/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu,
+/2470/Hive/1/ValueNames,MULTI_SZ,{645FF040-5081-101B-9F08-00AA002F954E},
+/2470/Hive/2,KEY,,2004-08-19 16:56:14
+/2470/Hive/2/Action,DWORD,0x00000004,
+/2470/Hive/2/Flags,DWORD,0x00000000,
+/2470/Hive/2/KeyName,SZ,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,
+/2470/Hive/2/ValueNames,MULTI_SZ,{645FF040-5081-101B-9F08-00AA002F954E},
+/2484,KEY,,2004-08-19 16:56:14
+/2484/Files,KEY,,2004-08-19 16:56:14
+/2484/Files/1,KEY,,2004-08-19 16:56:14
+/2484/Files/1/Action,DWORD,0x00000004,
+/2484/Files/1/Item,SZ,MSN Messenger Service.lnk,
+/2484/Files/1/Product,DWORD,0x00000000,
+/2488,KEY,,2004-08-19 16:56:14
+/2488/Execute,KEY,,2004-08-19 16:56:14
+/2488/Execute/1,KEY,,2004-08-19 16:56:14
+/2488/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe advpack.dll%2CLaunchINFSection %25SystemRoot%25\inf\mmopt.inf%2C SoundUpdate,
+/2506,KEY,,2004-08-19 16:56:14
+/2506/Execute,KEY,,2004-08-19 16:56:14
+/2506/Execute/1,KEY,,2004-08-19 16:56:14
+/2506/Execute/1/CommandLine,EXPAND_SZ,%25SystemRoot%25\system32\rundll32.exe advpack.dll%2CLaunchINFSection %25SystemRoot%25\inf\mmopt.inf%2C ExtSound,

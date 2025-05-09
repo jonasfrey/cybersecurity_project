@@ -1,0 +1,746 @@
+PATH,TYPE,VALUE,MTIME
+/,KEY,,2004-08-19 16:56:09
+/AppEvents,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/.Default/,SZ,Default Beep,
+/AppEvents/EventLabels/.Default/DispFileName,SZ,@mmsys.cpl%2C-5824,
+/AppEvents/EventLabels/AppGPFault,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/AppGPFault/,SZ,Program error,
+/AppEvents/EventLabels/AppGPFault/DispFileName,SZ,@mmsys.cpl%2C-5825,
+/AppEvents/EventLabels/Close,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/Close/,SZ,Close program,
+/AppEvents/EventLabels/Close/DispFileName,SZ,@mmsys.cpl%2C-5826,
+/AppEvents/EventLabels/CriticalBatteryAlarm,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/CriticalBatteryAlarm/,SZ,Critical Battery Alarm,
+/AppEvents/EventLabels/CriticalBatteryAlarm/DispFileName,SZ,@mmsys.cpl%2C-5827,
+/AppEvents/EventLabels/DeviceConnect,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/DeviceConnect/,SZ,Device Connect,
+/AppEvents/EventLabels/DeviceConnect/DispFileName,SZ,@mmsys.cpl%2C-5828,
+/AppEvents/EventLabels/DeviceDisconnect,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/DeviceDisconnect/,SZ,Device Disconnect,
+/AppEvents/EventLabels/DeviceDisconnect/DispFileName,SZ,@mmsys.cpl%2C-5829,
+/AppEvents/EventLabels/DeviceFail,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/DeviceFail/,SZ,Device Failed to Connect,
+/AppEvents/EventLabels/DeviceFail/DispFileName,SZ,@mmsys.cpl%2C-5830,
+/AppEvents/EventLabels/EmptyRecycleBin,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/EmptyRecycleBin/,SZ,Empty Recycle Bin,
+/AppEvents/EventLabels/EmptyRecycleBin/DispFileName,SZ,@mmsys.cpl%2C-5831,
+/AppEvents/EventLabels/LowBatteryAlarm,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/LowBatteryAlarm/,SZ,Low Battery Alarm,
+/AppEvents/EventLabels/LowBatteryAlarm/DispFileName,SZ,@mmsys.cpl%2C-5832,
+/AppEvents/EventLabels/MailBeep,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/MailBeep/,SZ,New Mail Notification,
+/AppEvents/EventLabels/MailBeep/DispFileName,SZ,@mmsys.cpl%2C-5837,
+/AppEvents/EventLabels/Maximize,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/Maximize/,SZ,Maximize,
+/AppEvents/EventLabels/Maximize/DispFileName,SZ,@mmsys.cpl%2C-5833,
+/AppEvents/EventLabels/MenuCommand,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/MenuCommand/,SZ,Menu command,
+/AppEvents/EventLabels/MenuCommand/DispFileName,SZ,@mmsys.cpl%2C-5834,
+/AppEvents/EventLabels/MenuPopup,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/MenuPopup/,SZ,Menu popup,
+/AppEvents/EventLabels/MenuPopup/DispFileName,SZ,@mmsys.cpl%2C-5835,
+/AppEvents/EventLabels/Minimize,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/Minimize/,SZ,Minimize,
+/AppEvents/EventLabels/Minimize/DispFileName,SZ,@mmsys.cpl%2C-5836,
+/AppEvents/EventLabels/Navigating,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/Navigating/,SZ,Start Navigation,
+/AppEvents/EventLabels/Navigating/DispFileName,SZ,@mmsys.cpl%2C-5838,
+/AppEvents/EventLabels/Open,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/Open/,SZ,Open program,
+/AppEvents/EventLabels/Open/DispFileName,SZ,@mmsys.cpl%2C-5839,
+/AppEvents/EventLabels/PrintComplete,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/PrintComplete/,SZ,Print Complete,
+/AppEvents/EventLabels/PrintComplete/DispFileName,SZ,@mmsys.cpl%2C-5840,
+/AppEvents/EventLabels/RestoreDown,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/RestoreDown/,SZ,Restore Down,
+/AppEvents/EventLabels/RestoreDown/DispFileName,SZ,@mmsys.cpl%2C-5841,
+/AppEvents/EventLabels/RestoreUp,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/RestoreUp/,SZ,Restore Up,
+/AppEvents/EventLabels/RestoreUp/DispFileName,SZ,@mmsys.cpl%2C-5842,
+/AppEvents/EventLabels/SystemAsterisk,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemAsterisk/,SZ,Asterisk,
+/AppEvents/EventLabels/SystemAsterisk/DispFileName,SZ,@mmsys.cpl%2C-5843,
+/AppEvents/EventLabels/SystemExclamation,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemExclamation/,SZ,Exclamation,
+/AppEvents/EventLabels/SystemExclamation/DispFileName,SZ,@mmsys.cpl%2C-5845,
+/AppEvents/EventLabels/SystemExit,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemExit/,SZ,Exit Windows,
+/AppEvents/EventLabels/SystemExit/DispFileName,SZ,@mmsys.cpl%2C-5846,
+/AppEvents/EventLabels/SystemHand,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemHand/,SZ,Critical Stop,
+/AppEvents/EventLabels/SystemHand/DispFileName,SZ,@mmsys.cpl%2C-5847,
+/AppEvents/EventLabels/SystemNotification,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemNotification/,SZ,System Notification,
+/AppEvents/EventLabels/SystemNotification/DispFileName,SZ,@mmsys.cpl%2C-5848,
+/AppEvents/EventLabels/SystemQuestion,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemQuestion/,SZ,Question,
+/AppEvents/EventLabels/SystemQuestion/DispFileName,SZ,@mmsys.cpl%2C-5849,
+/AppEvents/EventLabels/SystemStart,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/SystemStart/,SZ,Start Windows,
+/AppEvents/EventLabels/SystemStart/DispFileName,SZ,@mmsys.cpl%2C-5850,
+/AppEvents/EventLabels/WindowsLogoff,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/WindowsLogoff/,SZ,Windows Logoff,
+/AppEvents/EventLabels/WindowsLogoff/DispFileName,SZ,@mmsys.cpl%2C-5852,
+/AppEvents/EventLabels/WindowsLogon,KEY,,2004-08-19 16:56:09
+/AppEvents/EventLabels/WindowsLogon/,SZ,Windows Logon,
+/AppEvents/EventLabels/WindowsLogon/DispFileName,SZ,@mmsys.cpl%2C-5853,
+/AppEvents/Schemes,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/,SZ,.Default,
+/AppEvents/Schemes/Apps,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/,SZ,Windows,
+/AppEvents/Schemes/Apps/.Default/DispFileName,SZ,@mmsys.cpl%2C-5856,
+/AppEvents/Schemes/Apps/.Default/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/.Default/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/.Default/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Ding.wav,
+/AppEvents/Schemes/Apps/.Default/.Default/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/.Default/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Ding.wav,
+/AppEvents/Schemes/Apps/.Default/AppGPFault,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/AppGPFault/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/AppGPFault/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/AppGPFault/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/AppGPFault/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Close,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Close/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Close/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Close/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Close/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/CriticalBatteryAlarm,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/CriticalBatteryAlarm/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/CriticalBatteryAlarm/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Battery Critical.wav,
+/AppEvents/Schemes/Apps/.Default/CriticalBatteryAlarm/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/CriticalBatteryAlarm/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Battery Critical.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceConnect,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceConnect/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceConnect/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Insert.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceConnect/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceConnect/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Insert.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceDisconnect,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceDisconnect/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceDisconnect/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Remove.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceDisconnect/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceDisconnect/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Remove.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceFail,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceFail/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceFail/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Fail.wav,
+/AppEvents/Schemes/Apps/.Default/DeviceFail/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/DeviceFail/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Hardware Fail.wav,
+/AppEvents/Schemes/Apps/.Default/LowBatteryAlarm,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/LowBatteryAlarm/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/LowBatteryAlarm/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Battery Low.wav,
+/AppEvents/Schemes/Apps/.Default/LowBatteryAlarm/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/LowBatteryAlarm/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Battery Low.wav,
+/AppEvents/Schemes/Apps/.Default/MailBeep,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MailBeep/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MailBeep/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Notify.wav,
+/AppEvents/Schemes/Apps/.Default/MailBeep/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MailBeep/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Notify.wav,
+/AppEvents/Schemes/Apps/.Default/Maximize,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Maximize/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Maximize/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Maximize/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Maximize/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/MenuCommand,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuCommand/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuCommand/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/MenuCommand/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuCommand/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/MenuPopup,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuPopup/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuPopup/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/MenuPopup/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/MenuPopup/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Minimize,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Minimize/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Minimize/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Minimize/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Minimize/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Open,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Open/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Open/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/Open/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/Open/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/PrintComplete,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/PrintComplete/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/PrintComplete/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/PrintComplete/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/PrintComplete/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/RestoreDown,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreDown/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreDown/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/RestoreDown/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreDown/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/RestoreUp,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreUp/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreUp/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/RestoreUp/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/RestoreUp/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/SystemAsterisk,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemAsterisk/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemAsterisk/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Error.wav,
+/AppEvents/Schemes/Apps/.Default/SystemAsterisk/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemAsterisk/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Error.wav,
+/AppEvents/Schemes/Apps/.Default/SystemExclamation,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExclamation/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExclamation/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Exclamation.wav,
+/AppEvents/Schemes/Apps/.Default/SystemExclamation/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExclamation/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Exclamation.wav,
+/AppEvents/Schemes/Apps/.Default/SystemExit,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExit/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExit/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Shutdown.wav,
+/AppEvents/Schemes/Apps/.Default/SystemExit/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemExit/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Shutdown.wav,
+/AppEvents/Schemes/Apps/.Default/SystemHand,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemHand/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemHand/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Critical Stop.wav,
+/AppEvents/Schemes/Apps/.Default/SystemHand/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemHand/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Critical Stop.wav,
+/AppEvents/Schemes/Apps/.Default/SystemNotification,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemNotification/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemNotification/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Balloon.wav,
+/AppEvents/Schemes/Apps/.Default/SystemNotification/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemNotification/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Balloon.wav,
+/AppEvents/Schemes/Apps/.Default/SystemQuestion,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemQuestion/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemQuestion/.Current/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/SystemQuestion/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemQuestion/.Default/,EXPAND_SZ,,
+/AppEvents/Schemes/Apps/.Default/SystemStart,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemStart/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemStart/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Startup.wav,
+/AppEvents/Schemes/Apps/.Default/SystemStart/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/SystemStart/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Startup.wav,
+/AppEvents/Schemes/Apps/.Default/WindowsLogoff,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogoff/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogoff/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Logoff Sound.wav,
+/AppEvents/Schemes/Apps/.Default/WindowsLogoff/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogoff/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Logoff Sound.wav,
+/AppEvents/Schemes/Apps/.Default/WindowsLogon,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogon/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogon/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Logon Sound.wav,
+/AppEvents/Schemes/Apps/.Default/WindowsLogon/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/.Default/WindowsLogon/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Logon Sound.wav,
+/AppEvents/Schemes/Apps/Explorer,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/,SZ,Windows Explorer,
+/AppEvents/Schemes/Apps/Explorer/DispFileName,SZ,@mmsys.cpl%2C-5854,
+/AppEvents/Schemes/Apps/Explorer/EmptyRecycleBin,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/EmptyRecycleBin/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/EmptyRecycleBin/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Recycle.wav,
+/AppEvents/Schemes/Apps/Explorer/EmptyRecycleBin/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/EmptyRecycleBin/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Recycle.wav,
+/AppEvents/Schemes/Apps/Explorer/Navigating,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/Navigating/.Current,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/Navigating/.Current/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Start.wav,
+/AppEvents/Schemes/Apps/Explorer/Navigating/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Apps/Explorer/Navigating/.Default/,EXPAND_SZ,%25SystemRoot%25\media\Windows XP Start.wav,
+/AppEvents/Schemes/Names,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Names/.Default,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Names/.Default/,SZ,Windows Default,
+/AppEvents/Schemes/Names/.None,KEY,,2004-08-19 16:56:09
+/AppEvents/Schemes/Names/.None/,SZ,No Sounds,
+/Console,KEY,,2004-08-19 16:56:09
+/Console/ColorTable00,DWORD,0x00000000,
+/Console/ColorTable01,DWORD,0x00800000,
+/Console/ColorTable02,DWORD,0x00008000,
+/Console/ColorTable03,DWORD,0x00808000,
+/Console/ColorTable04,DWORD,0x00000080,
+/Console/ColorTable05,DWORD,0x00800080,
+/Console/ColorTable06,DWORD,0x00008080,
+/Console/ColorTable07,DWORD,0x00C0C0C0,
+/Console/ColorTable08,DWORD,0x00808080,
+/Console/ColorTable09,DWORD,0x00FF0000,
+/Console/ColorTable10,DWORD,0x0000FF00,
+/Console/ColorTable11,DWORD,0x00FFFF00,
+/Console/ColorTable12,DWORD,0x000000FF,
+/Console/ColorTable13,DWORD,0x00FF00FF,
+/Console/ColorTable14,DWORD,0x0000FFFF,
+/Console/ColorTable15,DWORD,0x00FFFFFF,
+/Console/CursorSize,DWORD,0x00000019,
+/Console/FaceName,SZ,,
+/Console/FontFamily,DWORD,0x00000000,
+/Console/FontSize,DWORD,0x00000000,
+/Console/FontWeight,DWORD,0x00000000,
+/Console/FullScreen,DWORD,0x00000000,
+/Console/HistoryBufferSize,DWORD,0x00000032,
+/Console/InsertMode,DWORD,0x00000001,
+/Console/LoadConIme,DWORD,0x00000001,
+/Console/NumberOfHistoryBuffers,DWORD,0x00000004,
+/Console/PopupColors,DWORD,0x000000F5,
+/Console/QuickEdit,DWORD,0x00000000,
+/Console/ScreenBufferSize,DWORD,0x012C0050,
+/Console/ScreenColors,DWORD,0x00000007,
+/Console/WindowSize,DWORD,0x00190050,
+/Control Panel,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/Blind Access,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/Blind Access/On,SZ,0,
+/Control Panel/Accessibility/HighContrast,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/HighContrast/Flags,SZ,126,
+/Control Panel/Accessibility/HighContrast/High Contrast Scheme,SZ,High Contrast Black (large),
+/Control Panel/Accessibility/Keyboard Preference,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/Keyboard Preference/On,SZ,0,
+/Control Panel/Accessibility/Keyboard Response,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/Keyboard Response/AutoRepeatDelay,SZ,1000,
+/Control Panel/Accessibility/Keyboard Response/AutoRepeatRate,SZ,500,
+/Control Panel/Accessibility/Keyboard Response/BounceTime,SZ,0,
+/Control Panel/Accessibility/Keyboard Response/DelayBeforeAcceptance,SZ,1000,
+/Control Panel/Accessibility/Keyboard Response/Flags,SZ,126,
+/Control Panel/Accessibility/MouseKeys,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/MouseKeys/Flags,SZ,62,
+/Control Panel/Accessibility/MouseKeys/MaximumSpeed,SZ,80,
+/Control Panel/Accessibility/MouseKeys/TimeToMaximumSpeed,SZ,3000,
+/Control Panel/Accessibility/ShowSounds,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/ShowSounds/On,SZ,0,
+/Control Panel/Accessibility/SoundSentry,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/SoundSentry/Flags,SZ,2,
+/Control Panel/Accessibility/SoundSentry/FSTextEffect,SZ,0,
+/Control Panel/Accessibility/SoundSentry/WindowsEffect,SZ,1,
+/Control Panel/Accessibility/StickyKeys,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/StickyKeys/Flags,SZ,510,
+/Control Panel/Accessibility/TimeOut,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/TimeOut/Flags,SZ,2,
+/Control Panel/Accessibility/TimeOut/TimeToWait,SZ,300000,
+/Control Panel/Accessibility/ToggleKeys,KEY,,2004-08-19 16:56:09
+/Control Panel/Accessibility/ToggleKeys/Flags,SZ,62,
+/Control Panel/Appearance,KEY,,2004-08-19 16:56:09
+/Control Panel/Appearance/Current,SZ,Windows Standard,
+/Control Panel/Appearance/Schemes,KEY,,2004-08-19 16:56:09
+/Control Panel/Appearance/Schemes/Brick,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F4%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%F0w?%00?%00?%00?%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%E1%E0%D2%02B%00%00%00%80%00%00%00%8D%89a%00%C2%BF%A5%00%FF%FF%FF%00%00%00%00%02%00%00%00%00%00%00%00%00%E1%E0%D2%00%C2%BF%A5%00%C2%BF%A5%00%E1%E0%D2%00%8D%89a%00%FF%FF%FF%00%C2%BF%A5%00%8D%89a%02%8D%89a%02%00%00%00%00%E1%E0%D2%00%E1%E0%D2%02%00%00%00%02%C2%BF%A5%02%80%00%00%00%E1%E0%D2%00%C0%C0%C0%00%80%00%00%02%B0t@%00%C8%B8p%00,
+/Control Panel/Appearance/Schemes/Desert,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%EA%E6%DD%02%A2%8Dh%02%00%80%80%00%A2%8Dh%00%D5%CC%BB%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%D5%CC%BB%02%D5%CC%BB%02%A2%8Dh%02%00%80%80%00%FF%FF%FF%00%D5%CC%BB%02%A2%8Dh%02%A2%8Dh%02%00%00%00%02%FF%FF%FF%00%EA%E6%DD%02%00%00%00%02%D5%CC%BB%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%80%80%02%84%BD%AA%00%E8%D0%80%00,
+/Control Panel/Appearance/Schemes/Eggplant,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%10%00%00%00%10%00%00%00%13%00%00%00%13%00%00%00%F1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%90%B0%A8%02@%00@%00X%80x%00%90%B0%A8%00%90%B0%A8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%90%B0%A8%02%90%B0%A8%02%80%80%80%02X%80x%00%FF%FF%FF%00%90%B0%A8%02X%80x%02X%80x%02%00%00%00%02X%80x%00%C8%D8%D8%02%00%00%00%02%90%B0%A8%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00X%80x%02%83K%83%00%CB%BD%D2%00,
+/Control Panel/Appearance/Schemes/High Contrast #1,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast #1 (extra large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1D%00%00%00%1D%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast #1 (large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%00%FF%00%00%FF%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%00%00%FF%FF%FF%00%00%00%FF%00%00%FF%FF%00%00%00%00%02%00%80%00%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%00%00%00%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%00%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%00%00%FF%00%00%FF%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast #2,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast #2 (extra large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00%00%00t%00y%00l%00e%00%00%00o%00k%00%00%00C%00o%00n%00d%00%00%00d%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast #2 (large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00%00%00t%00y%00l%00e%00%00%00o%00k%00%00%00C%00o%00n%00d%00%00%00d%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%00%FF%FF%00%00%00%FF%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%00%FF%00%00%00%FF%00%00%00%00%00%00%00%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%FF%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%00%FF%00%00%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%00%00%C0%C0%C0%00%80%00%80%02%00%FF%FF%00%00%00%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast Black,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/Control Panel/Appearance/Schemes/High Contrast Black (extra large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00 %00%00%00 %00%00%00%25%00%00%00%25%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/Control Panel/Appearance/Schemes/High Contrast Black (large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1C%00%00%00%1C%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1A%00%00%00%1A%00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1E%00%00%00%1E%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%00%00%00%02%00%00%00%02%80%00%80%00%00%80%00%00%00%00%00%00%00%00%00%02%FF%FF%FF%02%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%00%02%00%80%00%02%00%00%00%02%80%00%80%00%FF%FF%FF%00%00%00%00%02%80%80%80%02%00%FF%00%02%FF%FF%FF%02%FF%FF%FF%00%C0%C0%C0%02%FF%FF%FF%02%FF%FF%FF%02%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%80%00%80%02%80%00%80%00%00%80%00%00,
+/Control Panel/Appearance/Schemes/High Contrast White,BINARY,%02%00%00%00F%00%00%00%01%00%00%00%11%00%00%00%11%00%00%00%14%00%00%00%14%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast White (extra large),BINARY,%02%00%00%00F%00%00%00%06%00%00%00%1E%00%00%00%1E%00%00%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00&%00%00%00&%00%00%00%E1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/Control Panel/Appearance/Schemes/High Contrast White (large),BINARY,%02%00%00%00F%00%00%00%07%00%00%00%1A%00%00%00%1A%00%00%00%1F%00%00%00%1F%00%00%00%E8%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%1B%00%00%00%1B%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EB%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EC%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00l%00a%00c%00k%00%00%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%FF%FF%FF%02%FF%FF%FF%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%80%80%80%02%C0%C0%C0%02%80%80%80%02%00%00%00%00%FF%FF%FF%00%FF%FF%FF%02%80%80%80%02%00%FF%00%02%00%00%00%02%00%00%00%00%C0%C0%C0%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%00%00%02%00%00%00%00%FF%FF%FF%00,
+/Control Panel/Appearance/Schemes/Lilac,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%10%00%00%00%10%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%AE%A8%D9%02%00%00%00%02ZN%B1%00%80%80%80%00%AE%A8%D9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%AE%A8%D9%02%AE%A8%D9%02ZN%B1%02ZN%B1%00%FF%FF%FF%00%AE%A8%D9%02ZN%B1%02ZN%B1%02%00%00%00%02%FF%FF%FF%00%D8%D5%EC%02%00%00%00%02%AE%A8%D9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00ZN%B1%02%B6%8F%CB%00%B8%B4%D0%00,
+/Control Panel/Appearance/Schemes/Lilac (large),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%1D%00%00%00%1D%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%AE%A8%D9%02%00%00%00%02ZN%B1%00%80%80%80%00%AE%A8%D9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%AE%A8%D9%02%AE%A8%D9%02ZN%B1%02ZN%B1%00%FF%FF%FF%00%AE%A8%D9%02ZN%B1%02ZN%B1%02%00%00%00%02%FF%FF%FF%00%D8%D5%EC%02%00%00%00%02%AE%A8%D9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00ZN%B1%02%B6%8F%CB%00%B8%B4%D0%00,
+/Control Panel/Appearance/Schemes/Maple,BINARY,%02%00%00%000%9A%08%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%F2%EC%D7%02%00%00%00%02%80%00%00%00%C6%A6F%00%E6%D8%AE%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%E6%D8%AE%02%E6%D8%AE%02%C6%A6F%02%C6%A6F%00%00%00%00%00%E6%D8%AE%02%C6%A6F%02%C6%A6F%02%00%00%00%02%F2%EC%D7%00%F2%EC%D7%02%00%00%00%02%E6%D8%AE%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C6%A6F%02%C0%9C8%00%E0%C8%88%00,
+/Control Panel/Appearance/Schemes/Marine (high color),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0D%00%00%00%0D%00%00%00%F7%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00S%00m%00a%00l%00l%00 %00F%00o%00n%00t%00s%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C8%E0%D8%02%2CNG%00%00%00%80%00H%90%88%00%88%C0%B8%00%C8%E0%D8%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%88%C0%B8%02%88%C0%B8%02K%8D%84%00%00%00%80%00%FF%FF%FF%00%88%C0%B8%02H%90%88%02H%90%88%02%00%00%00%02%C0%C0%C0%00%C8%E0%D8%02%00%00%00%02%88%C0%B8%02%00%00%00%00%C8%E0%D8%00%C0%C0%C0%00%00%00%80%02%18%B4%C0%00x%CC%D8%00,
+/Control Panel/Appearance/Schemes/Plum (high color),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%D8%D0%C8%00@(@%00H@`%00x`X%00%A8%98%90%00%D8%D0%C8%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%A8%98%90%00%A8%98%90%00tcZ%00%00%80%80%00%D8%D0%C8%00%A8%98%90%00x`X%00x`X%00%00%00%00%00%A8%98%90%00%D8%D0%C8%00%00%00%00%00%A8%98%90%000%00X%00%D5%CC%C8%00%C0%C0%C0%00H@`%00%A0%84%B8%00%A8%98x%00,
+/Control Panel/Appearance/Schemes/Pumpkin (large),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%15%00%00%00%15%00%00%00%1A%00%00%00%1A%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%F5%EA%CF%02B%00B%00%D7%A5/%00%A0%A0%A4%00%EC%D5%9D%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%EC%D5%9D%02%EC%D5%9D%02%F5%EA%CF%02%80%00%80%00%FF%FF%FF%00%EC%D5%9D%02%D7%A5/%02%D7%A5/%02%00%00%00%02%F5%EA%CF%00%F5%EA%CF%02%00%00%00%02%EC%D5%9D%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00%D7%A5/%02%E0%CC%88%00%D0%CC%90%00,
+/Control Panel/Appearance/Schemes/Rainy Day,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C1%CC%D9%02%00%00%00%02Oe}%00%80%80%80%00%83%99%B1%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%83%99%B1%02%83%99%B1%02%80%80%80%02Oe}%00%FF%FF%FF%00%83%99%B1%02Oe}%02Oe}%02%00%00%00%02%C1%CC%D9%00%C1%CC%D9%02%00%00%00%02%83%99%B1%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00Oe}%02%80%B4%D0%00%B0%BC%D0%00,
+/Control Panel/Appearance/Schemes/Red%2C White%2C and Blue (VGA),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%13%00%00%00%13%00%00%00%F1%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00%00B%00%80%00%00%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%FF%FF%FF%02%80%00%00%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%00%00%02%00%10%A8%00%BA%BE%C9%00,
+/Control Panel/Appearance/Schemes/Rose,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%17%00%00%00%17%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%11%00%00%00%11%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%CF%AF%B7%02%80%80%80%02%9F`p%00%A0%A0%A4%00%CF%AF%B7%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%CF%AF%B7%02%CF%AF%B7%02%9F`p%02%9F`p%00%FF%FF%FF%00%CF%AF%B7%02%9F`p%02%9F`p%02%00%00%00%02}}}%00%E7%D8%DC%02%00%00%00%02%CF%AF%B7%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%9F`p%02%D8%CC%D0%00%D0%D4%D0%00,
+/Control Panel/Appearance/Schemes/Rose (large),BINARY,%02%00%00%00%03%00%00%00%02%00%00%00%11%00%00%00%11%00%00%00%1C%00%00%00%1C%00%00%00%E9%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00i%00m%00e%00s%00 %00N%00e%00w%00 %00R%00o%00m%00a%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%16%00%00%00%16%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%EF%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%80%80%80%02%A0`p%00%A0%A0%A4%00%D0%B0%B8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%D0%B0%B8%02%D0%B0%B8%02%E8%D8%E0%02%A0`p%00%FF%FF%FF%00%D0%B0%B8%02%A0`p%02%A0`p%02%00%00%00%02}}}%00%E8%D8%E0%02%00%00%00%02%D0%B0%B8%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%A0`p%02%D8%CC%D0%00%D0%D4%D0%00,
+/Control Panel/Appearance/Schemes/Slate,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%CE%DC%E3%02AAA%00U%80%97%00%80%80%80%00%9D%B9%C8%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%9D%B9%C8%02%9D%B9%C8%02BBB%00U%80%97%00%FF%FF%FF%00%9D%B9%C8%02U%80%97%02U%80%97%02%00%00%00%02%C0%C0%C0%00%CE%DC%E3%02%00%00%00%02%9D%B9%C8%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00U%80%97%02%88%B8%D8%00%A0%BC%C8%00,
+/Control Panel/Appearance/Schemes/Spruce,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0F%00%00%00%0F%00%00%00%12%00%00%00%12%00%00%00%F4%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%D0%E3%D3%02!?!%00Y%97d%00%80%80%80%00%A2%C8%A9%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%A2%C8%A9%02%A2%C8%A9%02%D0%E3%D3%02Y%97d%00%FF%FF%FF%00%A2%C8%A9%02Y%97d%02Y%97d%02%00%00%00%02%D0%E3%D3%00%D0%E3%D3%02%00%00%00%02%A2%C8%A9%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00Y%97d%02%98%C8%E8%00%A8%CC%B0%00,
+/Control Panel/Appearance/Schemes/Storm (VGA),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00%00%00%02%80%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%80%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%00%80%028%8C%B0%00%A8%AC%A8%00,
+/Control Panel/Appearance/Schemes/Teal (VGA),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02%00@@%00%00%80%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%80%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%FF%FB%F0%00%FF%FF%FF%02%00%00%00%02%C0%C0%C0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%00%80%80%02%00%CC%D8%00%98%C8%B8%00,
+/Control Panel/Appearance/Schemes/Wheat,BINARY,%02%00%00%00%06%00%00%00%01%00%00%00%0D%00%00%00%0D%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%EE%EE%D0%02%00@%1D%02%80%80%00%00%BC%BCA%00%DE%DE%A0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%DE%DE%A0%02%DE%DE%A0%02%BC%BCA%02%80%80%00%00%FF%FF%FF%00%DE%DE%A0%02%BC%BCA%02%BC%BCA%02%00%00%00%02%FF%FF%FF%00%EE%EE%D0%02%00%00%00%02%DE%DE%A0%02%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%80%80%00%02%C8%B0H%00%B8%B8%80%00,
+/Control Panel/Appearance/Schemes/Windows Classic,BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%10%00%00%00%10%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%0F%00%00%00%0F%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%00:n%A5%00%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%00%C0%C0%C0%00%80%80%80%00%00%00%80%00%FF%FF%FF%00%C0%C0%C0%00%80%80%80%00%80%80%80%00%00%00%00%00%C0%C0%C0%00%FF%FF%FF%00%00%00%00%00%C0%C0%C0%00%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%00%10%84%D0%00%B5%B5%B5%00,
+/Control Panel/Appearance/Schemes/Windows Classic (extra large),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%15%00%00%00%15%00%00%00%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00x%00%1C%10%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00o%00n%00t%00s%00%00%00f%00%00%00n%00%00%00%00%00%00%00%00 %14%00%AC%B9%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%00%00%00%00%00%00%00%00%80%05%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%B4%C0%F0w%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00n%00%00%00%C8%0B%00%00%00%00%00%00%08%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%C0%1D%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02:n%A5%02%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%DF%DF%DF%02%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%02%10%84%D0%00%B5%B5%B5%00,
+/Control Panel/Appearance/Schemes/Windows Classic (large),BINARY,%02%00%00%00%03%00%00%00%01%00%00%00%12%00%00%00%12%00%00%00%16%00%00%00%16%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%FC%7F%22%14%FC%7F%B0%FE%12%00%00%00%00%00%00%00%00%00%98#%EBw%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%F0w%00 %14%00%00%00%00%10%80%05%14%00%F0%1F%14%00%00%00%14%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%88%FB%E8w%02%02%00%00%AC%B9%F0w%00%00%00%00 %00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00|k%E8w%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%00%00%06%00%00%00%18%00%00%00%FF%FF%FF%FF%F0K!%FC%00%C4%F0w%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00M%00i%00c%00r%00o%00s%00o%00f%00t%00 %00S%00a%00n%00s%00 %00S%00e%00r%00i%00f%00%00%00%14%00%0B%00%00%00%00%FF%12%00P%00%00%00%C0%FE%12%00%0C%10%00%01%C0%C0%C0%02:n%A5%02%00%00%80%00%80%80%80%00%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%00%00%00%00%00%00%00%00%FF%FF%FF%00%C0%C0%C0%02%C0%C0%C0%02%80%80%80%02%00%00%80%00%FF%FF%FF%00%C0%C0%C0%02%80%80%80%02%80%80%80%02%00%00%00%02%C0%C0%C0%00%FF%FF%FF%02%00%00%00%02%DF%DF%DF%02%00%00%00%00%FF%FF%E1%00%C0%C0%C0%00%00%00%80%02%10%84%D0%00%B5%B5%B5%00,
+/Control Panel/Appearance/Schemes/Windows Standard,BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%10%00%00%00%10%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0C%00%00%00%0C%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/Control Panel/Appearance/Schemes/Windows Standard (extra large),BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%15%00%00%00%15%00%00%00%18%00%00%00%18%00%00%00%ED%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/Control Panel/Appearance/Schemes/Windows Standard (large),BINARY,%02%00%00%00%F4%01%00%00%01%00%00%00%12%00%00%00%12%00%00%00%15%00%00%00%15%00%00%00%F0%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%12%00%00%00%12%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%F3%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%D4%D0%C8%00:n%A5%00%0A$j%00%80%80%80%00%D4%D0%C8%00%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%00%FF%FF%FF%00%D4%D0%C8%00%D4%D0%C8%00%80%80%80%00%0A$j%00%FF%FF%FF%00%D4%D0%C8%00%80%80%80%00%80%80%80%00%00%00%00%00%D4%D0%C8%00%FF%FF%FF%00@@@%00%D4%D0%C8%00%00%00%00%00%FF%FF%E1%00%B5%B5%B5%00%00%00%80%00%A6%CA%F0%00%C0%C0%C0%00,
+/Control Panel/Colors,KEY,,2004-08-19 16:56:09
+/Control Panel/Colors/ActiveBorder,SZ,212 208 200,
+/Control Panel/Colors/ActiveTitle,SZ,10 36 106,
+/Control Panel/Colors/AppWorkSpace,SZ,128 128 128,
+/Control Panel/Colors/Background,SZ,58 110 165,
+/Control Panel/Colors/ButtonAlternateFace,SZ,181 181 181,
+/Control Panel/Colors/ButtonDkShadow,SZ,64 64 64,
+/Control Panel/Colors/ButtonFace,SZ,212 208 200,
+/Control Panel/Colors/ButtonHilight,SZ,255 255 255,
+/Control Panel/Colors/ButtonLight,SZ,212 208 200,
+/Control Panel/Colors/ButtonShadow,SZ,128 128 128,
+/Control Panel/Colors/ButtonText,SZ,0 0 0,
+/Control Panel/Colors/GradientActiveTitle,SZ,166 202 240,
+/Control Panel/Colors/GradientInactiveTitle,SZ,192 192 192,
+/Control Panel/Colors/GrayText,SZ,128 128 128,
+/Control Panel/Colors/Hilight,SZ,10 36 106,
+/Control Panel/Colors/HilightText,SZ,255 255 255,
+/Control Panel/Colors/HotTrackingColor,SZ,0 0 128,
+/Control Panel/Colors/InactiveBorder,SZ,212 208 200,
+/Control Panel/Colors/InactiveTitle,SZ,128 128 128,
+/Control Panel/Colors/InactiveTitleText,SZ,212 208 200,
+/Control Panel/Colors/InfoText,SZ,0 0 0,
+/Control Panel/Colors/InfoWindow,SZ,255 255 225,
+/Control Panel/Colors/Menu,SZ,212 208 200,
+/Control Panel/Colors/MenuText,SZ,0 0 0,
+/Control Panel/Colors/Scrollbar,SZ,212 208 200,
+/Control Panel/Colors/TitleText,SZ,255 255 255,
+/Control Panel/Colors/Window,SZ,255 255 255,
+/Control Panel/Colors/WindowFrame,SZ,0 0 0,
+/Control Panel/Colors/WindowText,SZ,0 0 0,
+/Control Panel/Current,KEY,,2004-08-19 16:56:09
+/Control Panel/Current/Color Schemes,SZ,Windows Standard,
+/Control Panel/Custom Colors,KEY,,2004-08-19 16:56:09
+/Control Panel/Custom Colors/ColorA,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorB,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorC,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorD,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorE,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorF,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorG,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorH,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorI,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorJ,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorK,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorL,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorM,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorN,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorO,SZ,FFFFFF,
+/Control Panel/Custom Colors/ColorP,SZ,FFFFFF,
+/Control Panel/Desktop,KEY,,2004-08-19 16:56:09
+/Control Panel/Desktop/ActiveWndTrkTimeout,DWORD,0x00000000,
+/Control Panel/Desktop/AutoEndTasks,SZ,0,
+/Control Panel/Desktop/CaretWidth,DWORD,0x00000001,
+/Control Panel/Desktop/CoolSwitch,SZ,1,
+/Control Panel/Desktop/CoolSwitchColumns,SZ,7,
+/Control Panel/Desktop/CoolSwitchRows,SZ,3,
+/Control Panel/Desktop/CursorBlinkRate,SZ,530,
+/Control Panel/Desktop/DragFullWindows,SZ,2,
+/Control Panel/Desktop/DragHeight,SZ,4,
+/Control Panel/Desktop/DragWidth,SZ,4,
+/Control Panel/Desktop/FontSmoothing,SZ,2,
+/Control Panel/Desktop/FontSmoothingType,DWORD,0x00000001,
+/Control Panel/Desktop/ForegroundFlashCount,DWORD,0x00000003,
+/Control Panel/Desktop/ForegroundLockTimeout,DWORD,0x00030D40,
+/Control Panel/Desktop/GridGranularity,SZ,0,
+/Control Panel/Desktop/HungAppTimeout,SZ,5000,
+/Control Panel/Desktop/LowPowerActive,SZ,0,
+/Control Panel/Desktop/LowPowerTimeOut,SZ,0,
+/Control Panel/Desktop/MenuShowDelay,SZ,400,
+/Control Panel/Desktop/PaintDesktopVersion,DWORD,0x00000000,
+/Control Panel/Desktop/Pattern,SZ,(None),
+/Control Panel/Desktop/PowerOffActive,SZ,0,
+/Control Panel/Desktop/PowerOffTimeOut,SZ,0,
+/Control Panel/Desktop/ScreenSaverIsSecure,SZ,0,
+/Control Panel/Desktop/ScreenSaveTimeOut,SZ,600,
+/Control Panel/Desktop/ScreenSaveActive,SZ,1,
+/Control Panel/Desktop/SCRNSAVE.EXE,SZ,%25SystemRoot%25\System32\logon.scr,
+/Control Panel/Desktop/TileWallpaper,SZ,0,
+/Control Panel/Desktop/UserPreferencesMask,BINARY,%9E>%01%80,
+/Control Panel/Desktop/WaitToKillAppTimeout,SZ,20000,
+/Control Panel/Desktop/Wallpaper,SZ,(None),
+/Control Panel/Desktop/WallpaperStyle,SZ,2,
+/Control Panel/Desktop/OriginalWallpaper,SZ,,
+/Control Panel/Desktop/WheelScrollLines,SZ,3,
+/Control Panel/Desktop/WindowMetrics,KEY,,2004-08-19 16:56:09
+/Control Panel/Desktop/WindowMetrics/BorderWidth,SZ,1,
+/Control Panel/Desktop/WindowMetrics/CaptionFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/Desktop/WindowMetrics/CaptionHeight,SZ,-270,
+/Control Panel/Desktop/WindowMetrics/CaptionWidth,SZ,-270,
+/Control Panel/Desktop/WindowMetrics/IconFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/Desktop/WindowMetrics/IconSpacing,SZ,75,
+/Control Panel/Desktop/WindowMetrics/IconTitleWrap,SZ,1,
+/Control Panel/Desktop/WindowMetrics/IconVerticalspacing,SZ,-1125,
+/Control Panel/Desktop/WindowMetrics/MenuFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/Desktop/WindowMetrics/MenuHeight,SZ,-270,
+/Control Panel/Desktop/WindowMetrics/MenuWidth,SZ,-270,
+/Control Panel/Desktop/WindowMetrics/MessageFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/Desktop/WindowMetrics/ScrollHeight,SZ,-240,
+/Control Panel/Desktop/WindowMetrics/ScrollWidth,SZ,-240,
+/Control Panel/Desktop/WindowMetrics/Shell Icon BPP,SZ,16,
+/Control Panel/Desktop/WindowMetrics/SmCaptionFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%BC%02%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/Desktop/WindowMetrics/SmCaptionHeight,SZ,-180,
+/Control Panel/Desktop/WindowMetrics/SmCaptionWidth,SZ,-180,
+/Control Panel/Desktop/WindowMetrics/StatusFont,BINARY,%F5%FF%FF%FF%00%00%00%00%00%00%00%00%00%00%00%00%90%01%00%00%00%00%00%00%00%00%00%00T%00a%00h%00o%00m%00a%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00,
+/Control Panel/don't load,KEY,,2004-08-19 16:56:09
+/Control Panel/don't load/ncpa.cpl,SZ,No,
+/Control Panel/don't load/odbccp32.cpl,SZ,No,
+/Control Panel/Input Method,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Show Status,SZ,1,
+/Control Panel/Input Method/Hot Keys,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000010,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000010/Key Modifiers,BINARY,%02%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000010/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000010/Virtual Key,BINARY, %00%00%00,
+/Control Panel/Input Method/Hot Keys/00000011,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000011/Key Modifiers,BINARY,%04%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000011/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000011/Virtual Key,BINARY, %00%00%00,
+/Control Panel/Input Method/Hot Keys/00000012,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000012/Key Modifiers,BINARY,%02%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000012/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000012/Virtual Key,BINARY,%BE%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000070,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000070/Key Modifiers,BINARY,%02%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000070/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000070/Virtual Key,BINARY, %00%00%00,
+/Control Panel/Input Method/Hot Keys/00000071,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000071/Key Modifiers,BINARY,%04%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000071/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000071/Virtual Key,BINARY, %00%00%00,
+/Control Panel/Input Method/Hot Keys/00000072,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000072/Key Modifiers,BINARY,%03%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000072/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000072/Virtual Key,BINARY,%BC%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000200,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000200/Key Modifiers,BINARY,%03%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000200/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000200/Virtual Key,BINARY,G%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000201,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000201/Key Modifiers,BINARY,%03%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000201/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000201/Virtual Key,BINARY,K%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000202,KEY,,2004-08-19 16:56:09
+/Control Panel/Input Method/Hot Keys/00000202/Key Modifiers,BINARY,%03%C0%00%00,
+/Control Panel/Input Method/Hot Keys/00000202/Target IME,BINARY,%00%00%00%00,
+/Control Panel/Input Method/Hot Keys/00000202/Virtual Key,BINARY,L%00%00%00,
+/Control Panel/International,KEY,,2004-08-19 16:56:09
+/Control Panel/International/iCountry,SZ,1,
+/Control Panel/International/iCurrDigits,SZ,2,
+/Control Panel/International/iCurrency,SZ,0,
+/Control Panel/International/iDate,SZ,0,
+/Control Panel/International/iDigits,SZ,2,
+/Control Panel/International/iLZero,SZ,1,
+/Control Panel/International/iMeasure,SZ,1,
+/Control Panel/International/iNegCurr,SZ,0,
+/Control Panel/International/iTime,SZ,0,
+/Control Panel/International/iTLZero,SZ,0,
+/Control Panel/International/Locale,SZ,00000409,
+/Control Panel/International/s1159,SZ,AM,
+/Control Panel/International/s2359,SZ,PM,
+/Control Panel/International/sCountry,SZ,United States,
+/Control Panel/International/sCurrency,SZ,$,
+/Control Panel/International/sDate,SZ,/,
+/Control Panel/International/sDecimal,SZ,.,
+/Control Panel/International/sLanguage,SZ,ENU,
+/Control Panel/International/sList,SZ,%2C,
+/Control Panel/International/sLongDate,SZ,dddd%2C MMMM dd%2C yyyy,
+/Control Panel/International/sShortDate,SZ,M/d/yyyy,
+/Control Panel/International/sThousand,SZ,%2C,
+/Control Panel/International/sTime,SZ,:,
+/Control Panel/International/Geo,KEY,,2004-08-19 16:56:09
+/Control Panel/International/Geo/Nation,SZ,244,
+/Control Panel/IOProcs,KEY,,2004-08-19 16:56:09
+/Control Panel/IOProcs/MVB,SZ,mvfs32.dll,
+/Control Panel/Keyboard,KEY,,2004-08-19 16:56:09
+/Control Panel/Keyboard/InitialKeyboardIndicators,SZ,0x80000000,
+/Control Panel/Keyboard/KeyboardDelay,SZ,1,
+/Control Panel/Keyboard/KeyboardSpeed,SZ,31,
+/Control Panel/Mouse,KEY,,2004-08-19 16:56:09
+/Control Panel/Mouse/ActiveWindowTracking,DWORD,0x00000000,
+/Control Panel/Mouse/DoubleClickHeight,SZ,4,
+/Control Panel/Mouse/DoubleClickSpeed,SZ,500,
+/Control Panel/Mouse/DoubleClickWidth,SZ,4,
+/Control Panel/Mouse/MouseSensitivity,SZ,10,
+/Control Panel/Mouse/MouseSpeed,SZ,1,
+/Control Panel/Mouse/MouseThreshold1,SZ,6,
+/Control Panel/Mouse/SmoothMouseXCurve,BINARY,%00%00%00%00%00%00%00%00%15n%00%00%00%00%00%00%00@%01%00%00%00%00%00)%DC%03%00%00%00%00%00%00%00(%00%00%00%00%00,
+/Control Panel/Mouse/SmoothMouseYCurve,BINARY,%00%00%00%00%00%00%00%00%B8^%01%00%00%00%00%00%CDL%05%00%00%00%00%00%CDL%18%00%00%00%00%00%00%008%02%00%00%00%00,
+/Control Panel/Mouse/MouseThreshold2,SZ,10,
+/Control Panel/Mouse/SnapToDefaultButton,SZ,0,
+/Control Panel/Mouse/SwapMouseButtons,SZ,0,
+/Control Panel/Patterns,KEY,,2004-08-19 16:56:09
+/Control Panel/Patterns/(None),SZ,(None),
+/Control Panel/Patterns/50%25 Gray,SZ,170 85 170 85 170 85 170 85,
+/Control Panel/Patterns/Boxes,SZ,127 65 65 65 65 65 127 0,
+/Control Panel/Patterns/Critters,SZ,0 80 114 32 0 5 39 2,
+/Control Panel/Patterns/Diamonds,SZ,32 80 136 80 32 0 0 0,
+/Control Panel/Patterns/Paisley,SZ,2 7 7 2 32 80 80 32,
+/Control Panel/Patterns/Pattern,SZ,224 128 142 136 234 10 14 0,
+/Control Panel/Patterns/Quilt,SZ,130 68 40 17 40 68 130 1,
+/Control Panel/Patterns/Scottie,SZ,64 192 200 120 120 72 0 0,
+/Control Panel/Patterns/Spinner,SZ,20 12 200 121 158 19 48 40,
+/Control Panel/Patterns/Thatches,SZ,248 116 34 71 143 23 34 113,
+/Control Panel/Patterns/Tulip,SZ,0 0 84 124 124 56 146 124,
+/Control Panel/Patterns/Waffle,SZ,0 0 0 0 128 128 128 240,
+/Control Panel/Patterns/Weave,SZ,136 84 34 69 136 21 34 81,
+/Control Panel/PowerCfg,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/CurrentPowerPolicy,SZ,0,
+/Control Panel/PowerCfg/GlobalPowerPolicy,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/GlobalPowerPolicy/Policies,BINARY,%01%00%00%00%00%00%00%00%03%00%00%00%10%00%00%00%00%00%00%00%03%00%00%00%10%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%03%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%01%00%00%00%03%00%00%00%03%00%00%00%00%00%00%C0%01%00%00%00%05%00%00%00%01%00%00%00%0A%00%00%00%00%00%00%00%03%00%00%00%01%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%16%00%00%00,
+/Control Panel/PowerCfg/PowerPolicies,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/0,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/0/Name,SZ,Home/Office Desk,
+/Control Panel/PowerCfg/PowerPolicies/0/Description,SZ,This scheme is suited to most home or desktop computers that are left plugged in all the time.,
+/Control Panel/PowerCfg/PowerPolicies/0/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%0022%00%03%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%B0%04%00%00%2C%01%00%00%00%00%00%00X%02%00%00%01%01dPdd%00%00,
+/Control Panel/PowerCfg/PowerPolicies/1,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/1/Name,SZ,Portable/Laptop,
+/Control Panel/PowerCfg/PowerPolicies/1/Description,SZ,This scheme is designed for extended battery life for portable computers on the road.,
+/Control Panel/PowerCfg/PowerPolicies/1/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%B0%04%00%00%2C%01%00%0022%03%03%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00%2C%01%00%00%08%07%00%00%2C%01%00%00%01%01dPdd%00%00,
+/Control Panel/PowerCfg/PowerPolicies/2,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/2/Name,SZ,Presentation,
+/Control Panel/PowerCfg/PowerPolicies/2/Description,SZ,This scheme keeps the monitor on for doing presentations.,
+/Control Panel/PowerCfg/PowerPolicies/2/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%00%00%00%00%84%03%00%0022%03%02%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%00%01%01PPdd%00%00,
+/Control Panel/PowerCfg/PowerPolicies/3,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/3/Name,SZ,Always On,
+/Control Panel/PowerCfg/PowerPolicies/3/Description,SZ,This scheme keeps the computer running so that it can be accessed from the network.  Use this scheme if you do not have network wakeup hardware.,
+/Control Panel/PowerCfg/PowerPolicies/3/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0022%00%00%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%B0%04%00%00%84%03%00%00%00%00%00%00%08%07%00%00%00%01dddd%00%00,
+/Control Panel/PowerCfg/PowerPolicies/4,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/4/Name,SZ,Minimal Power Management,
+/Control Panel/PowerCfg/PowerPolicies/4/Description,SZ,This scheme keeps the computer on and optimizes it for high performance.,
+/Control Panel/PowerCfg/PowerPolicies/4/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%2C%01%00%0022%03%03%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00%2C%01%00%00%00%00%00%00%84%03%00%00%00%01dddd%00%00,
+/Control Panel/PowerCfg/PowerPolicies/5,KEY,,2004-08-19 16:56:09
+/Control Panel/PowerCfg/PowerPolicies/5/Name,SZ,Max Battery,
+/Control Panel/PowerCfg/PowerPolicies/5/Description,SZ,This scheme is extremely aggressive for saving power.,
+/Control Panel/PowerCfg/PowerPolicies/5/Policies,BINARY,%01%00%00%00%02%00%00%00%01%00%00%00%00%00%00%00%02%00%00%00%05%00%00%00%00%00%00%00%B0%04%00%00x%00%00%0022%03%02%04%00%00%00%04%00%00%00%00%00%00%00%00%00%00%00%84%03%00%00<%00%00%00%00%00%00%00%B4%00%00%00%01%01d2dd%00%00,
+/Control Panel/Screen Saver.3DFlyingObj,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.3DPipes,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.Bezier,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.Marquee,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.Marquee/BackgroundColor,SZ,0 0 128,
+/Control Panel/Screen Saver.Marquee/CharSet,SZ,0,
+/Control Panel/Screen Saver.Marquee/Font,SZ,Tahoma,
+/Control Panel/Screen Saver.Marquee/Mode,SZ,1,
+/Control Panel/Screen Saver.Marquee/Size,SZ,24,
+/Control Panel/Screen Saver.Marquee/Speed,SZ,14,
+/Control Panel/Screen Saver.Marquee/Text,SZ,Your text goes here.,
+/Control Panel/Screen Saver.Marquee/TextColor,SZ,255 0 255,
+/Control Panel/Screen Saver.Mystify,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.Mystify/Active1,SZ,1,
+/Control Panel/Screen Saver.Mystify/Active2,SZ,1,
+/Control Panel/Screen Saver.Mystify/Clear Screen,SZ,1,
+/Control Panel/Screen Saver.Mystify/EndColor1,SZ,255 255 255,
+/Control Panel/Screen Saver.Mystify/EndColor2,SZ,255 255 255,
+/Control Panel/Screen Saver.Mystify/Lines1,SZ,7,
+/Control Panel/Screen Saver.Mystify/Lines2,SZ,12,
+/Control Panel/Screen Saver.Mystify/StartColor1,SZ,0 0 0,
+/Control Panel/Screen Saver.Mystify/StartColor2,SZ,0 0 0,
+/Control Panel/Screen Saver.Mystify/WalkRandom1,SZ,1,
+/Control Panel/Screen Saver.Mystify/WalkRandom2,SZ,1,
+/Control Panel/Screen Saver.Stars,KEY,,2004-08-19 16:56:09
+/Control Panel/Screen Saver.Stars/Density,SZ,50,
+/Control Panel/Screen Saver.Stars/WarpSpeed,SZ,10,
+/Control Panel/Sound,KEY,,2004-08-19 16:56:09
+/Control Panel/Sound/Beep,SZ,yes,
+/Control Panel/Sound/ExtendedSounds,SZ,yes,
+/Environment,KEY,,2004-08-19 16:56:09
+/Environment/TEMP,EXPAND_SZ,%25USERPROFILE%25\Local Settings\Temp,
+/Environment/TMP,EXPAND_SZ,%25USERPROFILE%25\Local Settings\Temp,
+/Keyboard Layout,KEY,,2004-08-19 16:56:14
+/Keyboard Layout/Preload,KEY,,2004-08-19 16:56:14
+/Keyboard Layout/Preload/1,SZ,00000409,
+/Keyboard Layout/Substitutes,KEY,,2004-08-19 16:56:09
+/Software,KEY,,2004-08-19 16:56:09
+/Software/Microsoft,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Clock,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Clock/iFormat,SZ,1,
+/Software/Microsoft/Command Processor,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Command Processor/CompletionChar,DWORD,0x00000009,
+/Software/Microsoft/Command Processor/DefaultColor,DWORD,0x00000000,
+/Software/Microsoft/Command Processor/EnableExtensions,DWORD,0x00000001,
+/Software/Microsoft/CTF,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/File Manager,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/File Manager/Settings,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Internet Explorer,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Internet Explorer/Desktop,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Internet Explorer/Desktop/General,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Internet Explorer/Desktop/General/BackupWallpaper,EXPAND_SZ,,
+/Software/Microsoft/Internet Explorer/Main,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Internet Explorer/Main/NoUpdateCheck,DWORD,0x00000001,
+/Software/Microsoft/Internet Explorer/Main/NoJITSetup,DWORD,0x00000001,
+/Software/Microsoft/NetDDE,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/NetDDE/DDE Trusted Shares,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Ntbackup,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/RegEdt32,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/RegEdt32/Settings,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/RegEdt32/Settings/AutoRefresh,SZ,1,
+/Software/Microsoft/RegEdt32/Settings/ConfirmOnDelete,SZ,1,
+/Software/Microsoft/RegEdt32/Settings/ReadOnly,SZ,0,
+/Software/Microsoft/RegEdt32/Settings/RemoteAccess,SZ,0,
+/Software/Microsoft/RegEdt32/Settings/SaveSettings,SZ,1,
+/Software/Microsoft/Schedule+,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Schedule+/Microsoft Schedule+,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Schedule+/Microsoft Schedule+/MigrateIni,SZ,1,
+/Software/Microsoft/Schedule+/Microsoft Schedule+/MigrateIniPrint,SZ,1,
+/Software/Microsoft/Windows,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Explorer,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Explorer/SmallIcons,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Explorer/SmallIcons/SmallIcons,DWORD,0x00000000,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/tips,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Explorer/tips/Show,DWORD,0x00000001,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/AppData,EXPAND_SZ,%25USERPROFILE%25\Application Data,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Desktop,EXPAND_SZ,%25USERPROFILE%25\Desktop,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Favorites,EXPAND_SZ,%25USERPROFILE%25\Favorites,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/NetHood,EXPAND_SZ,%25USERPROFILE%25\NetHood,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Personal,EXPAND_SZ,%25USERPROFILE%25\My Documents,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/PrintHood,EXPAND_SZ,%25USERPROFILE%25\PrintHood,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Programs,EXPAND_SZ,%25USERPROFILE%25\Start Menu\Programs,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Recent,EXPAND_SZ,%25USERPROFILE%25\Recent,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/SendTo,EXPAND_SZ,%25USERPROFILE%25\SendTo,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Start Menu,EXPAND_SZ,%25USERPROFILE%25\Start Menu,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Startup,EXPAND_SZ,%25USERPROFILE%25\Start Menu\Programs\Startup,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Templates,EXPAND_SZ,%25USERPROFILE%25\Templates,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Cookies,EXPAND_SZ,%25USERPROFILE%25\Cookies,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/My Pictures,EXPAND_SZ,%25USERPROFILE%25\My Documents\My Pictures,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Local Settings,EXPAND_SZ,%25USERPROFILE%25\Local Settings,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Local AppData,EXPAND_SZ,%25USERPROFILE%25\Local Settings\Application Data,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/Cache,EXPAND_SZ,%25USERPROFILE%25\Local Settings\Temporary Internet Files,
+/Software/Microsoft/Windows/CurrentVersion/Explorer/User Shell Folders/History,EXPAND_SZ,%25USERPROFILE%25\History,
+/Software/Microsoft/Windows/CurrentVersion/GrpConv,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/GrpConv/MapGroups,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/GrpConv/MapGroups/Games,SZ,Accessories\Games,
+/Software/Microsoft/Windows/CurrentVersion/Policies,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Policies/Explorer,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Policies/Explorer/NoDriveTypeAutoRun,DWORD,0x00000091,
+/Software/Microsoft/Windows/CurrentVersion/Run,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Syncmgr,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Syncmgr/Handlers,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Telephony,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Telephony/HandoffPriorities,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Telephony/HandoffPriorities/RequestMakeCall,SZ,dialer.exe,
+/Software/Microsoft/Windows/CurrentVersion/ThemeManager,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/ThemeManager/WCreatedUser,SZ,1,
+/Software/Microsoft/Windows/CurrentVersion/Themes,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Themes/LastTheme,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows/CurrentVersion/Themes/LastTheme/Wallpaper,SZ,,
+/Software/Microsoft/Windows Help,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows Help/Maximized,SZ,0,
+/Software/Microsoft/Windows Help/Xl,SZ,166,
+/Software/Microsoft/Windows Help/Xr,SZ,474,
+/Software/Microsoft/Windows Help/Yd,SZ,444,
+/Software/Microsoft/Windows Help/Yu,SZ,120,
+/Software/Microsoft/Windows NT,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Devices,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Extensions,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Extensions/ini,SZ,notepad.exe ^.ini,
+/Software/Microsoft/Windows NT/CurrentVersion/Extensions/txt,SZ,notepad.exe ^.txt,
+/Software/Microsoft/Windows NT/CurrentVersion/Extensions/wtx,SZ,notepad.exe ^.wtx,
+/Software/Microsoft/Windows NT/CurrentVersion/Network,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Event Viewer,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Event Viewer/SaveSettings,SZ,1,
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Persistent Connections,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Persistent Connections/SaveConnections,SZ,yes,
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Server Manager,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/Server Manager/SaveSettings,SZ,1,
+/Software/Microsoft/Windows NT/CurrentVersion/Network/User Manager,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/User Manager/SaveSettings,SZ,1,
+/Software/Microsoft/Windows NT/CurrentVersion/Network/User Manager for Domains,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Network/User Manager for Domains/SaveSettings,SZ,1,
+/Software/Microsoft/Windows NT/CurrentVersion/PrinterPorts,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/EditLevel,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/NoClose,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/NoFileMenu,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/NoRun,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/NoSaveSettings,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Restrictions/Restrictions,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings/AutoArrange,DWORD,0x00000001,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings/display.drv,SZ,vga.drv,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings/MinOnRun,DWORD,0x00000000,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings/SaveSettings,DWORD,0x00000001,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/Settings/Window,SZ,68 63 636 421 1,
+/Software/Microsoft/Windows NT/CurrentVersion/Program Manager/UNICODE Groups,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/TrueType,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/TrueType/TTEnable,SZ,1,
+/Software/Microsoft/Windows NT/CurrentVersion/TrueType/TTonly,SZ,0,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows,KEY,,2004-08-19 16:56:09
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/DebugOptions,SZ,2048,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/device,SZ,,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/Documents,SZ,,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/DosPrint,SZ,no,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/load,SZ,,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/NetMessage,SZ,no,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/NullPort,SZ,None,
+/Software/Microsoft/Windows NT/CurrentVersion/Windows/Programs,SZ,com exe bat pif cmd,
+/Software/Policies,KEY,,2004-08-19 16:56:09
+/UNICODE Program Groups,KEY,,2004-08-19 16:56:09
