@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>answers.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h2 id="1-wie-lautet-der-hashwert-des-abbilds-stimmen-der-erfassungs--und-verifizierungs">1. Wie lautet der Hashwert des Abbilds? Stimmen der Erfassungs- und Verifizierungs-</h2>
+<p>Hashwert überein?</p>
+<pre class="hljs"><code><div><span class="hljs-comment"># * SCHARDT.001: From: 0, To: 1389747, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT001.sec
+<span class="hljs-comment"># * ...28A9B613D6EEFE8A0515EF0A675BDEBD...</span>
+<span class="hljs-comment"># * SCHARDT.002: From: 1301248, To: 2690995, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT002.sec
+<span class="hljs-comment"># * ...C7227E7EEA82D218663257397679A7C4...</span>
+<span class="hljs-comment"># * SCHARDT.003: From: 2602496, To: 3992243, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT003.sec
+<span class="hljs-comment"># * ...EBBA35ACD7B8AA85A5A7C13F3DD733D2...</span>
+<span class="hljs-comment"># * SCHARDT.004: From: 3903744, To: 5293491, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT004.sec
+<span class="hljs-comment"># * ...669B6636DCB4783FD5509C4710856C59...</span>
+<span class="hljs-comment"># * SCHARDT.005: From: 5204992, To: 6594739, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT005.sec
+<span class="hljs-comment"># * ...C46E5760E3821522EE81E675422025BB...</span>
+<span class="hljs-comment"># * SCHARDT.006: From: 6506240, To: 7895987, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT006.sec
+<span class="hljs-comment"># * ...99511901DA2DEA772005B5D0D764E750...</span>
+<span class="hljs-comment"># * SCHARDT.007: From: 7807488, To: 9197235, Size: 1301248, MD5 Value:</span>
+md5sum ./SCHARDT007.sec
+<span class="hljs-comment"># * ...99511901DA2DEA772005B5D0D764E750...</span>
+<span class="hljs-comment"># * SCHARDT.008: From: 9108736, To: 10498483, Size: 405524, MD5 Value:</span>
+md5sum ./SCHARDT008.sec
+<span class="hljs-comment"># * ...8194A79A5356DF79883AE2DC7415929F...</span>
+
+  <span class="hljs-comment">#output                                          </span>
+<span class="hljs-comment"># 28a9b613d6eefe8a0515ef0a675bdebd  ./SCHARDT001.sec</span>
+<span class="hljs-comment"># c7227e7eea82d218663257397679a7c4  ./SCHARDT002.sec</span>
+<span class="hljs-comment"># ebba35acd7b8aa85a5a7c13f3dd733d2  ./SCHARDT003.sec</span>
+<span class="hljs-comment"># 669b6636dcb4783fd5509c4710856c59  ./SCHARDT004.sec</span>
+<span class="hljs-comment"># c46e5760e3821522ee81e675422025bb  ./SCHARDT005.sec</span>
+<span class="hljs-comment"># 99511901da2dea772005b5d0d764e750  ./SCHARDT006.sec</span>
+<span class="hljs-comment"># 99511901da2dea772005b5d0d764e750  ./SCHARDT007.sec</span>
+<span class="hljs-comment"># 8194a79a5356df79883ae2dc7415929f  ./SCHARDT008.sec</span>
+</div></code></pre>
+<p>file 006 und 007 sind gleich</p>
+<h2 id="2-welches-betriebssystem-war-auf-dem-computer-installiert">2. Welches Betriebssystem war auf dem Computer installiert?</h2>
+<p><code>file filename</code> reveals '...DOS/MBR boot sector MS-MBR XP english at offset 0x12c...'</p>
+<h2 id="3-wann-wurde-das-betriebssystem-installiert">3. Wann wurde das Betriebssystem installiert?</h2>
+<p>ctrl + f 'InstallDate'
+ctrl + shift + l to select all matches
+finds :
+/cybersecurity_project/WINDOWS_system32_config_software.txt
+<code>/Microsoft/Windows/CurrentVersion/Installer/UserData/S-1-5-18/Products/0B79C053C7D38EE4AB9A00CB3B5D2472/InstallProperties/InstallDate,SZ,20040819, /Microsoft/Windows/CurrentVersion/Installer/UserData/S-1-5-18/Products/111E13C6BB69CDA4C9186E3DEEDD8D3D/InstallProperties/InstallDate,SZ,20040820, /Microsoft/Windows/CurrentVersion/Uninstall/WinPcapInst/InstallDate,SZ,08/27/2004, /Microsoft/Windows/CurrentVersion/Uninstall/{350C97B0-3D7C-4EE8-BAA9-00BCB3D54227}/InstallDate,SZ,20040819, /Microsoft/Windows/CurrentVersion/Uninstall/{6C31E111-96BB-4ADC-9C81-E6D3EEDDD8D3}/InstallDate,SZ,20040820, /Microsoft/Windows NT/CurrentVersion/InstallDate,DWORD,0x41252E3B, </code>
+the most relevant is 'InstallDate,SZ,20040820,
+/Microsoft/Windows NT/CurrentVersion/InstallDate,DWORD,0x41252E3B'
+the hexavalue is a unix timestamp and can be converted with
+<code>date -d @$(printf &quot;%d&quot; 0x41252E3B)</code>
+which reveals :Thursday, August 19, 2004 10:48:27 PM</p>
+<h2 id="4-welche-zeitzoneneinstellungen-waren-konfiguriert">4. Welche Zeitzoneneinstellungen waren konfiguriert?</h2>
+<p>ctrl + f 'TimeZoneInformation'
+ctrl + shift + l
+finds:
+'/ControlSet001/Control/TimeZoneInformation,KEY,,2004-08-19 17:20:02
+/ControlSet001/Control/TimeZoneInformation/Bias,DWORD,0x00000168,
+/ControlSet001/Control/TimeZoneInformation/StandardName,SZ,Central Standard Time,
+/ControlSet001/Control/TimeZoneInformation/StandardBias,DWORD,0x00000000,
+/ControlSet001/Control/TimeZoneInformation/StandardStart,BINARY,%00%00%0A%00%05%00%02%00%00%00%00%00%00%00%00%00,
+/ControlSet001/Control/TimeZoneInformation/DaylightName,SZ,Central Daylight Time,
+/ControlSet001/Control/TimeZoneInformation/DaylightBias,DWORD,0xFFFFFFC4,
+/ControlSet001/Control/TimeZoneInformation/DaylightStart,BINARY,%00%00%04%00%01%00%02%00%00%00%00%00%00%00%00%00,
+/ControlSet001/Control/TimeZoneInformation/ActiveTimeBias,DWORD,0x0000012C,
+/ControlSet002/Control/TimeZoneInformation,KEY,,2004-08-19 17:20:02
+/ControlSet002/Control/TimeZoneInformation/Bias,DWORD,0x00000168,
+/ControlSet002/Control/TimeZoneInformation/StandardName,SZ,Central Standard Time,
+/ControlSet002/Control/TimeZoneInformation/StandardBias,DWORD,0x00000000,
+/ControlSet002/Control/TimeZoneInformation/StandardStart,BINARY,%00%00%0A%00%05%00%02%00%00%00%00%00%00%00%00%00,
+/ControlSet002/Control/TimeZoneInformation/DaylightName,SZ,Central Daylight Time,
+/ControlSet002/Control/TimeZoneInformation/DaylightBias,DWORD,0xFFFFFFC4,
+/ControlSet002/Control/TimeZoneInformation/DaylightStart,BINARY,%00%00%04%00%01%00%02%00%00%00%00%00%00%00%00%00,
+/ControlSet002/Control/TimeZoneInformation/ActiveTimeBias,DWORD,0x0000012C,
+'
+Die eingestellte Zeitzone auf dem OS ist Central Standard Time (CST) mit:</p>
+<pre><code>Bias: 0x00000168 = 360 Dezimal (Minute) = 6 Stunden (UTC-6)
+
+StandardName: Central Standard Time
+
+DaylightName: Central Daylight Time
+
+DaylightBias: 0xFFFFFFC4 = -60 Dezimal (Minute) = -1 Stunde (für Sommerzeit)
+
+ActiveTimeBias: 0x0000012C = 300 Dezimal (Minute) = 5 Stunden (aktiver Bias während Sommerzeit, also UTC-5)
+</code></pre>
+<p>Zusammenfassung:
+Das Betriebssystem ist auf die Central Time Zone (US Central Time) eingestellt, mit Standardzeit UTC-6 und Sommerzeit UTC-5.</p>
+<h2 id="5-wer-ist-als-registrierter-besitzer-des-systems-eingetragen">5. Wer ist als registrierter Besitzer des Systems eingetragen?</h2>
+<p>ctrl + f 'RegisteredOwner'
+ctrl + shift + l
+'/Microsoft/Windows NT/CurrentVersion/RegisteredOwner,SZ,Greg Schardt,'</p>
+<h2 id="6-wie-lautet-der-name-des-benutzerkontos">6. Wie lautet der Name des Benutzerkontos?</h2>
+<p>cybersecurity_project/hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_SAM.txt
+contains:
+'
+/SAM/Domains/Account/Users/Names,KEY,,2004-08-19 23:03:54
+/SAM/Domains/Account/Users/Names/,NONE,(null),
+/SAM/Domains/Account/Users/Names/Administrator,KEY,,2004-08-19 16:59:24
+/SAM/Domains/Account/Users/Names/Administrator/,0x000001F4,(null),
+/SAM/Domains/Account/Users/Names/Guest,KEY,,2004-08-19 16:59:24
+/SAM/Domains/Account/Users/Names/Guest/,0x000001F5,(null),
+/SAM/Domains/Account/Users/Names/HelpAssistant,KEY,,2004-08-19 22:28:24
+/SAM/Domains/Account/Users/Names/HelpAssistant/,0x000003E8,(null),
+/SAM/Domains/Account/Users/Names/Mr. Evil,KEY,,2004-08-19 23:03:54
+/SAM/Domains/Account/Users/Names/Mr. Evil/,0x000003EB,(null),
+/SAM/Domains/Account/Users/Names/SUPPORT_388945a0,KEY,,2004-08-19 22:35:19
+/SAM/Domains/Account/Users/Names/SUPPORT_388945a0/,0x000003EA,(null),
+'
+interesting here is the entry
+/SAM/Domains/Account/Users/Names/Mr. Evil,KEY,,2004-08-19 23:03:54
+which suggests a user with the name 'Mr. Evil' that may have been created '2004-08-19 23:03:54'
+in the evening of the day the OS was installed
+(Thursday, August 19, 2004 10:48:27 PM)</p>
+<h2 id="7-welcher-prim%C3%A4re-dom%C3%A4nenname-war-eingetragen">7. Welcher primäre Domänenname war eingetragen?</h2>
+<p><code>/cybersecurity_project/hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_system.txt contains /ControlSet001/Control/Lsa/disabledomaincreds,DWORD,0x00000000, /ControlSet001/Control/Lsa/Kerberos/Domains,KEY,,2004-08-19 17:01:59 /ControlSet001/Control/Terminal Server/DefaultUserConfiguration/Domain,SZ,, /ControlSet001/Control/Terminal Server/WinStations/Console/Domain,SZ,, /ControlSet001/Control/Terminal Server/WinStations/RDP-Tcp/Domain,SZ,, /ControlSet001/Services/Browser/Parameters/IsDomainMaster,SZ,FALSE, /ControlSet001/Services/Dhcp/Parameters/Options/15/RegLocation,MULTI_SZ,SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\?\DhcpDomain|SYSTEM\CurrentControlSet\Services\TcpIp\Parameters\DhcpDomain, /ControlSet001/Services/Dnscache/Description,SZ,Resolves and caches Domain Name System (DNS) names for this computer. If this service is stopped%2C this computer will not be able to resolve DNS names and locate Active Directory domain controllers. If this service is disabled%2C any services that explicitly depend on it will fail to start., /ControlSet001/Services/Eventlog/Security/LSA/ObjectNames/TrustedDomainObject,DWORD,0x00001620, /ControlSet001/Services/Eventlog/Security/Security Account Manager/ObjectNames/SAM_DOMAIN,DWORD,0x00001510, /ControlSet001/Services/lanmanworkstation/parameters/OtherDomains,MULTI_SZ,, /ControlSet001/Services/Netlogon/Description,SZ,Supports pass-through authentication of account logon events for computers in a domain., /ControlSet001/Services/Tcpip/Parameters/Domain,SZ,, /ControlSet001/Services/Tcpip/Parameters/UseDomainNameDevolution,DWORD,0x00000001, /ControlSet001/Services/Tcpip/Parameters/Interfaces/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Domain,SZ,, /ControlSet001/Services/Tcpip/Parameters/Interfaces/{86FC0C96-3FF2-4D59-9ABA-C602F213B5D2}/Domain,SZ,, /ControlSet001/Services/TrkWks/Description,SZ,Maintains links between NTFS files within a computer or across computers in a network domain., /ControlSet002/Control/Lsa/disabledomaincreds,DWORD,0x00000000, /ControlSet002/Control/Lsa/Kerberos/Domains,KEY,,2004-08-19 17:01:59 /ControlSet002/Control/Terminal Server/DefaultUserConfiguration/Domain,SZ,, /ControlSet002/Control/Terminal Server/WinStations/Console/Domain,SZ,, /ControlSet002/Control/Terminal Server/WinStations/RDP-Tcp/Domain,SZ,, /ControlSet002/Services/Browser/Parameters/IsDomainMaster,SZ,FALSE, /ControlSet002/Services/Dhcp/Parameters/Options/15/RegLocation,MULTI_SZ,SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\?\DhcpDomain|SYSTEM\CurrentControlSet\Services\TcpIp\Parameters\DhcpDomain, /ControlSet002/Services/Dnscache/Description,SZ,Resolves and caches Domain Name System (DNS) names for this computer. If this service is stopped%2C this computer will not be able to resolve DNS names and locate Active Directory domain controllers. If this service is disabled%2C any services that explicitly depend on it will fail to start., /ControlSet002/Services/Eventlog/Security/LSA/ObjectNames/TrustedDomainObject,DWORD,0x00001620, /ControlSet002/Services/Eventlog/Security/Security Account Manager/ObjectNames/SAM_DOMAIN,DWORD,0x00001510, /ControlSet002/Services/lanmanworkstation/parameters/OtherDomains,MULTI_SZ,, /ControlSet002/Services/Netlogon/Description,SZ,Supports pass-through authentication of account logon events for computers in a domain., /ControlSet002/Services/Tcpip/Parameters/Domain,SZ,, /ControlSet002/Services/Tcpip/Parameters/UseDomainNameDevolution,DWORD,0x00000001, /ControlSet002/Services/Tcpip/Parameters/Interfaces/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Domain,SZ,, /ControlSet002/Services/TrkWks/Description,SZ,Maintains links between NTFS files within a computer or across computers in a network domain.,</code>
+Der primäre Domänenname ist nicht eingetragen.</p>
+<p>Begründung:
+Alle Schlüssel unter /ControlSet001/Services/Tcpip/Parameters/Domain sowie unter den Terminal Server Domains sind leer (SZ, ohne Wert). Ebenso sind keine anderen Domain-Namen im System hinterlegt.</p>
+<p>Ergebnis:
+Kein primärer Domänenname ist eingetragen.</p>
+<h2 id="8-wann-wurde-der-computer-zuletzt-heruntergefahren">8. Wann wurde der Computer zuletzt heruntergefahren?</h2>
+<h2 id="9-wie-viele-benutzerkonten-sind-insgesamt-auf-dem-system-vorhanden">9. Wie viele Benutzerkonten sind insgesamt auf dem System vorhanden?</h2>
+<p>cybersecurity_project/hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_SAM.txt
+contains:
+'
+/SAM/Domains/Account/Users/Names,KEY,,2004-08-19 23:03:54
+/SAM/Domains/Account/Users/Names/,NONE,(null),
+/SAM/Domains/Account/Users/Names/Administrator,KEY,,2004-08-19 16:59:24
+/SAM/Domains/Account/Users/Names/Administrator/,0x000001F4,(null),
+/SAM/Domains/Account/Users/Names/Guest,KEY,,2004-08-19 16:59:24
+/SAM/Domains/Account/Users/Names/Guest/,0x000001F5,(null),
+/SAM/Domains/Account/Users/Names/HelpAssistant,KEY,,2004-08-19 22:28:24
+/SAM/Domains/Account/Users/Names/HelpAssistant/,0x000003E8,(null),
+/SAM/Domains/Account/Users/Names/Mr. Evil,KEY,,2004-08-19 23:03:54
+/SAM/Domains/Account/Users/Names/Mr. Evil/,0x000003EB,(null),
+/SAM/Domains/Account/Users/Names/SUPPORT_388945a0,KEY,,2004-08-19 22:35:19
+/SAM/Domains/Account/Users/Names/SUPPORT_388945a0/,0x000003EA,(null),
+'
+suggests
+KEY
+Administrator
+Guest
+Guest
+HelpAssistant
+Mr. Evil
+SUPPORT_388945a0
+SUPPORT_388945a0
+Es sind insgesamt 6 Benutzerkonten auf dem System vorhanden:</p>
+<pre><code>Administrator
+
+Guest
+
+HelpAssistant
+
+Mr. Evil
+
+SUPPORT_388945a0
+</code></pre>
+<h2 id="10-welcher-benutzer-nutzt-den-computer-am-h%C3%A4ufigsten">10. Welcher Benutzer nutzt den Computer am häufigsten?</h2>
+<p>/mnt/SCHARDT_001_008$ ls -lt &quot;Documents and Settings&quot;/*/Recent
+'Documents and Settings/Mr. Evil/Recent':
+total 6
+-rwxrwxrwx 2 root root 460 ago 26  2004 'Temp on m1200 (4.12.220.254).lnk'
+-rwxrwxrwx 1 root root 575 ago 26  2004  yng13.lnk
+-rwxrwxrwx 2 root root 582 ago 20  2004 'channels (2).lnk'
+-rwxrwxrwx 1 root root 759 ago 20  2004  channels.lnk
+-rwxrwxrwx 2 root root 333 ago 20  2004  GhostWare.lnk
+-rwxrwxrwx 1 root root 459 ago 20  2004  Receipt.lnk
+-rwxrwxrwx 2 root root 339 ago 20  2004  Anonyymizer.lnk
+-rwxrwxrwx 1 root root 458 ago 20  2004  keys.lnk
+-rwxrwxrwx 1 root root 150 ago 20  2004  Desktop.ini</p>
+<p>Der Benutzer Mr. Evil nutzt den Computer am häufigsten, da sich im Verzeichnis Documents and Settings/Mr. Evil/Recent mehrere zuletzt genutzte Dateien und Verknüpfungen befinden, die auf eine aktive Nutzung hinweisen.</p>
+<h2 id="11-welcher-benutzer-war-zuletzt-am-system-angemeldet">11. Welcher Benutzer war zuletzt am System angemeldet?</h2>
+<h2 id="welcher-benutzer-war-zuletzt-angemeldet">welcher benutzer war zuletzt angemeldet?</h2>
+<p>grep -i 'DefaultUserName' ./hive_decoded/*
+./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.sav.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/DefaultUserName,SZ,,
+./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/DefaultUserName,SZ,Mr. Evil,
+./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/AltDefaultUserName,SZ,Mr. Evil,</p>
+<h2 id="12-eine-suche-nach-dem-namen-greg-schardt-f%C3%BChrt-zu-mehreren-treffern">12. Eine Suche nach dem Namen Greg Schardt führt zu mehreren Treffern.</h2>
+<p>Einer davon
+beweist, dass Greg Schardt mit „Mr. Evil“ identisch ist und Administratorrechte auf
+diesem System hatte.
+o Frage: Wie heisst diese Datei und mit welchem Softwareprogramm steht sie
+in Verbindung?</p>
+<h2 id="13-welche-netzwerkkarten-wurden-in-diesem-computer-verwendet">13. Welche Netzwerkkarten wurden in diesem Computer verwendet?</h2>
+<p>DriverDesc
+/ControlSet001/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI to USB Universal Host Controller,
+/ControlSet001/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0001/DriverDesc,SZ,USB Root Hub,
+/ControlSet001/Control/Class/{4D36E965-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,CD-ROM Drive,
+/ControlSet001/Control/Class/{4D36E966-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Advanced Configuration and Power Interface (ACPI) PC,
+/ControlSet001/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Disk drive,
+/ControlSet001/Control/Class/{4D36E968-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicGraph256AV driver,
+/ControlSet001/Control/Class/{4D36E969-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard floppy disk controller,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI Bus Master IDE Controller,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Primary IDE Channel,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Secondary IDE Channel,
+/ControlSet001/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard 101/102-Key or Microsoft Natural PS/2 Keyboard,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicMedia 256AV Audio Driver (WDM),
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Media Control Devices,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Video Codecs,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Audio Codecs,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,Legacy Video Capture Devices,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,Legacy Audio Drivers,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,Microsoft Streaming Quality Manager Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,Microsoft Kernel Audio Splitter,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Kernel Acoustic Echo Canceller,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,Microsoft Kernel GS Wavetable Synthesizer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,Microsoft Kernel DLS Synthesizer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Microsoft Streaming Service Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,Microsoft Streaming Clock Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,Microsoft Kernel System Audio Device,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,Microsoft Kernel Wave Audio Mixer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Microsoft WINMM WDM Audio Compatibility Driver,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Microsoft Kernel DRM Audio Descrambler,
+/ControlSet001/Control/Class/{4D36E96D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Xircom Cardbus Ethernet 100 + Modem 56 (Modem Interface),
+/ControlSet001/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Default Monitor,
+/ControlSet001/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Default Monitor,
+/ControlSet001/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,PS/2 Compatible Mouse,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0001/DriverDesc,SZ,Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0002/DriverDesc,SZ,RAS Async Adapter,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0003/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0004/DriverDesc,SZ,WAN Miniport (L2TP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0005/DriverDesc,SZ,WAN Miniport (PPTP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0006/DriverDesc,SZ,WAN Miniport (PPPOE),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0007/DriverDesc,SZ,Direct Parallel,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0008/DriverDesc,SZ,WAN Miniport (IP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0009/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0010/DriverDesc,SZ,Compaq WL110 Wireless LAN PC Card,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0011/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet001/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet001/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Communications Port,
+/ControlSet001/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,ECP Printer Port,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Plug and Play Software Device Enumerator,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Microcode Update Device,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Volume Manager,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Microsoft ACPI-Compliant System,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,PCI bus,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,ACPI Sleep Button,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,ACPI Lid,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,ACPI Thermal Zone,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Composite Battery,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,ACPI Power Button,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to AGP Controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Intel 82371AB/EB PCI to ISA bridge (EIO mode),
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to PCI Bridge,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0017/DriverDesc,SZ,ISAPNP Read Data Port,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0018/DriverDesc,SZ,Numeric data processor,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0019/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0020/DriverDesc,SZ,System CMOS/real time clock,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0021/DriverDesc,SZ,System speaker,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0022/DriverDesc,SZ,Direct memory access controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0023/DriverDesc,SZ,System timer,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0024/DriverDesc,SZ,Programmable interrupt controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0025/DriverDesc,SZ,Printer Port Logical Interface,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0026/DriverDesc,SZ,Terminal Server Device Redirector,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0027/DriverDesc,SZ,Terminal Server Mouse Driver,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0028/DriverDesc,SZ,Terminal Server Keyboard Driver,
+/ControlSet001/Control/Class/{50127DC3-0F36-415E-A6CC-4CB3BE910B65}/0000/DriverDesc,SZ,Processor,
+/ControlSet001/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F}/0000/DriverDesc,SZ,Generic volume,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0000/DriverDesc,SZ,Microsoft AC Adapter,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0001/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0002/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet002/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI to USB Universal Host Controller,
+/ControlSet002/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0001/DriverDesc,SZ,USB Root Hub,
+/ControlSet002/Control/Class/{4D36E965-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,CD-ROM Drive,
+/ControlSet002/Control/Class/{4D36E966-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Advanced Configuration and Power Interface (ACPI) PC,
+/ControlSet002/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Disk drive,
+/ControlSet002/Control/Class/{4D36E968-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicGraph256AV driver,
+/ControlSet002/Control/Class/{4D36E969-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard floppy disk controller,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI Bus Master IDE Controller,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Primary IDE Channel,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Secondary IDE Channel,
+/ControlSet002/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard 101/102-Key or Microsoft Natural PS/2 Keyboard,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicMedia 256AV Audio Driver (WDM),
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Media Control Devices,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Video Codecs,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Audio Codecs,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,Legacy Video Capture Devices,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,Legacy Audio Drivers,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,Microsoft Streaming Quality Manager Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,Microsoft Kernel Audio Splitter,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Kernel Acoustic Echo Canceller,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,Microsoft Kernel GS Wavetable Synthesizer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,Microsoft Kernel DLS Synthesizer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Microsoft Streaming Service Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,Microsoft Streaming Clock Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,Microsoft Kernel System Audio Device,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,Microsoft Kernel Wave Audio Mixer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Microsoft WINMM WDM Audio Compatibility Driver,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Microsoft Kernel DRM Audio Descrambler,
+/ControlSet002/Control/Class/{4D36E96D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Xircom Cardbus Ethernet 100 + Modem 56 (Modem Interface),
+/ControlSet002/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Default Monitor,
+/ControlSet002/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Default Monitor,
+/ControlSet002/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,PS/2 Compatible Mouse,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0001/DriverDesc,SZ,Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0002/DriverDesc,SZ,RAS Async Adapter,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0003/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0004/DriverDesc,SZ,WAN Miniport (L2TP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0005/DriverDesc,SZ,WAN Miniport (PPTP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0006/DriverDesc,SZ,WAN Miniport (PPPOE),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0007/DriverDesc,SZ,Direct Parallel,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0008/DriverDesc,SZ,WAN Miniport (IP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0009/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet002/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet002/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet002/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Communications Port,
+/ControlSet002/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,ECP Printer Port,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Plug and Play Software Device Enumerator,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Microcode Update Device,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Volume Manager,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Microsoft ACPI-Compliant System,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,PCI bus,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,ACPI Sleep Button,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,ACPI Lid,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,ACPI Thermal Zone,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Composite Battery,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,ACPI Power Button,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to AGP Controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Intel 82371AB/EB PCI to ISA bridge (EIO mode),
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to PCI Bridge,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0017/DriverDesc,SZ,ISAPNP Read Data Port,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0018/DriverDesc,SZ,Numeric data processor,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0019/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0020/DriverDesc,SZ,System CMOS/real time clock,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0021/DriverDesc,SZ,System speaker,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0022/DriverDesc,SZ,Direct memory access controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0023/DriverDesc,SZ,System timer,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0024/DriverDesc,SZ,Programmable interrupt controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0025/DriverDesc,SZ,Printer Port Logical Interface,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0026/DriverDesc,SZ,Terminal Server Device Redirector,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0027/DriverDesc,SZ,Terminal Server Mouse Driver,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0028/DriverDesc,SZ,Terminal Server Keyboard Driver,
+/ControlSet002/Control/Class/{50127DC3-0F36-415E-A6CC-4CB3BE910B65}/0000/DriverDesc,SZ,Processor,
+/ControlSet002/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F}/0000/DriverDesc,SZ,Generic volume,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0000/DriverDesc,SZ,Microsoft AC Adapter,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0001/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0002/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+Die im Computer verwendeten Netzwerkkarten sind:</p>
+<pre><code>Xircom Cardbus Ethernet 100 + Modem 56 (Modem Interface)
+
+Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface)
+
+Compaq WL110 Wireless LAN PC Card
+
+Texas Instruments PCI-1225 CardBus Controller (2 Einträge)
+</code></pre>
+<p>Das sind die eindeutigen Netzwerkkarten aus den DriverDesc-Einträgen.</p>
+<h2 id="14-dieselbe-datei-enth%C3%A4lt-die-ip-adresse-und-mac-adresse-des-computers">14. Dieselbe Datei enthält die IP-Adresse und MAC-Adresse des Computers.</h2>
+<p>Wie lauten
+diese?
+/ControlSet002/Services/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Parameters/Tcpip/IPAddress,MULTI_SZ,0.0.0.0,
+/ControlSet002/Services/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Parameters/Tcpip/SubnetMask,MULTI_SZ,0.0.0.0,
+/ControlSet002/Services/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Parameters/Tcpip/DefaultGateway,MULTI_SZ,,
+/ControlSet002/Services/{6E4090C2-FAEF-489A-8575-505D21FC1049}/Parameters/Tcpip/DhcpIPAddress,SZ,192.168.1.111,</p>
+<p>also 192.168.1.111 via DHCP</p>
+<h2 id="15-mithilfe-der-mac-adresse-kann-%C3%BCber-eine-internetrecherche-der-hersteller-der">15. Mithilfe der MAC-Adresse kann über eine Internetrecherche der Hersteller der</h2>
+<p>Netzwerkkarte ermittelt werden. Die ersten drei Hexadezimalstellen der MAC-
+Adresse identifizieren den Hersteller.
+o Frage: Welche Netzwerkkarte wurde während der Installation und Einrichtung
+von LOOK@LAN verwendet?
+<code>ConfigFile=C:\Program Files\Look@LAN\irunin.dat LanguageFile=C:\Program Files\Look@LAN\irunin.lng ImageFile=C:\Program Files\Look@LAN\irunin.bmp</code>
+/mnt/SCHARDT_001_008/Program Files/Look@LAN/irunin.ini
+%LANNIC%=0010a4933e09 -&gt; 00:10:A4:93:3E:09
+MAC Address: 00:10:A4:93:3E:09</p>
+<p>Manufacturer: Nokia (OUI 0010A4)
+Network Card Used: Likely an older Nokia network interface card (NIC) or embedded adapter.</p>
+<p>This matches the installation environment (Windows XP era, based on %ISWINXP%=TRUE in your config).</p>
+<h2 id="16-nennen-sie-sechs-installierte-programme-die-m%C3%B6glicherweise-f%C3%BCr-hacking-zwecke">16. Nennen Sie sechs installierte Programme, die möglicherweise für Hacking-Zwecke</h2>
+<p>verwendet wurden.
+/mnt/SCHARDT_001_008/Program Files$ ls
+123WASP                 folder.htt            'Online Services'
+Accessories             GlobalSCAPE           'Outlook Express'
+Agent                  'Internet Explorer'    'PLUS!'
+Anonymizer              Look@LAN              'Uninstall Information'
+Cain                    Messenger              Whois
+CHAT                   'microsoft frontpage'  'Windows Media Player'
+'Common Files'           mIRC                  'Windows NT'
+'ComPlus Applications'  'Movie Maker'           WindowsUpdate
+desktop.ini             MSN                    WinPcap
+DirectX                'MSN Gaming Zone'       xerox
+Ethereal                NetMeeting
+'Faber Toys'            'Network Stumbler'</p>
+<ol>
+<li>
+<p>Cain</p>
+<p>Typ: Passwort-Cracker / Netzwerk-Sniffer</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Kann gespeicherte Passwörter (z. B. aus Browsern, WLAN) auslesen.
+
+ Führt ARP-Spoofing (Man-in-the-Middle-Angriffe) durch.
+
+ Brute-Force-Angriffe auf Hashes (LM/NTLM, WPA).
+</code></pre>
+</li>
+<li>
+<p>WinPcap</p>
+<p>Typ: Paket-Sniffing-Treiber</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Wird von Wireshark, Nmap, Cain genutzt, um Netzwerkverkehr abzufangen.
+
+ Ermöglicht Passwort-Diebstahl (z. B. unverschlüsselter HTTP-Traffic).
+</code></pre>
+</li>
+<li>
+<p>Ethereal (heute Wireshark)</p>
+<p>Typ: Netzwerk-Protokoll-Analyzer</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Sniffing von unverschlüsselten Daten (FTP, Telnet, HTTP).
+
+ Analyse von Angriffsversuchen (z. B. Port-Scans, Exploits).
+</code></pre>
+</li>
+<li>
+<p>mIRC</p>
+<p>Typ: IRC-Client</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Wurde oft für Botnet-Kommunikation genutzt (z. B. via IRC-Bots).
+
+ Scripting-Funktionen (mIRC-Skripte) für Automatisierung von Angriffen.
+</code></pre>
+</li>
+<li>
+<p>Network Stumbler</p>
+<p>Typ: WLAN-Scanner</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Findet ungesicherte WLANs (War-Driving).
+
+ Zeigt SSIDs, Signalstärke &amp; Verschlüsselungstypen an.
+</code></pre>
+</li>
+<li>
+<p>Look@LAN</p>
+<p>Typ: Netzwerk-Monitoring-Tool</p>
+<p>Hacking-Relevanz:</p>
+<pre><code> Scannt Hosts, offene Ports &amp; Dienste (Reconnaissance).
+
+ Kann für Schwachstellen-Scans im LAN genutzt werden.
+</code></pre>
+</li>
+</ol>
+<h2 id="17-wie-lautet-die-smtp-e-mail-adresse-von-%E2%80%9Emr-evil">17. Wie lautet die SMTP-E-Mail-Adresse von „Mr. Evil“?</h2>
+<p><code>reglookup &quot;/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/NTUSER.DAT&quot; &gt; NTUSER.DAT.txt</code></p>
+<p>/Software/Microsoft/Internet Account Manager/Accounts/00000001/SMTP Server,SZ,smtp.sbcglobal.net,
+/Software/Microsoft/Internet Account Manager/Accounts/00000001/SMTP Display Name,SZ,Mr Evil,
+/Software/Microsoft/Internet Account Manager/Accounts/00000001/SMTP Email Address,SZ,whoknowsme@sbcglobal.net,</p>
+<h2 id="18-welche-nntp-einstellungen-newsserver-sind-f%C3%BCr-mr-evil-konfiguriert">18. Welche NNTP-Einstellungen (Newsserver) sind für Mr. Evil konfiguriert?</h2>
+<p>Ergebnis:</p>
+<p>Newsserver:</p>
+<p>news.dallas.sbcglobal.net</p>
+<p>Registry-Pfad:</p>
+<p>/Software/Microsoft/Internet Account Manager/Accounts/00000002/
+Weitere SMTP-Details:
+Schlüssel	Wert
+SMTP Server	smtp.sbcglobal.net
+SMTP Display Name	Mr Evil
+SMTP Email Address	whoknowsme@sbcglobal.net</p>
+<p>Weitere NNTP-Einstellungen:
+Schlüssel	Wert
+NNTP Server	news.dallas.sbcglobal.net
+NNTP User Name	whoknowsme@sbcglobal.net
+NNTP Password2 (verschl.)	%01%02n%00e%00w%00s...
+NNTP Display Name	Mr Evil
+NNTP Email Address	whoknowsme@sbcglobal.net
+Connection Type	0x00000003 (vermutlich &quot;LAN&quot;)</p>
+<h2 id="19-welche-zwei-programme-zeigen-diese-informationen">19. Welche zwei Programme zeigen diese Informationen?</h2>
+<p>Die Informationen über SMTP/NNTP-Konten, Server, Benutzernamen und Passwörter stammen aus der Windows-Registry, genauer gesagt aus dem Hive NTUSER.DAT im Pfad:/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/NTUSER.DAT</p>
+<h2 id="20-nennen-sie-f%C3%BCnf-newsgroups-in-denen-mr-evil-angemeldet-ist">20. Nennen Sie fünf Newsgroups, in denen Mr. Evil angemeldet ist.</h2>
+<p>email verkehr kann auch hier gefunden werden
+<code>sudo apt install undbx</code>
+<code>sudo undbx &quot;/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/Application Data/Identities/{EF086998-1115-4ECD-9B13-9ADC067B4929}/Microsoft/Outlook Express&quot;</code></p>
+<p>Fünf Newsgroups:</p>
+<pre><code>alt.2600.cardz
+
+alt.2600.crackz
+
+alt.2600.hackerz
+
+free.binaries.hacking.computers
+
+alt.binaries.hacking.utilities
+</code></pre>
+<p>Diese Gruppennamen stammen direkt aus den .dbx-Dateinamen. Outlook Express speichert für jede abonnierte Newsgroup eine separate .dbx-Datei. Die Namen vor .dbx entsprechen dabei exakt den Namen der Newsgroups.</p>
+<h2 id="21-ein-beliebtes-irc-programm-namens-mirc-war-installiert">21. Ein beliebtes IRC-Programm namens mIRC war installiert.</h2>
+<p>o Frage: Welche Benutzereinstellungen wurden angezeigt, als der Nutzer online
+war und einen Chatraum betreten hatte?
+in der datei : <code>/mnt/SCHARDT_001_008/Program Files/mIRC/mirc.ini</code>
+Die relevanten Benutzereinstellungen, die Mr. Evil beim Betreten eines Chatraums angezeigt wurden, sind:</p>
+<pre><code>user: Mini Me
+
+email: none@of.ya
+
+nick: Mr
+
+anick (Alternativnick): mrevilrulez
+
+host: Undernet: US, CA, LosAngelesSERVER:losangeles.ca.us.undernet.org:6660GROUP:Undernet
+</code></pre>
+<p>Diese Werte geben seinen sichtbaren Nickname, Alternativnick, Benutzername, E-Mail und den Server/Host an.</p>
+<h2 id="22-dieses-irc-programm-kann-chat-sitzungen-aufzeichnen">22. Dieses IRC-Programm kann Chat-Sitzungen aufzeichnen.</h2>
+<p>o Frage: Nennen Sie drei IRC-Channels, die der Nutzer betreten hat.
+<code>/mnt/SCHARDT_001_008/Program Files/mIRC/logs$ ls -latrh total 26K drwxrwxrwx 1 root root 4.0K Aug 20  2004  . -rwxrwxrwx 2 root root  148 Aug 20  2004 '#ISO-WAREZ.EFnet.log' -rwxrwxrwx 2 root root  335 Aug 20  2004 '#evilfork.EFnet.log' -rwxrwxrwx 2 root root  589 Aug 20  2004 '#LuxShell.UnderNet.log' -rwxrwxrwx 2 root root 1.3K Aug 20  2004 '#mp3xserv.UnderNet.log' -rwxrwxrwx 2 root root  284 Aug 20  2004 '#ushells.UnderNet.log' -rwxrwxrwx 2 root root  464 Aug 20  2004 '#Elite.Hackers.UnderNet.log' -rwxrwxrwx 2 root root  265 Aug 20  2004 '#houston.UnderNet.log' -rwxrwxrwx 2 root root  688 Aug 20  2004 '#Chataholics.UnderNet.log' -rwxrwxrwx 2 root root  285 Aug 20  2004  m5tar.UnderNet.log -rwxrwxrwx 2 root root 9.2K Aug 20  2004 '#CyberCafe.UnderNet.log' -rwxrwxrwx 2 root root  578 Aug 20  2004 '#thedarktower.AfterNET.log' -rwxrwxrwx 2 root root  263 Aug 20  2004 '#funny.UnderNet.log' drwxrwxrwx 1 root root 4.0K Aug 25  2004  .. </code></p>
+<p>Drei IRC-Channels, die der Nutzer betreten hat, sind:</p>
+<pre><code>#ISO-WAREZ.EFnet
+
+#evilfork.EFnet
+
+#LuxShell.UnderNet
+</code></pre>
+<p>Diese kannst du anhand der Log-Dateien im Ordner logs/ erkennen.</p>
+<h2 id="23-das-programm-ethereal-ein-bekanntes-sniffing-tool-zum-abfangen-von">23. Das Programm Ethereal (ein bekanntes Sniffing-Tool zum Abfangen von</h2>
+<p>Netzwerkpaketen) war ebenfalls installiert.
+o Die gesammelten TCP-Pakete werden standardmässig im Ordner „Eigene
+Dateien“ gespeichert.
+o Frage: Wie heisst die Datei, die abgefangene Daten enthält?
+`
+(base) jf18j492@aitne:/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Application Data/Ethereal$ cat recent</p>
+<h1 id="recent-settings-file-for-ethereal-0106">Recent settings file for Ethereal 0.10.6.</h1>
+<h1 id=""></h1>
+<h1 id="this-file-is-regenerated-each-time-ethereal-is-quit">This file is regenerated each time Ethereal is quit.</h1>
+<h1 id="so-be-careful-if-you-want-to-make-manual-changes-here">So be careful, if you want to make manual changes here.</h1>
+<p>######## Recent capture files (latest last) ########</p>
+<p><code>recent.capture_file: C:\Documents and Settings\Mr. Evil\interception</code></p>
+<p>######## Recent display filters (latest last) ########
+...
+`
+Die Datei recent aus dem Ethereal-Ordner zeigt:</p>
+<p>Die abgefangene Datei heißt:
+<code>C:\Documents and Settings\Mr. Evil\interception</code></p>
+<p>Das ist der Speicherort der Capture-Datei mit den aufgezeichneten Netzwerkpaketen.</p>
+<h2 id="24-durch-die-ansicht-dieser-datei-im-textformat-l%C3%A4sst-sich-viel-%C3%BCber-die-betroffene">24. Durch die Ansicht dieser Datei im Textformat lässt sich viel über die betroffene</h2>
+<p>Person erkennen.
+o Frage: Welchen Typ von drahtlosem Computer benutzte die betroffene
+Person?
+Die Details zeigen, dass die betroffene Person ein mobiles Gerät mit Windows CE (Pocket PC) Version 4.20 verwendet hat, das auf einem Intel PXA255 CPU basiert.</p>
+<p>Das ist ein klassisches PDA-/Handheld-Gerät mit Farbdisplay (240x320 Pixel) und Internet Explorer 4.01 kompatiblen Browser.</p>
+<p>Antwort auf Frage 24:
+Der Typ des drahtlosen Computers ist ein Pocket PC (Windows CE-basiert), also ein PDA (Personal Digital Assistant).</p>
+<h2 id="25-welche-webseiten-rief-die-betroffene-person-auf">25. Welche Webseiten rief die betroffene Person auf?</h2>
+<p>strings interception | less &gt; interception_strings.txt
+grep -o -E &quot;https?<img class="emoji" alt="confused" src="data:image/png;base64,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" />/[][[:alnum:]._~:/?#@interception_strings.txt&amp;'()*+,;%=-]+&quot; interception_strings.txt &gt; urls.txt</p>
+<p>awk '!seen[$0]++' urls.txt &gt; urls_unique.txt
+<code>http://mobile.msn.com/hm/folder.aspx?ts=1093601294&amp;fts=1093566459&amp;folder=ACTIVE&amp;msg=0 http://mobile.msn.com/hm/folder.aspx?ts=1093601294&amp;amp;fts=1093566459&amp;amp;folder=ACTIVE&amp;amp;msg=0' http://login.passport.com/logout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093620995&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=b8ccd6c1f528c699542236fcee0d1593 http://www.passportimages.com/1033/signout.gif http://go.msn.com/ad/4/ http://go.msn.com/ac/6/ http://192.168.254.254:80/upnp/service/descrip.xml http://login.passport.com/logout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621004&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=76adf7b34c2cc6ca027fcfce760dc182 http://mobile.msn.com/hm/composeppc.aspx http://mobile.msn.com/hm/docompose.aspx?__redir=1&amp;rru=folder.aspx&amp;time=632292178755527999 http://mobile.msn.com/hm/docompose.aspx?__redir=1&amp;amp;rru=folder.aspx&amp;amp;time=632292178755527999' http://login.passport.com/logout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621076&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=9b89da28be314acd249279639d83d955 http://login.passport.com/logout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621085&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=e5d150bc02380575db2ca2981ca00dea http://login.passport.net/uilogout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621085&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=e5d150bc02380575db2ca2981ca00dea http://www.passportimages.com/1033/PassportLogoTrans.gif http://mobile.msn.com http://mobile.msn.com/scripts/cobrandcss.asp?PP_PAGE=ppLogout&amp;lid=1033 http://www.passportimages.com/1033/signout_bad.gif http://www.passportimages.com/1033/signout_good.gif http://login.passport.net/uilogout.srf?lc=1033&amp;id=961&amp;ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621085&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=e5d150bc02380575db2ca2981ca00dea&amp;ec=1&amp;vis= http://mobile.msn.com/images/ppcobrandimage.gif http://mobile.msn.com?lc=1033 http://mobile.msn.com/scripts/cobrand.asp?PP_PAGE=ppLogout&amp;lid=1033 http://www.passport.net/default.asp?lc=1033&amp;id=961 http://www.passportimages.com/1033/dotnetlogoBIG.gif http://mobile.msn.com/scripts/logoutgif.asp?ct=1093621215 http://help.msn.com/en_us/frameset.asp?INI=ppv2.ini&amp;H_APP=Microsoft%20Passport&amp;Topic=SISOToSignOut.htm&amp;H_VER=1.5&amp;v3=1033 http://memberservices.passport.net/memberservice.srf?ru=http%3a%2f%2fmobile.msn.com%2fscripts%2flogoutgif.asp%3fru%3d%2f&amp;tw=14400&amp;kv=5&amp;ct=1093621085&amp;ems=1&amp;ver=2.5.1016.0&amp;tpf=e5d150bc02380575db2ca2981ca00dea&amp;lc=1033&amp;id=961 http://www.passport.net/consumer/termsofuse.asp?lc=1033&amp;id=961 http://www.passport.net/consumer/privacypolicy.asp?lc=1033&amp;id=961 http://sc.msn.com/global/scr/lg/hdr35.js' http://sc.msn.com/global/c/sf/sfg_mb.gif);border-bottom:1px http://go.msn.com/AC/1/' http://sc.msn.com/global/c/lg/TESE_118x35.gif' http://mobile.msn.com' http://sc.msn.com/global/c/sf/sf_mb.jpg' http://mobile.msn.com/content/images/img_PassportBackground.gif' http://www.rsac.org/ratingsv01.html http://www.passport.com http://www.passportimages.com/1033/PassportLogo140x44.gif http://www.passport.com/memberservices.asp http://mobile.msn.com/pocketpc/default.aspx?msppchlg=1&amp;mspplogin=http://login.passport.com/login.srf%3Flc%3D1033%26id%3D961%26ru%3Dhttp%253a%252f%252fmobile.msn.com%252fpocketpc%252fdefault.aspx%26tw%3D14400%26kv%3D5%26ct%3D1093621223%26ns%3Dhotmail.com%26ver%3D2.5.1016.0%26tpf%3D45ab41b989db44e211b719cbf6dc7b97 http://www.passportimages.com/1033/signin.gif http://windowsmedia.com/mobile http://usmoneymobile.msn.com http://pocket.espn.go.com/ http://mobile.msn.com/</code></p>
+<h2 id="26-suchen-sie-die-webbasierte-e-mail-adresse-des-hauptnutzers-wie-lautet-diese">26. Suchen Sie die webbasierte E-Mail-Adresse des Hauptnutzers. Wie lautet diese?</h2>
+<p><code>/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5$ tree . </code></p>
+<p><code>   ├── desktop.ini ├── index.dat ├── MSHist012004081620040823 │   └── index.dat ├── MSHist012004082520040826 │   └── index.dat ├── MSHist012004082620040827 │   └── index.dat └── MSHist012004082720040828     └── index.dat</code>
+4 directories, 6 fil
+<code>sudo apt install pasco</code>
+`
+TYPE	URL	MODIFIED TIME	ACCESS TIME	FILENAME	DIRECTORY	HTTP HEADERS
+URL	Visited: Mr. Evil@http://www.2600.com/hacked_pages/2000/01/thomas.loc.gov	08/20/2004 17:32:12	08/20/2004 17:32:12			
+URL	Visited: Mr. Evil@http://us.f613.mail.yahoo.com/ym/login?.rand=7lrrdoi00fl1k&amp;.first=1	08/20/2004 17:38:23	08/20/2004 17:38:23			
+URL	Visited: Mr. Evil@mk:@MSITStore:C:\WINDOWS\help\msoe.chm::/cool_mail.htm08/20/2004 23:15:02	08/20/2004 23:15:02			
+URL	Visited: Mr. Evil@http://www.microsoft.com/windows/ie/getosver/javaxp.asp	08/25/2004 18:13:01	08/25/2004 18:13:01			
+URL	Visited: Mr. Evil@http://www.cnn.com/cnn_adspaces/adsPopup2.html?0	08/20/2004 21:05:23	08/20/2004 21:05:23			
+URL	Visited: Mr. Evil@http://www.wardriving.com/setup.php	08/27/2004 17:09:27	08/27/2004 17:09:27			
+URL	Visited: Mr. Evil@http://winpcap.mirror.ethereal.com/301a/download.htm	08/27/2004 17:11:33	08/27/2004 17:11:33			
+URL	Visited: Mr. Evil@http://www.yahoo.com/<em>ylh=X3oDMTB1M2EzYWFoBF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDaWUtYmV0YQ--/s/208739	08/25/2004 17:26:02	08/25/2004 17:26:02			
+URL	Visited: Mr. Evil@http://www.mosnews.com/interview/2004/08/24/arbatov.shtml	08/25/2004 17:52:59	08/25/2004 17:52:59			
+URL	Visited: Mr. Evil@http://www.maktoob.com	08/27/2004 17:43:19	08/27/2004 17:43:19			
+URL	Visited: Mr. Evil@http://www.t50.com/extra.html	08/20/2004 17:49:01	08/20/2004 17:49:01			
+URL	Visited: Mr. Evil@http://search.msn.com/results.aspx?FORM=MSNH&amp;q=download%20rencode%20buddy	08/20/2004 23:27:44	08/20/2004 23:27:44		
+URL	Visited: Mr. Evil@ftp://ftp.volftp.mondadori.com/pub/pc/windows/win98/progs/network/tcpip/lalsetup250.exe	08/25/2004 17:51:24	08/25/2004 17:51:24			
+URL	Visited: Mr. Evil@file:///C:/Program%20Files/mIRC/channels/channels.txt08/20/2004 17:50:40	08/20/2004 17:50:40			
+URL	Visited: Mr. Evil@http://www.ethereal.com/distribution/win32/ethereal-setup-0.10.6.exe	08/27/2004 17:11:49	08/27/2004 17:11:49			
+URL	Visited: Mr. Evil@http://winpcap.mirror.ethereal.com/install/bin/WinPcap_3_01_a.exe	08/27/2004 17:14:20	08/27/2004 17:14:20			
+URL	Visited: Mr. Evil@http://www.majorgeeks.com	08/25/2004 17:27:45	08/25/2004 17:27:45			
+URL	Visited: Mr. Evil@file:///D:/Drivers/Anonyymizer/keys.txt	08/20/2004 17:04:51	08/20/2004 17:04:51			
+URL	Visited: Mr. Evil@file:///D:/Drivers/GhostWare/Receipt.rtf	08/20/2004 17:09:16	08/20/2004 17:09:16			
+URL	Visited: Mr. Evil@http://www.microsoft.com/isapi/redir.dll?prd=ie&amp;pver=6&amp;ar=msnhome	08/27/2004 17:42:47	08/27/2004 17:42:47			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/eval_register?.v=&amp;.intl=&amp;new=1&amp;.done=&amp;.src=ym&amp;.partner=&amp;.p=&amp;promo=&amp;.last=	08/20/2004 17:34:27	08/20/2004 17:34:27			
+URL	Visited: Mr. Evil@http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;q=who+am+i08/25/2004 18:07:32	08/25/2004 18:07:32			
+URL	Visited: Mr. Evil@http://www.mosnews.com/news/2004/08/24/internetend.shtml	08/25/2004 17:51:39	08/25/2004 17:51:39			
+URL	Visited: Mr. Evil@http://www.mosnews.com/commentary/2004/08/25/revolution.shtml	08/25/2004 17:54:07	08/25/2004 17:54:07			
+URL	Visited: Mr. Evil@http://www.msn.com	08/27/2004 17:42:54	08/27/2004 17:42:54			
+URL	Visited: Mr. Evil@http://us.f613.mail.yahoo.com/ym/ShowLetter?MsgId=6284_1110_22_443_55_0_1</em>-1_0&amp;Idx=0&amp;YY=60138&amp;.first=1&amp;inc=25&amp;order=down&amp;sort=date&amp;pos=0&amp;view=&amp;head=&amp;box=Inbox	08/20/2004 17:38:31	08/20/2004 17:38:31	
+URL	Visited: Mr. Evil@http://www.cnn.com	08/20/2004 21:05:25	08/20/2004 21:05:25			
+URL	Visited: Mr. Evil@http://us.f613.mail.yahoo.com/ym/ShowFolder?YY=78169&amp;.first=1&amp;box=Inbox&amp;YN=1	08/20/2004 17:38:27	08/20/2004 17:38:27		
+URL	Visited: Mr. Evil@about:Home	08/20/2004 01:04:24	08/20/2004 01:04:24			
+URL	Visited: Mr. Evil@http://www.outpimp.com/?x=400928	08/20/2004 23:21:55	08/20/2004 23:21:55			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/id_check	08/20/2004 17:35:47	08/20/2004 17:35:47			
+URL	Visited: Mr. Evil@http://www.magnescan.com/pricelist.asp	08/20/2004 23:27:53	08/20/2004 23:27:53			
+URL	Visited: Mr. Evil@http://www.drudgereport.com	08/25/2004 17:51:20	08/25/2004 17:51:20			
+URL	Visited: Mr. Evil@http://www.t50.com	08/20/2004 17:49:01	08/20/2004 17:49:01			
+URL	Visited: Mr. Evil@ftp://mirror.sg.depaul.edu/pub/security	08/27/2004 17:17:15	08/27/2004 17:17:15			
+URL	Visited: Mr. Evil@http://search.msn.com/results.aspx?FORM=MSNH&amp;q=hacking08/20/2004 17:33:11	08/20/2004 17:33:11			
+URL	Visited: Mr. Evil@http://www.netstumbler.com/downloads	08/27/2004 17:10:00	08/27/2004 17:10:00			
+URL	Visited: Mr. Evil@http://winpcap.mirror.ethereal.com	08/27/2004 17:11:13	08/27/2004 17:11:13			
+URL	Visited: Mr. Evil@http://www.cleo-and-nacho.com/mainpages/hacking.htm	08/20/2004 17:33:35	08/20/2004 17:33:35			
+URL	Visited: Mr. Evil@about:blank	08/25/2004 17:51:02	08/25/2004 17:51:02			
+URL	Visited: Mr. Evil@ftp://mirror.sg.depaul.edu/pub/security/ethereal/win32/ethereal-setup-0.10.6.exe	08/27/2004 17:24:24	08/27/2004 17:24:24	
+URL	Visited: Mr. Evil@file://4.12.220.254/Temp/yng13.bmp	08/26/2004 17:08:12	08/26/2004 17:08:12			
+URL	Visited: Mr. Evil@http://www.majorgeeks.com/download3365.html	08/25/2004 17:49:42	08/25/2004 17:49:42			
+URL	Visited: Mr. Evil@http://www.netstumbler.com	08/27/2004 17:09:54	08/27/2004 17:09:54			
+URL	Visited: Mr. Evil@http://www.majorgeeks.com/downloadget.php?id=3365&amp;file=1&amp;evp=243ad7f7dbd42ca50abe8bf849b4423b	08/25/2004 17:50:14	08/25/2004 17:50:14			
+URL	Visited: Mr. Evil@http://www.google.com/search?q=what+is+my+ip&amp;hl=en&amp;lr=&amp;ie=UTF-8	08/25/2004 18:07:51	08/25/2004 18:07:51			
+URL	Visited: Mr. Evil@http://www.ethereal.com/distribution/win32	08/27/2004 17:11:38	08/27/2004 17:11:38			
+URL	Visited: Mr. Evil@http://ads1.revenue.net/load/206178/benchmark.html?O_R_NUM=62579600&amp;O_RANK=1&amp;O_CREATIVE_ID=206178&amp;O_SITE_ID=10162&amp;	08/20/2004 23:21:57	08/20/2004 23:21:57			
+URL	Visited: Mr. Evil@http://home.microsoft.com	08/27/2004 17:42:46	08/27/2004 17:42:46			
+URL	Visited: Mr. Evil@http://www.2600.com/hacked_pages/2000/01/thomas.loc.gov/www.boza.com	08/20/2004 17:32:46	08/20/2004 17:32:46			
+URL	Visited: Mr. Evil@http://www.2600.org/hacked_pages/2000/01/thomas.loc.gov	08/20/2004 17:32:05	08/20/2004 17:32:05			
+URL	Visited: Mr. Evil@res://C:\WINDOWS\System32\shdoclc.dll/dnserror.htm	08/27/2004 17:32:40	08/27/2004 17:32:40			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/register?	08/20/2004 17:38:01	08/20/2004 17:38:01			
+URL	Visited: Mr. Evil@http://us.f613.mail.yahoo.com/ym/Logout?YY=27630&amp;.first=1&amp;inc=25&amp;order=down&amp;sort=date&amp;pos=0&amp;view=&amp;head=&amp;box=Inbox&amp;YY=27630	08/20/2004 17:38:45	08/20/2004 17:38:45			
+URL	Visited: Mr. Evil@http://story.news.yahoo.com/news?tmpl=story&amp;cid=564&amp;ncid=564&amp;e=1&amp;u=/nm/20040825/ts_nm/iraq_usa_beheading_dc	08/25/2004 17:26:09	08/25/2004 17:26:09			
+URL	Visited: Mr. Evil@http://www.google.com	08/25/2004 18:07:26	08/25/2004 18:07:26			
+URL	Visited: Mr. Evil@http://www.wardriving.com	08/27/2004 17:09:23	08/27/2004 17:09:23			
+URL	Visited: Mr. Evil@http://us.f613.mail.yahoo.com/ym/ShowLetter?Search=&amp;Idx=0&amp;YY=90802&amp;.first=1&amp;order=down&amp;sort=date&amp;pos=0	08/20/2004 17:38:34	08/20/2004 17:38:34			
+URL	Visited: Mr. Evil@http://www.yahoo.com/_ylh=X3oDMTB1M2EzYWFoBF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDaWUtYmV0YQ--/r/m7	08/20/2004 17:34:16	08/20/2004 17:34:16			
+URL	Visited: Mr. Evil@http://www.t50.com/cgi-bin/topvlog.cgi?897731691	08/20/2004 17:46:37	08/20/2004 17:46:37			
+URL	Visited: Mr. Evil@http://www.yahoo.com	08/25/2004 17:25:45	08/25/2004 17:25:45			
+URL	Visited: Mr. Evil@http://fosi.ural.net	08/25/2004 18:13:10	08/25/2004 18:13:10			
+URL	Visited: Mr. Evil@http://www.2600.org	08/20/2004 17:31:31	08/20/2004 17:31:31			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/last_subscribe	08/20/2004 17:38:11	08/20/2004 17:38:11			
+URL	Visited: Mr. Evil@res://C:\WINDOWS\System32\shdoclc.dll/navcancl.htm	08/27/2004 17:10:20	08/27/2004 17:10:20			
+URL	Visited: Mr. Evil@http://www.majorgeeks.com/download.php?id=2&amp;sort=25	08/25/2004 17:49:28	08/25/2004 17:49:28			
+URL	Visited: Mr. Evil@http://www.elitehackers.com	08/20/2004 17:46:03	08/20/2004 17:46:03			
+URL	Visited: Mr. Evil@file:///C:/Program%20Files/Anonymizer/thanks/index.html	08/20/2004 17:05:16	08/20/2004 17:05:16			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/last?.scrumb=XNQeEEeu7HG&amp;.crumb=XNQeEEeu7HG&amp;.src=ym&amp;.done=&amp;.partner=&amp;.branch=&amp;.testid=none	08/20/2004 17:38:07	08/20/2004 17:38:07			
+URL	Visited: Mr. Evil@http://www.majorgeeks.com/downloads2.html	08/25/2004 17:29:30	08/25/2004 17:29:30			
+URL	Visited: Mr. Evil@http://www.wardriving.com/code.php	08/27/2004 17:09:30	08/27/2004 17:09:30			
+URL	Visited: Mr. Evil@http://www.netstumbler.com/downloads/netstumblerinstaller_0_4_0.exe	08/27/2004 17:11:07	08/27/2004 17:11:07			
+URL	Visited: Mr. Evil@mk:@MSITStore:C:\Program%20Files\Network%20Stumbler\netstumbler.chm::/readme.html	08/27/2004 17:12:19	08/27/2004 17:12:19	
+URL	Visited: Mr. Evil@http://www.ethereal.com/download.html	08/27/2004 17:17:05	08/27/2004 17:17:05			
+URL	Visited: Mr. Evil@ftp://mirror.sg.depaul.edu/pub/security/ethereal/win3208/27/2004 17:17:44	08/27/2004 17:17:44			
+URL	Visited: Mr. Evil@http://a.tribalfusion.com/p.media/GLNTEKHKEKLCJLBMNWPJLCXQQSNWFOVVGKOTHPSQKSRKANKKMQKMOFLEKUOSLNUKTDQKDLKGKY/171576/pop.html	08/25/2004 17:51:22	08/25/2004 17:51:22			
+URL	Visited: Mr. Evil@mk:@MSITStore:C:\WINDOWS\help\msoe.chm::/nwspr_changing_servers.htm	08/20/2004 23:15:11	08/20/2004 23:15:11			
+URL	Visited: Mr. Evil@http://www.whatismyip.com	08/25/2004 18:08:02	08/25/2004 18:08:02			
+URL	Visited: Mr. Evil@http://www.ethereal.com	08/27/2004 17:10:50	08/27/2004 17:10:50			
+URL	Visited: Mr. Evil@http://billing.mail.yahoo.com/bm/MailReg?.v=8	08/20/2004 17:34:19	08/20/2004 17:34:19			
+URL	Visited: Mr. Evil@http://edit.yahoo.com/config/id_check?.fn=Greg&amp;.ln=Schardt&amp;.id=mrevil2000&amp;.u=b568cfp0ic6g0	08/20/2004 17:35:05	08/20/2004 17:35:05			
+URL	Visited: Mr. Evil@ftp://mirror.sg.depaul.edu/pub/security/ethereal	08/27/2004 17:17:20	08/27/2004 17:17:20			
+URL	Visited: Mr. Evil@http://www.2600.org/hacked_pages	08/20/2004 17:31:54	08/20/2004 17:31:54			
+URL	Visited: Mr. Evil@http://www.maktoob.com/index.pl?mm=10844	08/27/2004 17:44:31	08/27/2004 17:44:31</p>
+<h2 id="27-das-e-mail-programm-yahoo-mail-speichert-e-mails-unter-welchem-dateinamen">27. Das E-Mail-Programm Yahoo Mail speichert E-Mails unter welchem Dateinamen?</h2>
+<p>Yahoo Mail selbst speichert keine E-Mails unter einem bestimmten Dateinamen, da es webbasiert ist. Wenn E-Mails lokal gespeichert sind, dann hängt der Dateiname vom verwendeten E-Mail-Client ab.
+Falls doch mail daten auf dem computer gespeichert sind sind es wohl cookies oder local Storage daten vom browser.</p>
+<h2 id="28-wie-viele-ausf%C3%BChrbare-dateien-exe-befinden-sich-im-papierkorb">28. Wie viele ausführbare Dateien (.exe) befinden sich im Papierkorb?</h2>
+<p>ls  /mnt/SCHARDT_001_008/RECYCLER/S-1-5-21-2000478354-688789844-1708537768-1003/
+Dc1.exe  Dc2.exe  Dc3.exe  Dc4.exe  desktop.ini  INFO2
+4 .exe dateien</p>
+<h2 id="29-sind-diese-dateien-tats%C3%A4chlich-gel%C3%B6scht">29. Sind diese Dateien tatsächlich gelöscht?</h2>
+<p>Ja, diese Dateien wurden gelöscht, sind aber noch nicht endgültig entfernt.
+Erklärung:</p>
+<p>Windows verschiebt gelöschte Dateien in den Papierkorb, statt sie sofort vom Dateisystem zu löschen. Dabei passiert Folgendes:</p>
+<pre><code>Die Datei wird nach RECYCLER/&lt;SID&gt;/ (hier: S-1-5-21-...-1003) verschoben.
+
+Sie erhält einen neuen Namen (z. B. Dc1.exe).
+
+Die Datei INFO2 enthält Metadaten, z. B. den ursprünglichen Pfad und Löschzeitpunkt.
+</code></pre>
+<p>Fazit:</p>
+<p>Die .exe-Dateien im RECYCLER-Verzeichnis:</p>
+<pre><code>sind als gelöscht markiert,
+
+könnten vom Benutzer wiederhergestellt werden,
+
+sind noch physisch vorhanden (also nicht endgültig gelöscht).
+</code></pre>
+<h2 id="30-wie-viele-dateien-sind-laut-dateisystem-als-gel%C3%B6scht-markiert">30. Wie viele Dateien sind laut Dateisystem als gelöscht markiert?</h2>
+<p>➡️ Es sind 4 Dateien als gelöscht markiert (Dc1.exe bis Dc4.exe).</p>
+<h2 id="31-f%C3%BChren-sie-eine-antivirenpr%C3%BCfung-durch">31. Führen Sie eine Antivirenprüfung durch:</h2>
+<p>o Frage: Wurden Viren auf dem Computer gefunden?
+<code>sudo apt update</code>
+<code>sudo apt install clamav</code>
+<code>sudo freshclam </code>
+<code>clamscan -r --infected --remove=no /mnt/SCHARDT_001_008/ &gt; infected_files.txt</code></p>
+<p>/mnt/SCHARDT_001_008/My Documents/COMMANDS/enum.exe: Win.Tool.EnumPlus-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/COMMANDS/SAMDUMP.EXE: Win.Trojan.Pwdump-2 FOUND
+/mnt/SCHARDT_001_008/My Documents/COMMANDS/snitch.exe: Win.Trojan.Snitch-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/ENUMERATION/NT/enum/enum.tar.gz: Win.Tool.EnumPlus-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/ENUMERATION/NT/enum/files/enum.exe: Win.Tool.EnumPlus-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/ENUMERATION/NT/Legion/Chrono.dl_: Win.Trojan.Bruteforce-3 FOUND
+/mnt/SCHARDT_001_008/My Documents/ENUMERATION/NT/Legion/NetTools.ex_: Win.Trojan.Spion-4 FOUND
+/mnt/SCHARDT_001_008/My Documents/ENUMERATION/NT/ntreskit.zip: Win.Trojan.Nemo-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/Brutus/BrutusA2.exe: Win.Tool.Brutus-3 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/brutus.zip: Win.Tool.Brutus-3 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/Get Admin/GetAdmin.exe: Win.Exploit.WinNT-3 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/lsadump2/lsadump2.exe: Win.Trojan.Lsadump-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/lsadump2/lsadump2.zip: Win.Trojan.Lsadump-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/netbus/NetBus170.zip: Win.Trojan.Netbus-2 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/sechole/SECHOLE.EXE: Win.Trojan.Sehole-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/EXPLOITATION/NT/sechole/sechole3.zip: Win.Trojan.Sehole-1 FOUND
+/mnt/SCHARDT_001_008/My Documents/FOOTPRINTING/NT/superscan/superscan.exe: Win.Trojan.Agent-6240252-0 FOUND
+/mnt/SCHARDT_001_008/Program Files/Cain/Abel.dll: Win.Trojan.Cain-9 FOUND</p>
+
+</body>
+</html>

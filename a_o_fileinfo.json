@@ -1,0 +1,18 @@
+[
+  {
+    "s_path_file": "802_11b.png",
+    "s_sha256sum": "5c4f0528cd57488b7d1b7155790a11d985d2fc2732f1c94299509b8ca01358fd",
+    "s_md5sum": "1709a2b791192e7e9f68f25c7dd309dd",
+    "s_sha1sum": "324059da8a62f8f48e8987b5826c5eba89b223a7",
+    "s_sha512sum": "f1d04d6bc913444ba888811e9308569248fb477699cb1059d33631559dfcea48d6b920784e477f3c4559d00d516f411b6fa8e3f4f789849011f7f50cd531ecc3"
+  },
+  {
+    "s_path_file": "SCHARDT_001_008_merged.sec",
+    "s_md5sum": "aee4fcd9301c03b3b054623ca261959a",
+    "s_sha256sum": "65e2002fed0b286f49541c7e97dcec0dda913d51a063ceeed86782bdacda2312",
+    "s_sha1sum": "da2fe30fe21711edf42310873af475859a68f300",
+    "s_sha512sum": "e07390a4ec8edfaa151c091633ca61f989a4d91b26467d4d48d3a5ac73e7d9833b1725b06184e66c5d40da6384ed4c49c6c6eb7c707e4b42ed0682dccc40cb19",
+    "s_fileinfo": "SCHARDT_001_008_merged.sec: DOS/MBR boot sector MS-MBR XP english at offset 0x12c \"Invalid partition table\" at offset 0x144 \"Error loading operating system\" at offset 0x163 \"Missing operating system\", disk signature 0xec5dec5d; partition 1 : ID=0x7, active, start-CHS (0x0,1,1), end-CHS (0x24f,254,63), startsector 63, 9510417 sectors",
+    "s_fdisk": "Disk SCHARDT_001_008_merged.sec: 4.54 GiB, 4871301120 bytes, 9514260 sectorsUnits: sectors of 1 * 512 = 512 bytesSector size (logical/physical): 512 bytes / 512 bytesI/O size (minimum/optimal): 512 bytes / 512 bytesDisklabel type: dosDisk identifier: 0xec5dec5dDevice                      Boot Start     End Sectors  Size Id TypeSCHARDT_001_008_merged.sec1 *       63 9510479 9510417  4.5G  7 HPFS/NTFS/exFAT"
+  }
+]

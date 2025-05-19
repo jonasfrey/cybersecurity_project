@@ -1,0 +1,1146 @@
+Path: newssvr22.news.prodigy.com!newsdbm03.news.prodigy.com!newsdst02.news.prodigy.com!newsmst01a.news.prodigy.com!prodigy.com!news-feed01.roc.ny.frontiernet.net!nntp.frontiernet.net!peer02.cox.net!cox.net!p01!fed1read07.POSTED!53ab2750!not-for-mail
+From: Auric__ <not.my.real@email.address>
+Subject: Frequently Ignored Answers "Roast mutton" edition
+Newsgroups: alt.binaries.hacking.beginner
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Lines: 1129
+Message-ID: <_zoVc.2361$ml1.1869@fed1read07>
+Date: Fri, 20 Aug 2004 15:15:06 GMT
+NNTP-Posting-Host: 68.3.17.117
+X-Complaints-To: abuse@cox.net
+X-Trace: fed1read07 1093014906 68.3.17.117 (Fri, 20 Aug 2004 11:15:06 EDT)
+NNTP-Posting-Date: Fri, 20 Aug 2004 11:15:06 EDT
+Organization: Cox Communications
+Xref: newsmst01a.news.prodigy.com alt.binaries.hacking.beginner:57853
+
+This is the alt.binaries.hacking.beginner Frequently Ignored Answers 
+file.
+
+A hypertext version of the current version of this document (including 
+translation links) is available here:
+    http://bb.domaindlx.com/abhb/
+
+Want to translate this FIA into your native language, or do a better job 
+on one already done? Please do so - then post the results to the 
+newsgroup so that all can benefit. (All accurate translations will be 
+posted on the FIA's WWW location with full credit to the translator(s).) 
+Alternately, links to web sites that automatically translate to 
+languages not already available would also be appreciated.
+
+------------------------------------------------------------------------
+
+"Hacking is a tool and a method. It is NOT a synonym for cracking a 
+computer."
+ -- Gandalf Parker
+
+"Learn everything you can. If you can't learn it, collect it. Collect it 
+even if you do learn it."
+ -- reverend maxwell snort
+
+------------------------------------------------------------------------
+
+PREAMBLE
+
+This is version 1.01 of the alt.binaries.hacking.beginner (abhb) FIA, 
+dated 20 August 2004. The current maintainer and editor of this FIA is 
+Auric__, with articles, entries, and suggestions by Ajax®, Auric__, 
+Banduur, Maze_Cheeze, Nitesbane, reverend maxwell snort, soja_a, and 
+~¤AcidRain¤~ (and some quotes by Gandalf Parker). This document is 
+copyright ©2004 Auric__ (a pseudonym) and is released to the public 
+under the terms of version 2.0 of the Creative Commons Attribution-
+ShareAlike License, available here:
+    http://creativecommons.org/licenses/by-sa/2.0/
+
+This FIA is not a "gotta follow it" set of rules; rather, it is an 
+actual set of questions, some of them frequently asked, all of them 
+useful knowledge.
+
+More good stuff to read is posted at least once a week to the newsgroups 
+alt.2600 and alt.2600.hackerz (and sometimes others) by a bot called 
+Harlequin, under several subjects. The material is several years old, 
+and in some cases is extremely out of date, but nonetheless, it's still 
+good to read.
+
+Before you read this FIA, I (Auric__) am going to give you my single 
+best piece of advice: DON'T HACK! Obviously, the laws will vary from 
+country to country, but most activities commonly referred to as 
+"hacking" by the press are potentially illegal and could get you 
+arrested.
+
+
+NON-CLAIMER
+This is not intended to be read as "go forth with our blessing"; this is 
+just a collection of things that we understand to be true. Don't read 
+any more into it than that.
+
+------------------------------------------------------------------------
+
+THE QUESTIONS
+
+1. What am I expected to already know?
+2. How do I hack?
+3. Will you help me hack?
+3a. What *will* you help me with?
+3b. What *won't* you help me with?
+4. The hacker ethic?
+5. What kinds of activities should I avoid? Why?
+6. Social engineering?
+7. What should I know to be able to hack?
+8. What should I read?
+9. What tools should I use?
+9a. What operating system should I use?
+9b. What programming language(s) should I learn?
+9c. LAN tools?
+10. What's a shell account?
+10a. Why would I use a shell account?
+11. Can I hack from WebTV/AOL/etc.?
+12. How can I hack a Hotmail/AOL/etc. account?
+12a. But it's *my* account; I forgot my password!
+12b. What about exploiting Hotmail's internal tech support address?
+13. Any more advice?
+13a. Revenge
+13b. "Help needed!"
+13c. "Please respond by email"
+13d. "Hi, i No speak englisch verree gut but questin i hav"
+13e. "Fuck you, you fucking fuckers!"
+13f. "Bu+ 1 ju$+ w4|\|+ 2 b /\ l33t hax0r!"
+13g. Cracks, warez, pr0n, passwords, etc.
+14. Hmm... maybe I don't want to hack after all...
+15. Okay, but all I wanted was a secure system/better privacy.
+15a. Where do I start?
+15b. Password protection schemes?
+15c. Routers?
+15d. Firewalls?
+15e. Proxies?
+15f. Antivirus?
+15g. Spyware and Homepage Hijacking?
+15h. Hosts file?
+16. Conclusion.
+17. WTF? RU4 reel?
+18. Useful links
+
+
+1. What am I expected to already know?
+You should know the difference between Usenet, email, the WWW, and other 
+parts of the Internet - or at the very least, you should recognize that 
+the Internet is more than just the World Wide Web. (You're reading this 
+group; we can only hope that you understand that there *is* a 
+difference.) We expect you to know what a search engine is and how to 
+use at least one. You are expected to know how to turn on your computer. 
+You are expected to know how to be polite and courteous, and have good 
+internalized reasons for doing so other than the fact that you want 
+something from us. You are expected to be able to figure most things out 
+on your own.
+
+What's most important isn't anything that you might already know, but 
+rather a willingness to learn more.
+
+
+2. How do I hack?
+That's a harder question than you might think. Someone once said: you 
+don't learn to hack, you hack to learn. Hacking isn't an activity - it's 
+a state of mind, a means to an end, and not an end unto itself. Hacking 
+is *not* about stroking your ego, doing things that make headlines, or 
+strutting and posturing.
+
+
+3. Can you help me hack?
+Can we? Well, we *are* able to do many things that fall under the 
+general label "hacking".
+
+Will we? That depends on what you mean by "hack". Generally speaking, 
+the amount of help we give is determined by the specifics of the problem 
+and not by your need. This is Alice's Restaurant, not a help desk.
+
+
+3a. What *will* you help me with?
+There are no guarantees that anyone will help you with anything, but 
+here's what people are likely to help you with:
+ - solve interesting problems
+ - figure things out
+ - learn, if you are able
+
+Our typical teaching methods are Zen methods - instead of giving 
+answers, we respond to questions with more questions. If those methods 
+don't work, we might break out the clue bat, followed closely by the 
+flamethrower. (A good saying to live by: "Seek not to know all the 
+answers, but rather to understand the questions.")
+
+
+3b. What *won't* you help me with?
+Just as there are no guarantees that we *will* help you with something, 
+there are no guarantees we *won't* help you either. Here is a reasonable 
+list that you can expect us to *not* help with:
+ - mentoring
+ - homework
+ - walk-throughs
+ - crack a particular program (someone *might* give general advice)
+ - how to break in somewhere
+ - *anything* specifically illegal. (Even asking for such help is 
+   considered ignorant - we may be *hackers*, that does not 
+   automatically make us *criminals*. Illegal acts by others *DO NOT* 
+   justify illegal acts by you or by us.)
+ - revenge (we might offer advice) (See also #13a, "Revenge".)
+
+
+4. The hacker ethic?
+The definition of "the hacker ethic" that you get can depend on whom you 
+ask, as there are (at least) 2 common definitions. Here's a brief 
+discussion in the Jargon File:
+    http://www.catb.org/~esr/jargon/html/H/hacker-ethic.html
+
+Personally, I (Auric__) don't regard information sharing as particularly 
+ethical or unethical - open-source software isn't a matter of ethics. To 
+me, the hacker ethic is pretty close to definition 2 in the Jargon File: 
+do as thou wilt, but do no damage and do no harm.
+
+
+5. What kinds of activities should I avoid? Why?
+ - Don't use anything that acts even remotely like a virus (this 
+   includes programs that use Trojan-like activity to sneak into a 
+   system). Using a virus for any reason opens you up to some serious 
+   prosecution (and the courts are getting less lenient every day).
+
+ - Don't damage any systems you manage to get access to - again, 
+   prosecution, plus it's not very nice.
+
+ - If you download something that isn't yours, do NOT post it anywhere! 
+   I can't stress this enough - posting stolen files anywhere is the 
+   quickest route to sharing a small jail cell with a big man named 
+   Bubba (can you say "be my bitch"?) that I can think of (short of 
+   writing a virus), especially if they happen to contain info that 
+   shouldn't become public knowledge, such as credit card information or 
+   matters of national security.
+
+ - Don't use anything you happen to find for financial gain - not only 
+   is that unethical, it's also usually illegal and often easily detected.
+
+ - If you download something, don't post it or spread it around looking 
+   for some kind of fucked-up prestige. If you want people to know that 
+   you've managed to break into the CIA, or some large bank, or 
+   anywhere, invite them over and let them watch over your shoulder.
+
+ - Don't make threats. If you tell someone that you intend to do bad 
+   things to them in any way, chances are you have already committed a 
+   crime. If you're going to do something illegal, just do it and be a 
+   criminal. Empty threats are for cowards and losers.
+
+
+6. Social engineering?
+Merriam-Webster defines social engineering as "management of human 
+beings in accordance with their place and function in society : applied 
+social science".
+
+As far as hacking is concerned, social engineering is the art of getting 
+information out of people without those people realizing that they've 
+given it to the wrong people. For a good definition plus examples, go 
+here:
+    http://www.catb.org/~esr/jargon/html/S/social-engineering.html
+
+SecurityFocus has an in-depth discussion of social engineering, 
+including examples and strategies (both for and against) here:
+    http://www.securityfocus.com/infocus/1527
+
+
+7. What should I know to be able to hack?
+Since the most common usage of "hacking" refers to computers, you should 
+first get familiar with yours - learn the basics of the operating 
+system, find out what programs are installed and what they're used for, 
+etc.
+
+
+8. What should I read?
+Know your goal for what you would like to hack - for example, programs, 
+operating systems, hardware, networks, people, etc. Then read everything 
+you can get that's related to your desired subject(s). And feel free to 
+ask here for the appropriate vocabulary if you're unsure and need to use 
+a search engine.
+
+
+9. What tools should I use?
+The single most important tool in your kit is your brain. Fail to use it 
+effectively and, well, you might as well just sell your computer and get 
+a WebTV console instead.
+
+If by "tools" you mean programs designed to do not-very-nice things to 
+other people's computers, remember that, in general, hackers view such 
+programs as crutches, or an admittance of inability. There is even a 
+term for people who rely on such programs: "script kiddie". (In case you 
+can't tell, it's not a compliment.)
+
+
+9a. What operating system should I use?
+Free is always good. Especially if it will install correctly on your 
+machine and is supported with regular updates.
+
+Not supporting a major world-wide monopoly that likes to dictate how you 
+will go where they think you want to go today seems good, too.
+
+Finally, any operating system that runs on a so-called "thin client" 
+(a.k.a. diskless workstation), or requires file storage and applications 
+to be installed on another remotely-located machine that you do not have 
+immediate physical control over seems fundamentally bad.
+
+Bearing all that in mind, the OS(s) you should use should be which ever 
+one(s) you want to hack. If you are uncertain, just remember this: In 
+general, graphical user interfaces are designed to make things simpler, 
+but also make it harder to understand the basic workings of an operating 
+system.
+
+
+9b. What programming languages should I learn?
+Whatever language(s) you have an immediate need for. Each has specific 
+benefits and pitfalls, but knowledge of those will come with time.
+
+Programming is about structured or ordered and rational thought. Some 
+languages teach this better than others. (On the other hand: "There are 
+no such thing as bad languages, only bad programmers.")
+
+A general idea of structure and syntax is always good to know, as these 
+have more universal application than any specific languages. An idea of 
+what written commands actually do is another important step. After this, 
+look for the "not"-type command that will invert the meaning of 
+commands. Beginning and ending commands for loops and variable 
+declarations are other good, small steps.
+
+Languages can be either interpreted (scripts that can be executed after 
+being written), or compiled (scripts that must be converted into an 
+executable form to do anything). The most important difference between 
+these two is the ability to read an interpreted script vs. the need to 
+decompile the compiled program into assembly language to really 
+understand it. You must decide whether you want the relative ease of an 
+interpreted language or the speed of a compiled language
+
+Look at your interests in what kind of programming you wish to do. 
+Decide if you want the ease of an interpreted language or the speed of a 
+compiled one. Then gorge on the buffet platter of languages.
+
+
+9c. LAN tools?
+Three basic tools included with most OS's are ping, netstat, and 
+traceroute (tracert under Windows). To find out what each is used for, 
+type the command followed by -? on the command line.
+
+Other tools for use only on a private LAN (please do not ask us 
+questions about these tools, they should come with help files):
+
+ - port scanners: There are many out there.
+   - NMAP has a stealth mode. This is a good tool to find out what
+     unexpected security holes (open ports) different pieces of
+     software may be causing.
+   - IANA (Internet Assigned Numbers Authority, the people in charge of
+     assigning IP addresses) keeps a list of assigned ports and their
+     common uses here:
+        http://www.iana.org/assignments/port-numbers
+   - COTSE (The Church of the Swimming Elephant) has a tool to search
+     for ports by name:
+        http://www.cotse.com/cgi-bin/port.cgi
+
+ - protocol analyzers/sniffers:
+   - TCPView is small, and it just monitors TCP/UDP connections to and
+     from your PC. Also helpful for finding unexpected connections to
+     and from your machine that different programs may make. A trojan
+     or a hidden server will show up here, even if it doesn't show up
+     anywhere else.
+   - Ethereal is big, requires a plugin, and will monitor all protocols
+     & packets to and from your PC.
+
+
+10. What's a shell account?
+A shell account is a way to remotely logon to another computer, usually 
+over port 21.
+
+Basically, it's a way to tunnel to a proxy, or a remote PC, and use it 
+as the actual computer, while your local PC is just a dumb terminal 
+(a.k.a. "thin client" or "diskless workstation"; for those of you who 
+want to be able to use your real-world "thin clients" for more than 
+you're supposed to, this would be how).
+
+
+10a. Why would I use a shell account?
+Some people use them to try out a different OS. Others use them for 
+faster downloads. Still others use them for even greater privacy than a 
+conventional proxy can provide. Since you have control over the remote 
+PC, you can erase any record you were ever there. This ranks near 
+mail2news and nym-alias-net for anonymity.
+
+In addition to the many things they can do that you just have to 
+experience to believe, one can surf anonymously and download much faster 
+than with even a cable connection, since one can remotely logon to a 
+computer attached to an Internet backbone. Of course, this means that 
+you must be able to function in whatever operating system is installed 
+on that remote computer.
+
+
+11. Can I hack from WebTV/AOL/etc.?
+WebTV: Not really - at least, not what most non-hackers think hacking 
+is. In fact, the WebTV console was designed to *prevent* hacking. (You 
+could possibly hack the console itself, but that would probably void 
+your warranty and also would likely go against their terms of service.)
+AOL: AOL provides you with a connection to the Internet, so if your idea 
+of hacking is "accessing other computers for questionable purposes" then 
+yes, it is possible to hack over AOL.
+Etc.: It largely depends on what your specific "etc." is, but chances 
+are, yes, you can.
+
+There *are* certain things you can do from pretty much any Internet 
+connection to annoy other people, but why bother? At best, you just make 
+people angry at you; at worst, you get your Internet account canceled, 
+or worse. (Harassing someone over the Internet is still harassment - you 
+can still go to jail even if it's not "real life".)
+
+
+12. How can I hack a Hotmail/AOL/etc. account?
+The only truly effective general-purpose method is to use social 
+engineering (see #6, "Social engineering?") on the owner of the account. 
+The large ISPs and email services (and indeed, most of the not-so-large 
+ones) are by and large immune to hacking; they are well familiar with 
+the various tricks and methods, and tend to install security patches as 
+soon as they're available.
+
+
+12a. But it's *my* account; I forgot my password!
+If it's your ISP, call their customer support (or tech support) number 
+and explain the situation. They deal with this sort of thing on a "more 
+than once daily" basis and usually have methods for handling it.
+
+If it's a free email service - such as Hotmail or Yahoo - then the first 
+thing to do is find the "forgot password" link on the service's front 
+page. Most, if not all, email services have a method for you to retrieve 
+your password, usually by providing private information, or answering a 
+previously-selected question. If you can't get your password that way, 
+then by far the easiest thing to do is open a new account and write to 
+all of your contacts letting them know what happened. No, you can't 
+"hack in" to retrieve your contact list - consider it lost.
+
+If it's a paid email service, first treat the problem as you would a 
+free email service - look for a "forgot password" link, etc. If that 
+fails, then treat it as you would your ISP - call their customer support 
+number.
+
+
+12b. What about exploiting Hotmail's internal tech support address?
+There is no such thing. The actual exploit is conning you into sending 
+your email address and password to someone else. This is a perfect 
+example of social engineering.
+
+
+13. Any more advice?
+ - Before you post here (or anywhere, Usenet or otherwise), LEARN BASIC 
+   SPELLING AND GRAMMAR. There are already far too many idiots already 
+   who POAST THNIGS LEIK THES!!!!!!11!!!one!!! (Argh, my brain just 
+   exploded.) Also don't use excessive abbreviations, and *never* 
+   abbreviate an entire word down to a single letter, or to a number if 
+   that number isn't relevant (examples: "Ppl, plz hlp me w/this!" "R u 
+   goin 2 help?" "OU812"). And remember, posting in ALL CAPITAL LETTERS 
+   is considered *yelling*. Use all-caps sparely if at all.
+
+Perhaps you have read somewhere that proper spelling and grammar aren't 
+as important on the Internet as they are in, say, your term paper, or a 
+newspaper article. Nothing could be farther from the truth. Your writing 
+style reflects who you are and how you think; the better you write, the 
+higher other people's opinions of you (generally). Many newsreaders have 
+this neat function called spell check - learn how to use it. (If you're 
+using a Microsoft product, just hit F7.) If your newsreader doesn't have 
+a spell-check function, most word processors do. If you have neither, go 
+to this website:
+    http://www.spellcheck.net/
+
+ - Forget everything that you've ever heard, read, or thought about 
+   hacking - most of the popular image of hackers is crap. (I don't know 
+   about you, but I'm not the classic nerd who wears horn-rimmed glasses 
+   and a pocket protector, and never goes outside. This is *not* 
+   "Revenge of the Nerds".) Forget what the press has to say about 
+   hackers - 99% of what they think about ANYTHING is pure bullshit, and 
+   their collective concept of hackers is damn close to 100% wrong. Also 
+   forget about movies like "Swordfish", "Hackers", and "The Net" - 
+   those movies do NOT show real hacking (but they do seem to get the 
+   concept of "criminal behavior" down pat). If you want to see a movie 
+   that shows something resembling a real hacker, see if you can find a 
+   copy of "Wargames" - David (Matthew Broderick) is a good example of a 
+   hacker (he even uses social engineering; when and where is left as an 
+   exercise for the student).
+
+ - Assuming that you're still thinking of the stereotypical concept of 
+   hacking - that is, breaking into other computers across some sort of 
+   telecommunications network - your best choice of programs is probably 
+   telnet (or possibly rlogin, in *nix). Learn the basic commands and 
+   get familiar with a *nix-like environment. Also learn what ports are 
+   and which ports are used for which protocols. It wouldn't hurt to get 
+   familiar with the OSI model, but that's not essential. Just remember, 
+   it's not hacking if you're breaking in just for the sake of doing 
+   damage.
+
+
+13a. Revenge
+If this is a friend or relative, talk to him/her. You can't have a 
+relationship without the occasional disagreement. It's an opportunity to 
+grow as an individual and improve the quality of said relationship. If 
+you feel that you must strike out anonymously and spitefully, you need 
+to re-evaluate your motives and feelings; therapy might be helpful.
+
+If it is *not* someone close to you, you are far better off removing 
+that person from your life (metaphorically, not physically) than trying 
+to do them harm in any way.
+
+Look at wars in history and you will see that fighting does not 
+determine who is right - only who is left if weapons are used, and 
+retaliation is no way to live. (Take this from someone who has had way 
+too many close calls with the final curtain call.)
+
+
+13b. "Help needed!"
+Your subject line should relate to the content in a more specific 
+manner. Rather than "help needed" or "I need help", try something like 
+"please help me with _____" (fill in the blank).
+
+
+13c. "Please respond by email"
+The purpose for having a newsgroup is not so individuals could receive 
+personal help by individuals. Newsgroups are here for having discussions 
+that everyone can contribute to and benefit from.
+
+If someone responds to some question that you asked via email, how do 
+you know if that information is accurate? How do you know that the 
+information will work for you? What if there's a newer, more efficient, 
+or more accurate method that the person emailing you hasn't heard of 
+yet? What if someone else comes along and happens to have the same or a 
+similar problem as you?
+
+Besides those concerns, responding via email poses 2 very real hazards: 
+one of compromising personal privacy, and one of abuse.
+
+All of these problems could be eliminated by using the newsgroup instead 
+of private email. Others can see the posts and add information or ideas 
+that they have (or correct information that others have posted), thus 
+creating a greater chance of answering your question or solving your 
+problem, and the answer would be available in archives, for later 
+referral or rereading.
+
+
+13d. "Hi, i No speak englisch verree gut but questin i hav"
+If you are unable to speak English, you should post to a group in your 
+native language to avoid unnecessary confusion (necessary confusion is a 
+different matter). If you must post to an English group (specfically 
+abhb, but really any group where the majority of the posting is in 
+any one language) post in both your native language and the translated 
+language. There are numerous web sites that can translate for free - and 
+often better than non-native speakers can. I (Auric__) use Google and 
+Altavista's Babelfish, but there are many others. (This FIA is available 
+on the WWW in as many languages as I can get it translated into. Look at 
+the beginning of this document for links.)
+
+
+13e. "Fuck you, you fucking fuckers!"
+Ah, yes, swearing - the crutch for the intellectually deviant. Posts of 
+this nature don't usually have the intended effect, and sometimes turn 
+into some really interesting discussion - usually how to get rid of 
+such people. If you think that we are "evil people", then either go away 
+and leave us to our own devices, or post an intelligent and well-thought-
+out article stating your problem(s) with us and why it's a problem - if 
+you need help, try these:
+    http://www.dictionary.com
+    http://www.notam02.no/~hcholm/altlang/
+
+If you think we're being intentionally unhelpful, guess what - you're 
+probably right.
+
+Oh yeah, one other thing... "Go fuck yourself."
+
+
+13f. "Bu+ 1 ju$+ w4|\|+ 2 b /\ l33t hax0r!"
+Too bad you're a moron. (If you can't read that, I can't blame you. This 
+section is called, "But I just want to be a leet haxor!"  "Leet" means 
+"elite", "haxor" means "hacker".) Using "leetspeak" like this doesn't 
+tell us that you're a hacker, it tells us that you're an idiot.
+
+Welcome to Usenet; how you write is how you are perceived; who you 
+appear to be. If you do not speak clearly and present yourself in a 
+professional manner, you shall not be treated as such. If you act as if 
+you have something to hide or should be suspect, you shall be treated as 
+such.
+
+It's also worth mentioning that being called a hacker by your friends, 
+boss, or clueless coworkers is worthless - it doesn't mean anything 
+unless a *hacker* calls you a hacker (and even then the value is 
+negligible). Of course - this should go without saying, but I'll say it 
+anyway - being called a hacker by anyone in law enforcement is generally 
+a Bad Thing.
+
+
+13g. Cracks, warez, pr0n, passwords, etc.
+The members of this group do not specifically condone or specialize in 
+such things as cracks (bypassing portions of programs typically used to 
+ensure that the authors get paid), warez (commercial software obtained 
+illegitimately), pr0n (pornography), exchanging passwords for programs 
+or web sites, etc.
+
+While each person's feelings about these items will obviously vary to a 
+large degree, we are not here to provide you with these items. Sure, it 
+might be an intellectual challenge to figure out the algorithm that a 
+particular program uses to determine valid passwords, but it's not what 
+we do. If that's what you want, pop over to alt.2600.hackerz and read 
+the document by Harlequin entitled "Read this for CRACKS, WARES & XXX 
+PASSWORDS."
+
+
+14. Hmm... maybe I don't want to hack after all...
+Good. If you're saying this to yourself, then you're right, you *don't* 
+want to hack. However, there are games where you *play* at hacking, of 
+you're interested in the idea of hacking but not the associated risks. 
+<advert> My (Auric__) personal favorite is Uplink, by Introversion:
+    http://www.uplink.co.uk/
+Uplink is not free (in any sense of the word), is not Open Source (you 
+can buy a copy of the source, but can't turn around and sell or give 
+away the game), and is not realistic by any stretch of the imagination, 
+but it *is* fun and, well, addictive. There is a free Windows demo of 
+the game which, unfortunately, only lasts about an hour or so (in my 
+experience). </advert>
+
+Another game that's supposed to be good (I [Auric__] haven't tried it) 
+is called, simply, "Hacker". It's old, but it tends to get good reviews 
+at "classic games" sites. It even has a sequel called, unimaginatively, 
+"Hacker 2".
+
+
+15. Okay, but all I wanted was a secure system/better privacy.
+Please excuse us for rambling on; if you read all this, then you have an 
+idea of where our subculture stands.
+
+Remember that firewalls are a must (read #15d, "Firewalls?"). Spyware 
+removers and regular system scans are also required. Spybot Search and 
+Destroy as well as Adaware are a fairly comprehensive tandem (see #15g, 
+"Spyware and Homepage Hijacking?"). A startup monitor - a program that 
+monitors other programs' requests to be inserted into your computer's 
+startup sequence - is also a good idea.
+
+As for security software, they are often not as secure as they would 
+like you to think, and are rarely needed for the jobs they perform.
+
+
+15a. Where do I start?
+Keep your system up to date. If you're running Windows, you should check 
+http://www.windowsupdate.com (or run wupdmgr.exe) on a regular basis 
+(preferably daily) and install any security updates immediately. If 
+you're running a *nix system, keep the various components of your system 
+up-to-date.
+
+Regardless of operating system, you should read computer security 
+websites on a regular basis - those will tell you about the latest 
+security problems on your system and (hopefully) how to fix them.
+
+
+15b. Password protection schemes?
+Way too often systems are broken into through weak (or non-existent) 
+password security. For example, Windows XP is left wide open by virtue 
+of home users not knowing to give a password to the default 
+administrator account and/or making themselves a secondary administrator 
+account also without a password. This leaves the system vulnerable to 
+virii as well as to the visiting snoop.
+
+A good method that we (Banduur & Auric__, likely others) have found is 
+to rename the default administrator (or admin, or root, or...) account 
+and have no more than two administrator accounts on the system. Programs 
+can be run (in Windows) as administrator by holding down the shift or 
+control key while right clicking and choose "run as" from the context 
+menu, or (in Linux, possibly other *nix flavors) via the sudo command.
+
+Passwords don't have to be obscure nonsense for the sake of safety (but 
+note that obscure, nonsensical passwords would probably block most 
+dictionary attacks -- Auric__). Know the limits of your OS's password 
+methodology: Does it permit special characters? Which ones? Is it case 
+sensitive? Use a mixed case and numeric password of 6 to 8 characters 
+and avoid dictionary words in any language as well as reverse dictionary 
+and "leetspeak" variations. Also avoid using things like your name, the 
+names of family members/pets/your car/etc., or numbers associated with 
+you (address, birthdate, parking space, social security number, etc. - 
+but if someone else knows your SSN, you really should have bigger 
+worries than just computer security).
+
+Special note: the word "password" is a *terrible* password. Many 
+companies use "password" as their default password, making it one of the 
+first things that any sensible cracker would check when trying to force 
+entry. If your password to any system is "password", STOP READING AND 
+CHANGE IT RIGHT NOW! This also applies if you have **NO** password!
+
+
+15c. Routers?
+A router is, essentially, an intelligent repeater - it receives a 
+signal, figures out what to do with it, then either forwards the signal 
+to the appropriate destination or discards it.
+
+Use a hardware router with NAT (network address translation). A software 
+router installed on a computer (such as Wingate) is only as secure as 
+the operating system installed on the PC.
+
+
+15d. Firewalls?
+A firewall is similar to a router - it too receives a signal, figures 
+out what to do with it, and either forwards the signal or discards it. 
+The difference is, a router is like the post office - if the address is 
+valid, the message gets through - while a firewall is like a security 
+guard - you must show that you belong where you're going to get past 
+him. (It's more complex than that, of course, but that's the short short 
+version.) Many, perhaps most routers are able to function as firewalls; 
+indeed, that's often one of their main selling points.
+
+Use a hardware firewall - the same machine as your router, if it can be 
+set up to act as such. Software firewalls make a good backup to a 
+hardware firewall, and are better than nothing if you can't or won't get 
+a hardware firewall. In addition to protecting you, a firewall can 
+inform you of outgoing information that you weren't aware of and/or 
+don't want going out (such as when a program "phones home").
+
+
+15e. Proxies?
+Personal or filtering proxies keep unwanted Internet clutter, like 
+adverts, cookies, and nosy sysops out of your PC, and personal data in. 
+Try Proxomitron, or Privoxy. Anonymity proxies go further in that they 
+hide your Internet IP behind another computer. Caching proxies won't 
+help your privacy, only the speed at which you can download *some* web 
+pages.
+
+
+15f. Antivirus?
+Use antivirus software, and keep it up to date. Norton/Symantec is as 
+good as McAfee (or whatever they're calling themselves this week) is as 
+good as any other antivirus company, despite what their marketing 
+departments will tell you. Buy whichever one is on sale when you're at 
+the store, or get a free one off the Internet. (There aren't many, but 
+they are there; just keep looking, or ask in abhb.) If you are running 
+Windows, you can fire up Internet Explorer and go to this site for a 
+free online virus scan:
+    http://housecall.antivirus.com/
+
+Note: if you want to test your antivirus program to make sure it's 
+working, don't use a real virus! That would be similar to making sure a 
+bulletproof vest works by shooting yourself - you might survive the 
+process, but you also might regret it afterward. Follow this link, read 
+that page, download that file - it's not a real virus, just a test:
+    http://www.eicar.org/anti_virus_test_file.htm
+
+
+15g. Spyware and Homepage Hijacking?
+Spyware is software that tracks what you do at your computer - usually 
+for marketing purposes, but they can be used for even less ethical 
+purposes. Anti-spyware programs are designed to hunt down and eradicate 
+these programs, along with other privacy no-no's. Adaware and Spybot 
+Search and Destroy are probably the two that are most used.
+
+Homepage hijacking is when you visit a web page - often porn but not 
+always (you can sometimes tell by what your homepage gets set to) that 
+installs a program (with or without your knowledge) that ensures that 
+your homepage is set to their designated location, even if you change it 
+in your preferences. (No, folks, they are *not* viruses, your antivirus 
+software will *not* catch this.) Anti-spyware programs usually are able 
+to remove these programs - the two mentioned above, Adaware and Spybot, 
+certainly can.
+
+
+15h. Hosts file?
+Imagine a way to tell your computer to look at /dev/null for almost all 
+servers hosting ads that any web page might call. No 3rd party server, 
+no ad. Before there was DNS to tell a browser what IP a name was, every 
+computer had a manually entered text file that listed IP's and host 
+names associated with them. That text file still exists. It's called the 
+hosts file, and by default, the hosts file is checked before online DNS 
+(and if a host has an entry, DNS is skipped).
+
+If page A wants an ad from server B to sell you widgets, page A puts a 
+link to server B, calling that ad. If your hosts file says server B is 
+non-existent, the browser will skip ahead to the next line of HTML (or, 
+at worst, give you a "host not found" error where the ad should be), 
+ignoring DNS, and you get no ad. Make your hosts file read-only, with 
+lots of security against overwrites. I (reverend maxwell snort) use 
+Gorilla Design Studios, but undoubtedly there are other sources.
+
+
+16. Conclusion.
+There are many forms of "hacking". It's not so much about "how to hack" 
+as it is "who or what you hack". Just because you read a few books on 
+the subject does not qualify you as an expert on that subject. When you 
+consistently read on a subject and *PRACTICE DAILY*, then you might 
+begin to understand.
+
+If you choose to use any tools or advice from here, please remember to 
+keep it legal and as a means to bettering the people that you use it on 
+and for. As much as some of us like being locked away in seclusion and 
+left to our own devices, I for one choose to avoid anything that would 
+lead to sharing a bunk with "Bubba".
+
+
+17. WTF? RU4 reel?
+You see, we don't play at being hackers. It's our lifestyle; everything 
+we do is focused by it. The people I know outside of this place have no 
+real idea what I can do, if I choose. I don't show off, I don't make 
+idle threats, I don't brag. I do answer questions very carefully. when 
+asked if I know about something, I usually answer, "I don't know, but I 
+can find out." I even go through the motions of looking up information. 
+I use a whole lot of social engineering.
+
+I learned the phrase "you are what you think other people think you 
+are", and I use it to get people to leave me to my own devices. I do not 
+use fear or intimidation. I use the techniques taught by Dale Carnegie 
+in the book "How To Win Friends and Influence People". I use the gentle 
+art of letting other people have my way. Am I for real? I don't know, 
+but I can find out.
+
+
+18. Useful links
+First and foremost, the Usenet FAQs:
+    ftp://rtfm.mit.edu/pub/usenet-by-group/
+    http://www.faqs.org/faqs/
+
+The alt.binaries.hacking.beginner FIA (this document) on the WWW:
+    http://bb.domaindlx.com/abhb/
+
+The alt.2600 survival guide (old but still viable):
+    http://www.faqs.org/faqs/alt-2600/survival-guide/
+
+The Tech FAQ:
+    http://www.tech-faq.com/
+
+The group alt.hacker has a dedicated website which includes their FAQ 
+and various other good stuff:
+    http://www.alt-hacker.org/
+
+alt.hacking also has a dedicated website which includes a 21-page FAQ, a 
+9-page How-To section, 6 appendices, and sundry other stuff:
+    http://www.urbanhacker.com/
+
+RFCs (Requests for Comments) - the de facto Internet standards, 
+administered by the IETF (Internet Engineering Task Force):
+    http://www.ietf.org/rfc.html
+FAQs.org has a slightly better-organized list of the RFCs:
+    http://www.faqs.org/rfcs/
+
+From Eric S. Raymond, the self-described "hackers' resident historian" 
+(whether you believe that or not is up to you):
+The Jargon File:
+    http://www.catb.org/~esr/jargon/
+The meaning of "hack":
+    http://catb.org/~esr/jargon/html/meaning-of-hack.html
+How To Become A Hacker:
+    http://catb.org/~esr/faqs/hacker-howto.html
+A Brief History of Hackerdom:
+    http://catb.org/~esr/writings/hacker-history/hacker-history.html
+AI Koans (Zen teaching stories):
+    http://catb.org/~esr/jargon/html/koans.html
+
+Wicked Samurai:
+    http://www.wickedsamurai.org/
+
+Astalavista (pronounced like "hasta la vista") has a huge library of 
+articles and tutorials (some good, some not so good):
+    http://www.astalavista.com/
+
+Box Network - somewhat similar to Astalavista but with higher standards:
+    http://www.boxnetwork.net/
+
+Newbie section of UnixGeek.org:
+    http://unixgeeks.org/security/newbie/
+
+Attrition.org:
+    http://www.attrition.org/
+
+The Happy Hacker (not recommended for complete newbies!):
+    http://www.happyhacker.org/
+
+GNU/Free Software Foundation (home of the GPL and other sundry licenses 
+along with tons of free/open-source software):
+    http://www.gnu.org/licenses/
+
+Creative Commons (home of the Creative Commons Licenses; this document 
+is covered by the Creative Commons Attribution-ShareAlike license):
+    http://www.creativecommons.org/
+
+Hack This Site! (There are several sites like this one.)
+    http://www.hackthissite.org/
+
+A list of links for a number of computer-related topics:
+    http://www.darknet.org.uk/content/links.html
+(mirrored here, in 3 separate pages - look under their "links" menu):
+    http://www.udsl.com/
+
+Packetstorm:
+    http://www.packetstormsecurity.org/
+
+Web Searchlores:
+    http://www.searchlores.org/
+
+DNS Stuff:
+    http://www.dnsstuff.com/
+
+Copernic:
+    http://www.copernic.org/
+
+Steganos Hacker Tools (aimed exclusively at Windows users):
+    http://www.steganoshackertools.com/
+
+Start Linux:
+    http://www.start-linux.com/
+
+Find a file type (there are many more sites on this subject):
+    http://www.computeruser.com/resources/dictionary/filetypes.html
+    http://www.filext.com/
+    http://www.macdisk.com/macsigen.php3
+
+What is a Fuckhead?
+    http://thingy.apana.org.au/~fun/fuckhead.html
+
+John Gabriel's Greater Internet Fuckwad Theory:
+    http://www.penny-arcade.com/view.php3?date=2004-03-19
+
+Bastard Operator from Hell:
+    http://www.theregister.co.uk/odds/bofh/
+    http://bofh.ntk.net/
+
+Google, the best search engine, web directory, and Usenet archive (and 
+more) on the WWW:
+    http://www.google.com/
+    http://www.google.com/dirhp
+    http://www.google.com/grphp
+
+Search engine info:
+    http://www.jafsoft.com/searchengines/search_engines.html
+    http://www.d.umn.edu/lib/searchengines.html
+
+Search multiple search engines (meta search engines):
+    http://www.metacrawler.com/
+    http://www.search.com/
+    http://www.searchengines.com/generalMeta.html
+    http://www.zworks.com/
+
+
+18a. More links!
+These are categorized but without descriptions. Note that some are 
+duplicates of links in the previous section; there may even be some 
+duplicates within this section. They're there for a reason.
+
+Search engines:
+
+http://www.altavista.com/
+http://www.google.com/
+http://hotbot.lycos.com/
+http://www.mamma.com/
+http://www.searchenginewatch.com/
+http://www.searchenginewatch.com/facts/
+http://www.yahoo.com/
+http://www.rfc-editor.org/go.html
+http://www.rfc-editor.org/rfcsearch.html
+
+-----
+
+Hacking/Security:
+
+http://www.althacking.com/
+http://www.antionline.com/
+http://www.cyberarmy.com/
+http://www.grc.com/
+http://www.grcsucks.com/
+http://www.linuxsecurity.com/
+http://home.netscape.com/security/
+http://www.securityfocus.com/
+http://www.securityportal.com/
+http://www.secinf.net/
+http://java.sun.com/security/
+http://searchsecurity.techtarget.com/
+http://www.dsinet.org/
+http://www.freebsd.org/security/
+http://www.net-security.org/
+http://www.safemode.org/
+http://www.slashdot.org/
+http://www.w3.org/Security/Faq/
+http://www.security.nl/
+
+Hacking newsgroups:
+news:alt.2600.hacker
+news:alt.hacker
+news:alt.hacking
+and this realm, abh*
+
+Security newsgroups:
+news:alt.computer.security
+news:alt.os.security
+news:alt.security
+news:alt.security.pgp
+news:alt.security.pgp.patches
+news:comp.os.linux.security
+news:comp.os.ms-windows.nt.admin.security
+news:comp.security*
+news:comp.security.unix
+news:comp.security.pgp.backdoors
+news:microsoft.public.security
+news:microsoft.public.sqlserver.security
+news:microsoft.public.win2000.security
+
+-----
+
+Privacy & Anonymity:
+
+http://www.anonymizer.com/
+http://www.idzap.com/
+http://www.hushmail.com/
+http://www.privacy.net/
+http://www.skuz.net/potatoware/
+http://www.pgp.org/
+http://www.privacy.org/
+http://www.samspade.org/t/
+http://www.stack.nl/~galactus/remailers/
+
+Privacy/security newsgroups:
+news:alt.anonymous.*
+news:alt.privacy
+news:alt.privacy.anon-server
+news:alt.privacy.spyware
+news:alt.privacy.pgp
+news:alt.security.pgp
+news:alt.security.pgp.patches
+
+-----
+
+Lots of texts:
+
+http://www.textfiles.com/
+http://www.itsecurity.com/
+http://home.clara.net/mgk/hamster/kn/korrnews.html
+http://www.secinf.net/
+http://www.skuz.net/potatoware/PSKB-index.html
+http://www.attrition.org/
+http://www.faqs.org/
+http://www.happyhacker.org/
+http://www.ibiblio.org/mdw/HOWTO/Networking-Overview-HOWTO.html
+http://www.tuxedo.org/~esr/faqs/hacker-howto.html
+http://home.hetnet.nl/~ojb-hamster/EnWIP/EnWeb/hamster_en.html
+http://www.howtos.nl/
+http://packetstorm.widexs.nl/
+http://black.box.sk/
+http://blacksun.box.sk/
+http://guide.box.sk/
+http://neworder.box.sk/
+http://www.elfden.co.uk/
+
+-----
+
+Legal "hacking":
+
+http://www.hack3r.com/
+http://desperado.port5.com/password/index1.html
+http://www.pulltheplug.com/
+http://members.home.nl/pim/hackme/
+http://www.try2hack.nl/
+
+-----
+
+Firewalls & Antivirus:
+
+http://housecall.antivirus.com/
+http://www.firewallguide.com/
+http://www.grennan.com/Firewall-HOWTO.html
+http://www.symantec.com/avcenter/
+http://www.interhack.net/pubs/fwfaq/
+http://www.squid-cache.org/
+http://www.antivirus-online.de/english/
+
+-----
+
+Linux:
+
+http://www.caldera.com/
+http://www.linux.com/
+http://www.linux-firewall-tools.com/linux/
+http://www.linux-mandrake.com/
+http://www.redhat.com/
+http://www.slackware.com/
+http://www.suse.com/
+http://www.debian.org/
+http://www.linux.org/
+http://linux.pagina.nl/
+http://linux.box.sk/
+
+Linux newsgroups:
+news:alt.linux.redhat
+news:alt.linux.slackware
+news:alt.linux.suse
+news:alt.os.linux.mandrake
+news:alt.linux.*
+news:linux.*
+news:linux.news.groups
+
+-----
+
+Programming:
+
+http://directory.google.com/Top/Computers/Programming/
+http://msdn.microsoft.com/
+http://www.mysql.com/
+http://www.perlarchive.com/
+http://www.planet-source-code.com/
+http://www.programmersheaven.com/
+http://java.sun.com/
+http://www.mindview.net/Books/TIJ/
+http://www.php.net/
+http://www.cpan.org/
+http://www.programmerstools.org/
+http://www.howtos.nl/
+http://www.javafaq.nu/
+
+Programming newsgroups:
+news:alt.comp.lang.*
+news:alt.lang.*
+news:comp.lang.*
+news:comp.lang.visual.*
+
+-----
+
+Miscellaneous:
+http://www.dslwebserver.com/
+http://www.spellcheck.net/
+
+------------------------------------------------------------------------
+
+HISTORY
+2003-early 2004
+            Auric__ posts a series of rants to abhb
+2004-03-18  writing began; Auric__'s rants collected and edited together
+2004-03-24  first request for input from Auric__ to abhb regulars
+2004-03-25  first draft posted to newsgroup
+2004-03-29  second draft posted to newsgroup
+2004-04-03  third draft posted to newsgroup
+2004-04-08  fourth draft posted to newsgroup
+2004-04-13  version 0.00 posted to newsgroup and website
+2004-04-27  version 0.01 posted to newsgroup and website
+            version 0.01r1 posted to website
+2004-05-08  Auric__'s hard drive dies, changes lost, insert sob story
+2004-05-13  version 0.01r2.5 posted to newsgroup and website
+2004-05-30  version 0.02 posted to newsgroup and website
+2004-06-05  version 0.03 posted to newsgroup
+            version 0.03r1 posted to website
+2004-06-21  version 0.04 posted to website
+2004-06-22  version 0.04r1 posted to website (thanks, Banduur)
+2004-06-24  version 0.05 posted to website
+2004-07-03  version 0.05r1 posted to website
+2004-07-06  version 0.06 posted to website
+2004-07-13  version 0.06r1 posted to newsgroup and website
+            version 0.06r2 posted to website
+2004-07-14  version 0.07 posted to website
+2004-07-19  version 0.07r1 posted to website
+2004-07-23  version 0.07r2 posted to website
+2004-07-24  version 0.07r2.5 posted to website (thanks, Gandalf)
+2004-07-27  version 0.07r3 posted to newsgroup and website
+            version 0.07r3.1 posted to website
+            request for v1.0 input from Auric__ to abhb regulars
+            version 0.07r3.2 posted to website
+2004-07-30  version 0.08 posted to website
+2004-08-01  name of this doc changed to "Frequently Ignored Answers"
+            version 0.08r1 posted to website
+            second draft (v1.0) posted to newsgroup
+2004-08-10  license changed from GNU FDL to a Creative Commons license
+2004-08-13  version 1.0 posted to newsgroup and website
+2004-08-20  version 1.01 posted to newsgroup
+
+End of file.
+-- 
+We will have enlightenment or extinction - take your pick.

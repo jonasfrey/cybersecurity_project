@@ -57,13 +57,10 @@ depending on the algorithm the hash can be checked with
 
 `sha256sum SCHARDT_001_008_merged.sec`
 65e2002fed0b286f49541c7e97dcec0dda913d51a063ceeed86782bdacda2312  SCHARDT_001_008_merged.sec
-
 `md5sum SCHARDT_001_008_merged.sec`
 aee4fcd9301c03b3b054623ca261959a  SCHARDT_001_008_merged.sec
-
 `sha1sum SCHARDT_001_008_merged.sec`
 da2fe30fe21711edf42310873af475859a68f300  SCHARDT_001_008_merged.sec
-
 `sha512sum SCHARDT_001_008_merged.sec`
 e07390a4ec8edfaa151c091633ca61f989a4d91b26467d4d48d3a5ac73e7d9833b1725b06184e66c5d40da6384ed4c49c6c6eb7c707e4b42ed0682dccc40cb19  SCHARDT_001_008_merged.sec
 
@@ -394,8 +391,344 @@ total 6
 -rwxrwxrwx 1 root root 458 ago 20  2004  keys.lnk
 -rwxrwxrwx 1 root root 150 ago 20  2004  Desktop.ini
 
+Der Benutzer Mr. Evil nutzt den Computer am häufigsten, da sich im Verzeichnis Documents and Settings/Mr. Evil/Recent mehrere zuletzt genutzte Dateien und Verknüpfungen befinden, die auf eine aktive Nutzung hinweisen.
+
 ## welcher benutzer war zuletzt angemeldet?
 grep -i 'DefaultUserName' ./hive_decoded/*
 ./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.sav.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/DefaultUserName,SZ,,
 ./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/DefaultUserName,SZ,Mr. Evil,
 ./hive_decoded/_mnt_SCHARDT_001_008_WINDOWS_system32_config_software.txt:/Microsoft/Windows NT/CurrentVersion/Winlogon/AltDefaultUserName,SZ,Mr. Evil,
+
+
+## Eine Suche nach dem Namen Greg Schardt führt zu mehreren Treffern.
+Einer davon 
+beweist, dass Greg Schardt mit „Mr. Evil“ identisch ist und Administratorrechte auf 
+diesem System hatte. 
+o Frage: Wie heisst diese Datei und mit welchem Softwareprogramm steht sie 
+in Verbindung?
+
+
+```
+grep -ril "Greg Schardt" /mnt/SCHARDT_001_008/
+/mnt/SCHARDT_001_008/Program Files/Look@LAN/irunin.ini
+/mnt/SCHARDT_001_008/WINDOWS/Look@LAN Setup Log.txt
+(base) jf18j492@aitne:~/code/cybersecurity_project$ grep -ril "Mr. Evil" /mnt/SCHARDT_001_008/
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Application Data/Ethereal/recent
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Application Data/Microsoft/Internet Explorer/brndlog.txt
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Cookies/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/Application Data/Identities/{EF086998-1115-4ECD-9B13-9ADC067B4929}/Microsoft/Outlook Express/cleanup.log
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5/MSHist012004081620040823/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5/MSHist012004082520040826/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5/MSHist012004082620040827/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/History/History.IE5/MSHist012004082720040828/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/Local Settings/Temporary Internet Files/Content.IE5/index.dat
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/My Documents/desktop.ini
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/My Documents/My Music/Desktop.ini
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/My Documents/My Pictures/Desktop.ini
+/mnt/SCHARDT_001_008/Documents and Settings/Mr. Evil/NTUSER.DAT
+/mnt/SCHARDT_001_008/hiberfil.sys
+/mnt/SCHARDT_001_008/pagefile.sys
+/mnt/SCHARDT_001_008/Program Files/123WASP/INSTALL.LOG
+/mnt/SCHARDT_001_008/Program Files/Agent/INSTALL.LOG
+/mnt/SCHARDT_001_008/Program Files/Cain/Install.log
+/mnt/SCHARDT_001_008/Program Files/Faber Toys/unins000.dat
+/mnt/SCHARDT_001_008/Program Files/GlobalSCAPE/CuteFTP/CuteHTML/INSTALL2.LOG
+/mnt/SCHARDT_001_008/Program Files/GlobalSCAPE/CuteFTP/INSTALL.LOG
+/mnt/SCHARDT_001_008/Program Files/Look@LAN/irunin.ini
+/mnt/SCHARDT_001_008/RECYCLER/S-1-5-21-2000478354-688789844-1708537768-1003/INFO2
+/mnt/SCHARDT_001_008/WINDOWS/setuplog.txt
+/mnt/SCHARDT_001_008/WINDOWS/system32/config/SAM
+/mnt/SCHARDT_001_008/WINDOWS/system32/config/software
+/mnt/SCHARDT_001_008/WINDOWS/system32/wbem/Repository/FS/OBJECTS.DATA
+/mnt/SCHARDT_001_008/WINDOWS/Look@LAN Setup Log.txt
+```
+Der String „Greg Schardt“ taucht in irunin.ini auf – das ist die Konfigurationsdatei der Software Look@LAN. Gleichzeitig taucht „Mr. Evil“ an mehreren Stellen im Profilordner von Documents and Settings/Mr. Evil auf, was zeigt, dass dieses Benutzerkonto aktiv war.
+
+Es ist sehr wahrscheinlich, dass in der Datei irunin.ini der Name „Greg Schardt“ mit einem Benutzerprofil, Task oder Konfigurationseintrag verknüpft ist — das belegt die Identität von „Mr. Evil“ = Greg Schardt.
+
+in der datei '/mnt/SCHARDT_001_008/Program Files/Look@LAN/irunin.ini' findet man: 
+...
+%LANUSER%=Mr. Evil
+...
+%REGOWNER%=Greg Schardt
+...
+
+`
+
+# Welche Netzwerkkarten wurden in diesem Computer verwendet?
+/ControlSet001/Control/Class,KEY,,2004-08-19 16:56:15
+/ControlSet001/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318}/UpperFilters,MULTI_SZ,PartMgr,
+/ControlSet001/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/Class,SZ,Keyboard,
+/ControlSet001/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/UpperFilters,MULTI_SZ,kbdclass,
+/ControlSet001/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/Class,SZ,Mouse,
+/ControlSet001/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/UpperFilters,MULTI_SZ,mouclass,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318},KEY,,2004-08-19 16:56:15
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0000,KEY,,2004-08-19 16:56:15
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0000/Linkage,KEY,,2004-08-19 16:56:15
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0000/Linkage/Export,MULTI_SZ,\Device\{54C7D140-09EF-11D1-B25A-F5FE627ED95E},
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0000/Linkage/Bind,MULTI_SZ,\Device\{54C7D140-09EF-11D1-B25A-F5FE627ED95E},
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0000/Linkage/UpperBind,MULTI_SZ,Tcpip,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/,SZ,Network Client,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/Class,SZ,NetClient,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/Icon,SZ,-7,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/Installer32,SZ,NetCfgx.Dll%2CNetClassInstaller,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/NoInstallClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E973-E325-11CE-BFC1-08002BE10318}/NoDisplayClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/,SZ,Network Service,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/Class,SZ,NetService,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/Icon,SZ,-8,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/Installer32,SZ,NetCfgx.Dll%2CNetClassInstaller,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/NoInstallClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E974-E325-11CE-BFC1-08002BE10318}/NoDisplayClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/,SZ,Network Protocol,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/Class,SZ,NetTrans,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/Icon,SZ,-6,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/NoInstallClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/NoDisplayClass,SZ,1,
+/ControlSet001/Control/Class/{4D36E975-E325-11CE-BFC1-08002BE10318}/Installer32,SZ,NetCfgx.Dll%2CNetClassInstaller,
+/ControlSet001/Control/Class/{4D36E97B-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E97B-E325-11CE-BFC1-08002BE10318}/LegacyAdapterDetection,DWORD,0x00000000,
+/ControlSet001/Control/Class/{4D36E97E-E325-11CE-BFC1-08002BE10318},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{4D36E97E-E325-11CE-BFC1-08002BE10318}/,SZ,Other devices,
+/ControlSet001/Control/Class/{4D36E97E-E325-11CE-BFC1-08002BE10318}/Class,SZ,Unknown,
+/ControlSet001/Control/Class/{4D36E97E-E325-11CE-BFC1-08002BE10318}/Icon,SZ,-18,
+/ControlSet001/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F},KEY,,2004-08-19 16:56:09
+/ControlSet001/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F}/UpperFilters,MULTI_SZ,VolSnap,
+
+# 
+/ControlSet001/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI to USB Universal Host Controller,
+/ControlSet001/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0001/DriverDesc,SZ,USB Root Hub,
+/ControlSet001/Control/Class/{4D36E965-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,CD-ROM Drive,
+/ControlSet001/Control/Class/{4D36E966-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Advanced Configuration and Power Interface (ACPI) PC,
+/ControlSet001/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Disk drive,
+/ControlSet001/Control/Class/{4D36E968-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicGraph256AV driver,
+/ControlSet001/Control/Class/{4D36E969-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard floppy disk controller,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI Bus Master IDE Controller,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Primary IDE Channel,
+/ControlSet001/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Secondary IDE Channel,
+/ControlSet001/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard 101/102-Key or Microsoft Natural PS/2 Keyboard,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicMedia 256AV Audio Driver (WDM),
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Media Control Devices,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Video Codecs,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Audio Codecs,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,Legacy Video Capture Devices,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,Legacy Audio Drivers,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,Microsoft Streaming Quality Manager Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,Microsoft Kernel Audio Splitter,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Kernel Acoustic Echo Canceller,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,Microsoft Kernel GS Wavetable Synthesizer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,Microsoft Kernel DLS Synthesizer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Microsoft Streaming Service Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,Microsoft Streaming Clock Proxy,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,Microsoft Kernel System Audio Device,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,Microsoft Kernel Wave Audio Mixer,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Microsoft WINMM WDM Audio Compatibility Driver,
+/ControlSet001/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Microsoft Kernel DRM Audio Descrambler,
+/ControlSet001/Control/Class/{4D36E96D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Xircom Cardbus Ethernet 100 + Modem 56 (Modem Interface),
+/ControlSet001/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Default Monitor,
+/ControlSet001/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Default Monitor,
+/ControlSet001/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,PS/2 Compatible Mouse,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0001/DriverDesc,SZ,Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0002/DriverDesc,SZ,RAS Async Adapter,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0003/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0004/DriverDesc,SZ,WAN Miniport (L2TP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0005/DriverDesc,SZ,WAN Miniport (PPTP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0006/DriverDesc,SZ,WAN Miniport (PPPOE),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0007/DriverDesc,SZ,Direct Parallel,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0008/DriverDesc,SZ,WAN Miniport (IP),
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0009/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0010/DriverDesc,SZ,Compaq WL110 Wireless LAN PC Card,
+/ControlSet001/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0011/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet001/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet001/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet001/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Communications Port,
+/ControlSet001/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,ECP Printer Port,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Plug and Play Software Device Enumerator,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Microcode Update Device,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Volume Manager,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Microsoft ACPI-Compliant System,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,PCI bus,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,ACPI Sleep Button,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,ACPI Lid,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,ACPI Thermal Zone,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Composite Battery,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,ACPI Power Button,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to AGP Controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Intel 82371AB/EB PCI to ISA bridge (EIO mode),
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to PCI Bridge,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0017/DriverDesc,SZ,ISAPNP Read Data Port,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0018/DriverDesc,SZ,Numeric data processor,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0019/DriverDesc,SZ,System board,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0020/DriverDesc,SZ,System CMOS/real time clock,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0021/DriverDesc,SZ,System speaker,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0022/DriverDesc,SZ,Direct memory access controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0023/DriverDesc,SZ,System timer,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0024/DriverDesc,SZ,Programmable interrupt controller,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0025/DriverDesc,SZ,Printer Port Logical Interface,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0026/DriverDesc,SZ,Terminal Server Device Redirector,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0027/DriverDesc,SZ,Terminal Server Mouse Driver,
+/ControlSet001/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0028/DriverDesc,SZ,Terminal Server Keyboard Driver,
+/ControlSet001/Control/Class/{50127DC3-0F36-415E-A6CC-4CB3BE910B65}/0000/DriverDesc,SZ,Processor,
+/ControlSet001/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F}/0000/DriverDesc,SZ,Generic volume,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0000/DriverDesc,SZ,Microsoft AC Adapter,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0001/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet001/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0002/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet002/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI to USB Universal Host Controller,
+/ControlSet002/Control/Class/{36FC9E60-C465-11CF-8056-444553540000}/0001/DriverDesc,SZ,USB Root Hub,
+/ControlSet002/Control/Class/{4D36E965-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,CD-ROM Drive,
+/ControlSet002/Control/Class/{4D36E966-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Advanced Configuration and Power Interface (ACPI) PC,
+/ControlSet002/Control/Class/{4D36E967-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Disk drive,
+/ControlSet002/Control/Class/{4D36E968-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicGraph256AV driver,
+/ControlSet002/Control/Class/{4D36E969-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard floppy disk controller,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Intel(r) 82371AB/EB PCI Bus Master IDE Controller,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Primary IDE Channel,
+/ControlSet002/Control/Class/{4D36E96A-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Secondary IDE Channel,
+/ControlSet002/Control/Class/{4D36E96B-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Standard 101/102-Key or Microsoft Natural PS/2 Keyboard,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,NeoMagic MagicMedia 256AV Audio Driver (WDM),
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Media Control Devices,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Video Codecs,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Audio Codecs,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,Legacy Video Capture Devices,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,Legacy Audio Drivers,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,Microsoft Streaming Quality Manager Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,Microsoft Kernel Audio Splitter,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Kernel Acoustic Echo Canceller,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,Microsoft Kernel GS Wavetable Synthesizer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,Microsoft Kernel DLS Synthesizer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Microsoft Streaming Service Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,Microsoft Streaming Clock Proxy,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,Microsoft Kernel System Audio Device,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,Microsoft Kernel Wave Audio Mixer,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Microsoft WINMM WDM Audio Compatibility Driver,
+/ControlSet002/Control/Class/{4D36E96C-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Microsoft Kernel DRM Audio Descrambler,
+/ControlSet002/Control/Class/{4D36E96D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Xircom Cardbus Ethernet 100 + Modem 56 (Modem Interface),
+/ControlSet002/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Default Monitor,
+/ControlSet002/Control/Class/{4D36E96E-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Default Monitor,
+/ControlSet002/Control/Class/{4D36E96F-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,PS/2 Compatible Mouse,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0001/DriverDesc,SZ,Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0002/DriverDesc,SZ,RAS Async Adapter,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0003/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0004/DriverDesc,SZ,WAN Miniport (L2TP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0005/DriverDesc,SZ,WAN Miniport (PPTP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0006/DriverDesc,SZ,WAN Miniport (PPPOE),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0007/DriverDesc,SZ,Direct Parallel,
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0008/DriverDesc,SZ,WAN Miniport (IP),
+/ControlSet002/Control/Class/{4D36E972-E325-11CE-BFC1-08002bE10318}/0009/DriverDesc,SZ,Packet Scheduler Miniport,
+/ControlSet002/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet002/Control/Class/{4D36E977-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Texas Instruments PCI-1225 CardBus Controller,
+/ControlSet002/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Communications Port,
+/ControlSet002/Control/Class/{4D36E978-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,ECP Printer Port,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0000/DriverDesc,SZ,Plug and Play Software Device Enumerator,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0001/DriverDesc,SZ,Microcode Update Device,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0002/DriverDesc,SZ,Volume Manager,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0003/DriverDesc,SZ,Microsoft ACPI-Compliant System,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0004/DriverDesc,SZ,PCI bus,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0005/DriverDesc,SZ,ACPI Sleep Button,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0006/DriverDesc,SZ,ACPI Lid,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0007/DriverDesc,SZ,ACPI Thermal Zone,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0008/DriverDesc,SZ,Microsoft Composite Battery,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0009/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0010/DriverDesc,SZ,ACPI Power Button,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0011/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to AGP Controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0012/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0013/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0014/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0015/DriverDesc,SZ,Intel 82371AB/EB PCI to ISA bridge (EIO mode),
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0016/DriverDesc,SZ,Intel 82443BX Pentium(r) II Processor to PCI Bridge,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0017/DriverDesc,SZ,ISAPNP Read Data Port,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0018/DriverDesc,SZ,Numeric data processor,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0019/DriverDesc,SZ,System board,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0020/DriverDesc,SZ,System CMOS/real time clock,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0021/DriverDesc,SZ,System speaker,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0022/DriverDesc,SZ,Direct memory access controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0023/DriverDesc,SZ,System timer,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0024/DriverDesc,SZ,Programmable interrupt controller,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0025/DriverDesc,SZ,Printer Port Logical Interface,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0026/DriverDesc,SZ,Terminal Server Device Redirector,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0027/DriverDesc,SZ,Terminal Server Mouse Driver,
+/ControlSet002/Control/Class/{4D36E97D-E325-11CE-BFC1-08002BE10318}/0028/DriverDesc,SZ,Terminal Server Keyboard Driver,
+/ControlSet002/Control/Class/{50127DC3-0F36-415E-A6CC-4CB3BE910B65}/0000/DriverDesc,SZ,Processor,
+/ControlSet002/Control/Class/{71A27CDD-812A-11D0-BEC7-08002BE2092F}/0000/DriverDesc,SZ,Generic volume,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0000/DriverDesc,SZ,Microsoft AC Adapter,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0001/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+/ControlSet002/Control/Class/{72631E54-78A4-11D0-BCF7-00AA00B7B32A}/0002/DriverDesc,SZ,Microsoft ACPI-Compliant Control Method Battery,
+### ComponentID
+/Microsoft/Active Setup/FeatureComponentID,KEY,,2004-08-19 22:33:07
+/Microsoft/Active Setup/FeatureComponentID/{08B0E5C0-4FCB-11CF-AAA5-00401C608500},SZ,JAVAVMJIT,
+/Microsoft/Active Setup/FeatureComponentID/{45ea75a0-a269-11d1-b5bf-0000f8051515},SZ,HELPCONT,
+/Microsoft/Active Setup/FeatureComponentID/{630b1da0-b465-11d1-9948-00c04f98bbc9},SZ,EXTRAPACK,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B30-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKJA,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B31-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKKO,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B32-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKPE,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B33-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKZHT,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B34-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKZHC,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B50-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKAD,
+/Microsoft/Active Setup/FeatureComponentID/{4f645220-306d-11d2-995d-00c04f98bbc9},SZ,MSVBSCRIPT,
+/Microsoft/Active Setup/FeatureComponentID/{10072CEC-8CC1-11D1-986E-00A0C955B42F},SZ,MSVML,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B35-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKTH,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B36-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKIW,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B37-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKVI,
+/Microsoft/Active Setup/FeatureComponentID/{76C19B38-F0C8-11cf-87CC-0020AFEECF20},SZ,IELPKAR,
+/Microsoft/Active Setup/FeatureComponentID/{44BBA848-CC51-11CF-AAFA-00AA00B6015C},SZ,MEDIAPLAYER,
+/Microsoft/Active Setup/FeatureComponentID/{22d6f312-b0f6-11d0-94ab-0080c74c7e95},SZ,MEDIAPLAYER,
+/Microsoft/Active Setup/FeatureComponentID/{47f67d00-9e55-11d1-baef-00c04fc2d130},SZ,AOLSUPP,
+/Microsoft/Active Setup/FeatureComponentID/{3af36230-a269-11d1-b5bf-0000f8051515},SZ,MOBILEPK_NTx86,
+/Microsoft/Active Setup/FeatureComponentID/{5A8D6EE0-3E18-11D0-821E-444553540000},SZ,ICW_NTx86,
+/Microsoft/Active Setup/FeatureComponentID/{3bf42070-b3b1-11d1-b5c5-0000f8051515},SZ,USP10,
+/Microsoft/Active Setup/FeatureComponentID/{89820200-ECBD-11cf-8B85-00AA005B4383},SZ,BASEIE40_NTx86,
+/Microsoft/Active Setup/FeatureComponentID/{283807B5-2C60-11D0-A31D-00AA00B92C03},SZ,DIRECTANIMATION,
+/Microsoft/Active Setup/FeatureComponentID/{9381D8F2-0288-11D0-9501-00AA00B911A5},SZ,TRIDATA,
+/Microsoft/Active Setup/FeatureComponentID/{7790769C-0471-11d2-AF11-00C04FA35D02},SZ,ADDRESSBOOK,
+/Microsoft/Active Setup/FeatureComponentID/{6BF52A52-394A-11D3-B153-00C04F79FAA6},SZ,WMPLAYER,
+/Microsoft/Active Setup/Installed Components/>{60B49E34-C7CC-11D0-8953-00A0C90347FF}MICROS/ComponentID,SZ,BRANDING.CAB,
+/Microsoft/Active Setup/Installed Components/{10072CEC-8CC1-11D1-986E-00A0C955B42F}/ComponentID,SZ,MSVML,
+/Microsoft/Active Setup/Installed Components/{2179C5D3-EBFF-11CF-B6FD-00AA00B4E220}/ComponentID,SZ,NetShow,
+/Microsoft/Active Setup/Installed Components/{22d6f312-b0f6-11d0-94ab-0080c74c7e95}/ComponentID,SZ,Microsoft Windows Media Player,
+/Microsoft/Active Setup/Installed Components/{283807B5-2C60-11D0-A31D-00AA00B92C03}/ComponentID,SZ,DirectAnimation,
+/Microsoft/Active Setup/Installed Components/{2C7339CF-2B09-4501-B3F3-F3508C9228ED}/ComponentID,SZ,Theme Component,
+/Microsoft/Active Setup/Installed Components/{36f8ec70-c29a-11d1-b5c7-0000f8051515}/ComponentID,SZ,TridataJava,
+/Microsoft/Active Setup/Installed Components/{3af36230-a269-11d1-b5bf-0000f8051515}/ComponentID,SZ,MobilePk,
+/Microsoft/Active Setup/Installed Components/{3bf42070-b3b1-11d1-b5c5-0000f8051515}/ComponentID,SZ,USP10,
+/Microsoft/Active Setup/Installed Components/{4278c270-a269-11d1-b5bf-0000f8051515}/ComponentID,SZ,AdvAuth,
+/Microsoft/Active Setup/Installed Components/{44BBA840-CC51-11CF-AAFA-00AA00B6015C}/ComponentID,SZ,MailNews,
+/Microsoft/Active Setup/Installed Components/{44BBA842-CC51-11CF-AAFA-00AA00B6015B}/ComponentID,SZ,NetMeeting,
+/Microsoft/Active Setup/Installed Components/{44BBA848-CC51-11CF-AAFA-00AA00B6015C}/ComponentID,SZ,activemovie,
+/Microsoft/Active Setup/Installed Components/{44BBA855-CC51-11CF-AAFA-00AA00B6015F}/ComponentID,SZ,DirectDrawEx,
+/Microsoft/Active Setup/Installed Components/{45ea75a0-a269-11d1-b5bf-0000f8051515}/ComponentID,SZ,HelpCont,
+/Microsoft/Active Setup/Installed Components/{4f216970-c90c-11d1-b5c7-0000f8051515}/ComponentID,SZ,DAJava,
+/Microsoft/Active Setup/Installed Components/{4f645220-306d-11d2-995d-00c04f98bbc9}/ComponentID,SZ,MSVBScript,
+/Microsoft/Active Setup/Installed Components/{5945c046-1e7d-11d1-bc44-00c04fd912be}/ComponentID,SZ,Messenger,
+/Microsoft/Active Setup/Installed Components/{5A8D6EE0-3E18-11D0-821E-444553540000}/ComponentID,SZ,ICW,
+/Microsoft/Active Setup/Installed Components/{5fd399c0-a70a-11d1-9948-00c04f98bbc9}/ComponentID,SZ,GenSetup,
+/Microsoft/Active Setup/Installed Components/{630b1da0-b465-11d1-9948-00c04f98bbc9}/ComponentID,SZ,ExtraPack,
+/Microsoft/Active Setup/Installed Components/{6BF52A52-394A-11d3-B153-00C04F79FAA6}/ComponentID,SZ,Microsoft Windows Media Player 8,
+/Microsoft/Active Setup/Installed Components/{6fab99d0-bab8-11d1-994a-00c04f98bbc9}/ComponentID,SZ,MSN_Auth,
+/Microsoft/Active Setup/Installed Components/{7790769C-0471-11d2-AF11-00C04FA35D02}/ComponentID,SZ,WAB,
+/Microsoft/Active Setup/Installed Components/{89820200-ECBD-11cf-8B85-00AA005B4340}/ComponentID,SZ,IE4Shell_NT,
+/Microsoft/Active Setup/Installed Components/{89820200-ECBD-11cf-8B85-00AA005B4383}/ComponentID,SZ,BASEIE40_W2K,
+/Microsoft/Active Setup/Installed Components/{9381D8F2-0288-11D0-9501-00AA00B911A5}/ComponentID,SZ,Tridata,
+/Microsoft/Active Setup/Installed Components/{ACC563BC-4266-43f0-B6ED-9D38C4202C7E}/ComponentID,SZ,IEACCESS,
+/Microsoft/Active Setup/Installed Components/{C9E9A340-D1F1-11D0-821E-444553540600}/ComponentID,SZ,Fontcore,
+/Microsoft/Active Setup/Installed Components/{CC2A9BA0-3BDD-11D0-821E-444553540000}/ComponentID,SZ,MSTASK,
+/Microsoft/Active Setup/Installed Components/{D27CDB6E-AE6D-11cf-96B8-444553540000}/ComponentID,SZ,Flash,
+/Microsoft/Active Setup/Installed Components/{de5aed00-a4bf-11d1-9948-00c04f98bbc9}/ComponentID,SZ,HTMLHelp,
+/Microsoft/Active Setup/Installed Components/{E92B03AB-B707-11d2-9CBD-0000F87A369E}/ComponentID,SZ,ADSI,
+
+### ProviderName
+/Microsoft/Windows/CurrentVersion/Applets/DeluxeCD/Providers/Provider0000/ProviderName,SZ,Tunes.com,
+/Microsoft/Windows/CurrentVersion/Applets/DeluxeCD/Providers/Provider0001/ProviderName,SZ,Music Boulevard,
+
+
+## Dieselbe Datei enthält die IP-Adresse und MAC-Adresse des Computers. Wie lauten 
+diese?

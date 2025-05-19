@@ -1,0 +1,541 @@
+tree -d /mnt/SCHARDT_001_008/
+├── Documents and Settings
+│   ├── All Users
+│   │   ├── Application Data
+│   │   │   └── Microsoft
+│   │   │       ├── Crypto
+│   │   │       │   ├── DSS
+│   │   │       │   │   └── MachineKeys
+│   │   │       │   └── RSA
+│   │   │       │       └── MachineKeys
+│   │   │       ├── Dr Watson
+│   │   │       ├── HTML Help
+│   │   │       ├── Media Index
+│   │   │       ├── Network
+│   │   │       │   └── Connections
+│   │   │       │       └── Pbk
+│   │   │       └── User Account Pictures
+│   │   │           └── Default Pictures
+│   │   ├── Desktop
+│   │   ├── Documents
+│   │   │   ├── My Music
+│   │   │   │   └── Sample Music
+│   │   │   └── My Pictures
+│   │   │       └── Sample Pictures
+│   │   ├── DRM
+│   │   ├── Favorites
+│   │   ├── Start Menu
+│   │   │   └── Programs
+│   │   │       ├── Accessories
+│   │   │       │   ├── Accessibility
+│   │   │       │   ├── Communications
+│   │   │       │   ├── Entertainment
+│   │   │       │   └── System Tools
+│   │   │       ├── Administrative Tools
+│   │   │       ├── Ethereal
+│   │   │       ├── Faber Toys
+│   │   │       ├── Games
+│   │   │       ├── GlobalSCAPE
+│   │   │       │   ├── CuteFTP
+│   │   │       │   └── CuteHTML
+│   │   │       ├── Look@LAN
+│   │   │       ├── mIRC
+│   │   │       ├── Powertoys for Windows XP
+│   │   │       └── Startup
+│   │   └── Templates
+│   ├── Default User
+│   │   ├── Application Data
+│   │   │   └── Microsoft
+│   │   │       ├── Internet Explorer
+│   │   │       └── SystemCertificates
+│   │   │           └── My
+│   │   │               ├── Certificates
+│   │   │               ├── CRLs
+│   │   │               └── CTLs
+│   │   ├── Cookies
+│   │   ├── Desktop
+│   │   ├── Favorites
+│   │   ├── Local Settings
+│   │   │   ├── Application Data
+│   │   │   ├── History
+│   │   │   │   └── History.IE5
+│   │   │   ├── Temp
+│   │   │   └── Temporary Internet Files
+│   │   │       └── Content.IE5
+│   │   │           ├── HYU1BON0
+│   │   │           ├── JIRVJY9X
+│   │   │           ├── PN0J7OQM
+│   │   │           └── PTV39NDQ
+│   │   ├── My Documents
+│   │   ├── NetHood
+│   │   ├── PrintHood
+│   │   ├── Recent
+│   │   ├── SendTo
+│   │   ├── Start Menu
+│   │   │   └── Programs
+│   │   │       ├── Accessories
+│   │   │       │   ├── Accessibility
+│   │   │       │   └── Entertainment
+│   │   │       └── Startup
+│   │   └── Templates
+│   ├── LocalService
+│   │   ├── Application Data
+│   │   │   └── Microsoft
+│   │   │       ├── Credentials
+│   │   │       │   └── S-1-5-19
+│   │   │       ├── Internet Explorer
+│   │   │       └── SystemCertificates
+│   │   │           └── My
+│   │   │               ├── Certificates
+│   │   │               ├── CRLs
+│   │   │               └── CTLs
+│   │   ├── Cookies
+│   │   └── Local Settings
+│   │       ├── Application Data
+│   │       │   └── Microsoft
+│   │       │       ├── Credentials
+│   │       │       │   └── S-1-5-19
+│   │       │       └── Windows
+│   │       ├── History
+│   │       │   └── History.IE5
+│   │       ├── Temp
+│   │       └── Temporary Internet Files
+│   │           └── Content.IE5
+│   │               ├── 0J47LBSH
+│   │               ├── 1W3Z0ESY
+│   │               ├── PDET39YN
+│   │               └── TFR9CXUT
+│   ├── Mr. Evil
+│   │   ├── Application Data
+│   │   │   ├── Ethereal
+│   │   │   ├── Identities
+│   │   │   │   └── {EF086998-1115-4ECD-9B13-9ADC067B4929}
+│   │   │   └── Microsoft
+│   │   │       ├── Address Book
+│   │   │       ├── Credentials
+│   │   │       │   └── S-1-5-21-2000478354-688789844-1708537768-1003
+│   │   │       ├── HTML Help
+│   │   │       ├── Internet Explorer
+│   │   │       │   └── Quick Launch
+│   │   │       ├── SystemCertificates
+│   │   │       │   └── My
+│   │   │       │       ├── Certificates
+│   │   │       │       ├── CRLs
+│   │   │       │       └── CTLs
+│   │   │       └── Windows
+│   │   │           └── Themes
+│   │   ├── Cookies
+│   │   ├── Desktop
+│   │   │   └── Tools
+│   │   ├── Favorites
+│   │   │   └── Links
+│   │   ├── Local Settings
+│   │   │   ├── Application Data
+│   │   │   │   ├── Identities
+│   │   │   │   │   └── {EF086998-1115-4ECD-9B13-9ADC067B4929}
+│   │   │   │   │       └── Microsoft
+│   │   │   │   │           ├── alt.2600
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.cardz
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.codez
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.crackz
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.hackerz
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.moderated
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.phreakz
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.2600.programz
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.binaries.hacking.beginner
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.binaries.hacking.computers
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.binaries.hacking.utilities
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.binaries.hacking.websites
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.dss.hack
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.hacking
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.nl.binaries.hack
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── alt.stupidity.hackers.malicious
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── Deleted Items
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hackers.malicious
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.beginner
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.computers
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.talentless.troll-haven
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.talentless.troll_haven
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.utilities
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── free.binaries.hacking.websites
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── Inbox
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           ├── Outbox
+│   │   │   │   │           │   └── deleted
+│   │   │   │   │           └── Outlook Express
+│   │   │   │   │               └── Outbox
+│   │   │   │   │                   └── deleted
+│   │   │   │   └── Microsoft
+│   │   │   │       ├── CD Burning
+│   │   │   │       ├── Credentials
+│   │   │   │       │   └── S-1-5-21-2000478354-688789844-1708537768-1003
+│   │   │   │       ├── Internet Explorer
+│   │   │   │       └── Windows
+│   │   │   ├── History
+│   │   │   │   └── History.IE5
+│   │   │   │       ├── MSHist012004081620040823
+│   │   │   │       ├── MSHist012004082520040826
+│   │   │   │       ├── MSHist012004082620040827
+│   │   │   │       └── MSHist012004082720040828
+│   │   │   ├── Temp
+│   │   │   │   └── Temporary Directory 1 for powertoysetup.zip
+│   │   │   └── Temporary Internet Files
+│   │   │       └── Content.IE5
+│   │   │           ├── HYU1BON0
+│   │   │           ├── JIRVJY9X
+│   │   │           ├── PN0J7OQM
+│   │   │           └── PTV39NDQ
+│   │   ├── My Documents
+│   │   │   ├── My Music
+│   │   │   └── My Pictures
+│   │   ├── NetHood
+│   │   │   ├── andrews (c) on Andrews-1
+│   │   │   ├── a on Andrews-1
+│   │   │   ├── CD Drive (F) on Andrews-1
+│   │   │   ├── d on Andrews-1
+│   │   │   ├── e on Andrews-1
+│   │   │   ├── Temp on m1200 (4.12.220.254)
+│   │   │   └── Temp on N-1a9odn6zxk4lq
+│   │   ├── PrintHood
+│   │   ├── Recent
+│   │   ├── SendTo
+│   │   ├── Start Menu
+│   │   │   └── Programs
+│   │   │       ├── 123 WASP
+│   │   │       ├── Accessories
+│   │   │       │   ├── Accessibility
+│   │   │       │   └── Entertainment
+│   │   │       ├── Agent Newsreader
+│   │   │       ├── Anonymizer Toolbar
+│   │   │       ├── Cain
+│   │   │       └── Startup
+│   │   └── Templates
+│   └── NetworkService
+│       ├── Application Data
+│       │   └── Microsoft
+│       │       ├── Credentials
+│       │       │   └── S-1-5-20
+│       │       ├── Internet Explorer
+│       │       └── SystemCertificates
+│       │           └── My
+│       │               ├── Certificates
+│       │               ├── CRLs
+│       │               └── CTLs
+│       ├── Cookies
+│       └── Local Settings
+│           ├── Application Data
+│           │   └── Microsoft
+│           │       ├── Credentials
+│           │       │   └── S-1-5-20
+│           │       └── Windows
+│           ├── History
+│           │   └── History.IE5
+│           ├── Temp
+│           └── Temporary Internet Files
+│               └── Content.IE5
+│                   ├── HYU1BON0
+│                   ├── JIRVJY9X
+│                   ├── PN0J7OQM
+│                   └── PTV39NDQ
+├── My Documents
+│   ├── ARCHIVE
+│   │   ├── Arj
+│   │   └── Pkzip
+│   ├── COMMANDS
+│   ├── DICTIONARIES
+│   ├── ENUMERATION
+│   │   ├── NT
+│   │   │   ├── Cerberus
+│   │   │   │   └── Reports
+│   │   │   ├── Cerberus Internet Scanner
+│   │   │   │   └── files
+│   │   │   │       └── Reports
+│   │   │   ├── Cerberus Webscan
+│   │   │   ├── DumpTools
+│   │   │   │   ├── Dumpevt
+│   │   │   │   ├── Dumpreg
+│   │   │   │   └── DumpSec
+│   │   │   ├── enum
+│   │   │   │   ├── enum readme file_files
+│   │   │   │   └── files
+│   │   │   ├── ferret suite
+│   │   │   ├── GetAcct
+│   │   │   ├── Legion
+│   │   │   ├── nbtdump
+│   │   │   ├── nbtscan
+│   │   │   │   └── files
+│   │   │   ├── Nt_admin_tools
+│   │   │   ├── ogre
+│   │   │   ├── SamSpade
+│   │   │   ├── Sid2user User2sid
+│   │   │   ├── Userdump
+│   │   │   ├── winfingerprint
+│   │   │   │   └── About Winfingerprint 2_files
+│   │   │   └── winfo
+│   │   │       ├── The winfo FAQ_files
+│   │   │       └── winfo_files
+│   │   └── Unix
+│   │       └── Nessus
+│   ├── EXPLOITATION
+│   │   ├── NT
+│   │   │   ├── Brutus
+│   │   │   ├── bsniff
+│   │   │   │   └── dump
+│   │   │   ├── fpipe
+│   │   │   ├── Get Admin
+│   │   │   ├── Hk
+│   │   │   ├── John
+│   │   │   ├── l0pht301
+│   │   │   ├── lsadump2
+│   │   │   │   └── LSADUMP2 Readme file_files
+│   │   │   ├── NAT
+│   │   │   ├── netbus
+│   │   │   ├── Netcat
+│   │   │   ├── Pwdump
+│   │   │   │   └── pwdump3_files
+│   │   │   ├── Scripts
+│   │   │   ├── sechole
+│   │   │   ├── SMBGrind Crack
+│   │   │   │   ├── Password User Lists
+│   │   │   │   └── utils
+│   │   │   ├── vnc
+│   │   │   │   ├── vncviewer
+│   │   │   │   └── winvnc
+│   │   │   └── WinVNC
+│   │   │       ├── Docs
+│   │   │       └── Windows
+│   │   └── Unix
+│   │       ├── dsniff 2.3
+│   │       │   ├── dsniff Frequently Asked Questions_files
+│   │       │   └── Switched networks lose security advantage due packet tool
+│   │       │       └── securitywatchfiles
+│   │       └── WinVNC
+│   │           ├── Docs
+│   │           ├── Linux
+│   │           └── Solaris Sparc
+│   ├── FOOTPRINTING
+│   │   ├── NT
+│   │   │   ├── Nmapnt
+│   │   │   │   ├── DRIVERS
+│   │   │   │   │   ├── Packet2K
+│   │   │   │   │   ├── Packet95
+│   │   │   │   │   └── PacketNT
+│   │   │   │   └── nmapNT-src
+│   │   │   │       ├── docs
+│   │   │   │       ├── libpcap-possiblymodified
+│   │   │   │       │   ├── bpf
+│   │   │   │       │   │   └── net
+│   │   │   │       │   ├── lbl
+│   │   │   │       │   ├── linux-include
+│   │   │   │       │   │   └── netinet
+│   │   │   │       │   └── SUNOS4
+│   │   │   │       ├── nmapfe
+│   │   │   │       └── nmapNT
+│   │   │   │           ├── NET
+│   │   │   │           ├── NETINET
+│   │   │   │           └── RPC
+│   │   │   ├── NSTPro2
+│   │   │   ├── superscan
+│   │   │   └── wspingpropack
+│   │   └── UNIX
+│   ├── MISCELLANEOUS
+│   │   ├── MSSQL
+│   │   └── PhoneSweep
+│   └── NOVELL
+│       ├── Nut18
+│       └── Pandora (use under Linux)
+├── Program Files
+│   ├── 123WASP
+│   ├── Accessories
+│   │   └── HyperTerminal
+│   ├── Agent
+│   │   ├── All_COD
+│   │   └── Data
+│   │       └── temp
+│   ├── Anonymizer
+│   │   ├── Core
+│   │   ├── thanks
+│   │   └── Toolbar
+│   │       └── Images
+│   ├── Cain
+│   │   ├── Driver
+│   │   └── Wordlists
+│   ├── CHAT
+│   ├── Common Files
+│   │   ├── Microsoft Shared
+│   │   │   ├── DAO
+│   │   │   ├── MSINFO
+│   │   │   ├── Speech
+│   │   │   │   └── 1033
+│   │   │   ├── Stationery
+│   │   │   ├── TEXTCONV
+│   │   │   ├── TRIEDIT
+│   │   │   ├── VGX
+│   │   │   ├── Web Folders
+│   │   │   └── Web Server Extensions
+│   │   │       └── 40
+│   │   │           ├── admcgi
+│   │   │           │   └── scripts
+│   │   │           ├── admisapi
+│   │   │           │   └── scripts
+│   │   │           ├── BIN
+│   │   │           │   └── 1033
+│   │   │           ├── bots
+│   │   │           │   └── vinavbar
+│   │   │           ├── isapi
+│   │   │           │   ├── _vti_adm
+│   │   │           │   └── _vti_aut
+│   │   │           ├── servsupp
+│   │   │           └── _vti_bin
+│   │   │               ├── _vti_adm
+│   │   │               └── _vti_aut
+│   │   ├── MSSoap
+│   │   │   └── Binaries
+│   │   │       └── Resources
+│   │   │           └── 1033
+│   │   ├── ODBC
+│   │   │   └── Data Sources
+│   │   ├── Services
+│   │   ├── SpeechEngines
+│   │   │   └── Microsoft
+│   │   │       ├── Lexicon
+│   │   │       │   └── 1033
+│   │   │       └── TTS
+│   │   │           └── 1033
+│   │   └── SYSTEM
+│   │       ├── ADO
+│   │       ├── MSADC
+│   │       └── ole db
+│   ├── ComPlus Applications
+│   ├── DirectX
+│   │   └── Setup
+│   ├── Ethereal
+│   │   ├── diameter
+│   │   ├── etc
+│   │   │   ├── gtk-2.0
+│   │   │   └── pango
+│   │   ├── help
+│   │   ├── lib
+│   │   │   ├── gtk-2.0
+│   │   │   │   └── 2.4.0
+│   │   │   │       ├── immodules
+│   │   │   │       └── loaders
+│   │   │   └── pango
+│   │   │       └── 1.4.0
+│   │   │           └── modules
+│   │   ├── plugins
+│   │   │   └── 0.10.6
+│   │   └── snmp
+│   │       └── mibs
+│   ├── Faber Toys
+│   │   └── Language
+│   ├── GlobalSCAPE
+│   │   └── CuteFTP
+│   │       └── CuteHTML
+│   ├── Internet Explorer
+│   │   ├── Connection Wizard
+│   │   ├── PLUGINS
+│   │   └── SIGNUP
+│   ├── Look@LAN
+│   │   ├── Report
+│   │   │   └── images
+│   │   └── sounds
+│   ├── Messenger
+│   ├── microsoft frontpage
+│   │   └── version3.0
+│   │       └── bin
+│   ├── mIRC
+│   │   ├── channels
+│   │   ├── download
+│   │   ├── logs
+│   │   └── sounds
+│   ├── Movie Maker
+│   │   └── MUI
+│   │       └── 0409
+│   ├── MSN
+│   │   └── MSNCoreFiles
+│   │       ├── 1033
+│   │       ├── Markets
+│   │       │   ├── 100
+│   │       │   ├── 14
+│   │       │   ├── 150
+│   │       │   ├── 163
+│   │       │   ├── 188
+│   │       │   ├── 220
+│   │       │   ├── 222
+│   │       │   ├── 238
+│   │       │   └── 36
+│   │       └── Setup
+│   ├── MSN Gaming Zone
+│   │   └── Windows
+│   ├── NetMeeting
+│   ├── Network Stumbler
+│   ├── Online Services
+│   │   └── MSN50
+│   │       └── OCX
+│   ├── Outlook Express
+│   ├── PLUS!
+│   │   └── THEMES
+│   ├── Uninstall Information
+│   │   ├── ConnectionConfiguration
+│   │   ├── IE40.Assoc
+│   │   ├── IE40.Browser
+│   │   ├── IE40.BrowseUI
+│   │   ├── IE40.Comctl32
+│   │   ├── IE40.Controls
+│   │   ├── IE40.Shdoc401
+│   │   ├── IE40.Shell
+│   │   ├── IE40.Shell32
+│   │   ├── IE40.UserAgent
+│   │   ├── IE4Shell95UserData
+│   │   ├── IEContentAdvisor.Assoc
+│   │   ├── IE.HKCUZoneInfo
+│   │   ├── IE.HKLMZoneInfo
+│   │   ├── IE UserData
+│   │   ├── mshtml.DllReg
+│   │   ├── mshtml.Install
+│   │   └── MSIEFTP
+│   ├── Whois
+│   ├── Windows Media Player
+│   │   ├── Skins
+│   │   └── Visualizations
+│   ├── Windows NT
+│   │   ├── Accessories
+│   │   └── Pinball
+│   ├── WindowsUpdate
+│   ├── WinPcap
+│   └── xerox
+│       └── nwwia
+├── RECYCLER
+│   └── S-1-5-21-2000478354-688789844-1708537768-1003
+├── System Volume Information
+├── Temp
+├── WIN98
+└── WINDOWS
+    i omit this info because  i guess standard os files are here ...
+
+819 directories

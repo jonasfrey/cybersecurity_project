@@ -1,0 +1,8 @@
+
+Outlook Express 6.00.2600.0000 (xpclient.010817-1148)
+CLEANUP Log started at 08/20/2004 16:13:55
+CLEANUP: 16:13:55 [db] C:\Documents and Settings\Mr. Evil\Local Settings\Application Data\Identities\{EF086998-1115-4ECD-9B13-9ADC067B4929}\Microsoft\Outlook Express
+CLEANUP: 16:13:56 [db] Starting Background Cleanup Cycle...
+CLEANUP: 16:13:57 [db]    Inbox.dbx, CompactAt: 20%, Wasted: 22%, File: 000142036, Records: 00000001, Allocated: 000011648, Freed: 00002660, Streams: 00010560, RemovedRead: 0, RemovedExpired: 0, JunkDeleted: 0
+CLEANUP: 16:13:57 [db]  Folders.dbx, CompactAt: 20%, Wasted: 25%, File: 000075204, Records: 00000007, Allocated: 000002456, Freed: 00000628, Streams: 00000000, RemovedRead: 0, RemovedExpired: 0, JunkDeleted: 0
+CLEANUP: 16:13:57 [db]  Offline.dbx, CompactAt: 20%, Wasted: 00%, File: 000009656, Records: 00000000, Allocated: 000000000, Freed: 00000000, Streams: 00000000, RemovedRead: 0, RemovedExpired: 0, JunkDeleted: 0
