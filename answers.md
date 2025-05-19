@@ -1,4 +1,10 @@
-# Github repository: https://github.com/jonasfrey/cybersecurity_project
+# Github repository
+In diesem projekt wurde mit einem github repository gearbetet. Die lokale entwicklungsumgebung Visual studio code macht eine textsuche mit CTRL+SHFIT+F deutlich leichter. 
+Dennoch wurden viele linux commands verwendet. 
+Die originaldatei der antwortendaten ist die markdown datei './answers.md' welche danach zu einem pdf konvertiert wurde. 
+Das github repo ist open-source und befindet sich hier:
+https://github.com/jonasfrey/cybersecurity_project
+
 
 ## 1. Wie lautet der Hashwert des Abbilds? Stimmen der Erfassungs- und Verifizierungs-
 Hashwert überein? 
